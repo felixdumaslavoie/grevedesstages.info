@@ -1,0 +1,1561 @@
+<!DOCTYPE html>
+<html lang="fr-CA" prefix="og: http://ogp.me/ns#" class="js">
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="./xmlrpc.php">
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url = '.'; var et_post_id = '223191'; function et_core_page_resource_fallback(a, b) { "undefined" === typeof b && (b = a.sheet.cssRules && 0 === a.sheet.cssRules.length); b && (a.onerror = null, a.onload = null, a.href ? a.href = et_site_url + "/?et_core_page_resource=" + a.id + et_post_id : a.src && (a.src = et_site_url + "/?et_core_page_resource=" + a.id + et_post_id)) }
+	</script>
+	<title>Historique - Grève des stages</title>
+
+	<!-- This site is optimized with the Yoast SEO plugin v9.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="./">
+	<meta property="og:locale" content="fr_CA">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="ACCUEIL - Grève des stages">
+	<meta property="og:url" content="./">
+	<meta property="og:site_name" content="Grève des stages">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="ACCUEIL - Grève des stages">
+	<meta name="twitter:site" content="@cute_travail">
+	<meta name="twitter:creator" content="@cute_travail">
+	<script
+		type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"./#website","url":"./","name":"Gr\u00e8ve des stages","potentialAction":{"@type":"SearchAction","target":"./?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+	<script
+		type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"./","sameAs":["https://www.facebook.com/campagnetravailetudiant/","https://www.instagram.com/campagnetravailetudiant/","https://www.youtube.com/channel/UCt7wZf2ODYNAS3bO5KYuJxA","https://twitter.com/cute_travail"],"@id":"./#organization","name":"Gr\u00e8veDesStages.info","logo":"./uploads/2019/01/Gr\u00e8ve-des-stages.jpg"}</script>
+	<!-- / Yoast SEO plugin. -->
+
+	<link rel="dns-prefetch" href="http://fonts.googleapis.com/">
+	<link rel="dns-prefetch" href="http://s.w.org/">
+	<link rel="alternate" type="application/rss+xml" title="Grève des stages » Flux"
+		href="./feed/">
+	<link rel="alternate" type="application/rss+xml" title="Grève des stages » Flux des commentaires"
+		href="./comments/feed/">
+	<link rel="alternate" type="text/calendar" title="Grève des stages » Flux iCal"
+		href="./events/?ical=1">
+	<script type="text/javascript">
+		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "http:\/\/www.grevedesstages.info\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.26" } };
+		!function (e, a, t) { var n, r, o, i = a.createElement("canvas"), p = i.getContext && i.getContext("2d"); function s(e, t) { var a = String.fromCharCode; p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, e), 0, 0); e = i.toDataURL(); return p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, t), 0, 0), e === i.toDataURL() } function c(e) { var t = a.createElement("script"); t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t) } for (o = Array("flag", "emoji"), t.supports = { everything: !0, everythingExceptFlag: !0 }, r = 0; r < o.length; r++)t.supports[o[r]] = function (e) { if (!p || !p.fillText) return !1; switch (p.textBaseline = "top", p.font = "600 32px Arial", e) { case "flag": return s([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) ? !1 : !s([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]); case "emoji": return !s([55358, 56760, 9792, 65039], [55358, 56760, 8203, 9792, 65039]) }return !1 }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function () { t.DOMReady = !0 }, t.supports.everything || (n = function () { t.readyCallback() }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function () { "complete" === a.readyState && t.readyCallback() })), (n = t.source || {}).concatemoji ? c(n.concatemoji) : n.wpemoji && n.twemoji && (c(n.twemoji), c(n.wpemoji))) }(window, document, window._wpemojiSettings);
+	</script>
+	<script src="index_files/wp-emoji-release.min.js" type="text/javascript" defer="defer"></script>
+	<meta content="Divi v.3.16.1" name="generator">
+	<style type="text/css">
+		img.wp-smiley,
+		img.emoji {
+			display: inline !important;
+			border: none !important;
+			box-shadow: none !important;
+			height: 1em !important;
+			width: 1em !important;
+			margin: 0 .07em !important;
+			vertical-align: -0.1em !important;
+			background: none !important;
+			padding: 0 !important;
+		}
+	</style>
+	<link rel="stylesheet" id="ecwd-popup-style-css" href="index_files/ecwd_popup.css" type="text/css" media="all">
+	<link rel="stylesheet" id="ecwd_font-awesome-css" href="index_files/font-awesome.css" type="text/css" media="all">
+	<link rel="stylesheet" id="ecwd-public-css" href="index_files/style_002.css" type="text/css" media="all">
+	<link rel="stylesheet" id="divi-style-css" href="index_files/style.css" type="text/css" media="all">
+	<link rel="stylesheet" id="et-builder-googlefonts-cached-css" href="index_files/css_002.css" type="text/css"
+		media="all">
+	<link rel="stylesheet" id="tf-compiled-options-ect-css" href="index_files/titan-framework-ect-css.css"
+		type="text/css" media="all">
+	<link rel="stylesheet" id="tf-google-webfont-monda-css" href="index_files/css.css" type="text/css" media="all">
+	<link rel="stylesheet" id="tf-google-webfont-open-sans-css" href="index_files/css_003.css" type="text/css"
+		media="all">
+	<link rel="stylesheet" id="fancybox-css" href="index_files/jquery.fancybox.1.3.23.min.css" type="text/css"
+		media="screen">
+	<link rel="stylesheet" id="dashicons-css" href="index_files/dashicons.min.css" type="text/css" media="all">
+	<script type="text/javascript" src="index_files/jquery.js"></script>
+	<script type="text/javascript" src="index_files/jquery-migrate.min.js"></script>
+	<!--<link rel="https://api.w.org/" href="./wp-json/">-->
+	<!--<link rel="EditURI" type="application/rsd+xml" title="RSD" href="./xmlrpc.php?rsd">-->
+	<!--<link rel="wlwmanifest" type="application/wlwmanifest+xml"
+		href="./wp-includes/wlwmanifest.xml">
+	<meta name="generator" content="WordPress 4.9.26">
+	<link rel="shortlink" href="./">
+	<link rel="alternate" type="application/json+oembed"
+		href="./wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.grevedesstages.info%2F">
+	<link rel="alternate" type="text/xml+oembed"
+		href="./wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.grevedesstages.info%2F&amp;format=xml">
+	Analytics by WP-Statistics v12.6 - https://wp-statistics.com/ -->
+	<!-- <meta name="tec-api-version" content="v1">
+	<meta name="tec-api-origin" content=".">
+	<link rel="https://theeventscalendar.com/" href="./wp-json/tribe/events/v1/">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">-->
+	<style type="text/css" id="custom-background-css">
+		body.custom-background {
+			background-color: #533f60;
+		}
+	</style>
+	<link rel="icon"
+		href="./uploads/2018/11/cropped-cropped-backx-copie-32x32.png"
+		sizes="32x32">
+	<link rel="icon"
+		href="./uploads/2018/11/cropped-cropped-backx-copie-192x192.png"
+		sizes="192x192">
+	<link rel="apple-touch-icon-precomposed"
+		href="./uploads/2018/11/cropped-cropped-backx-copie-180x180.png">
+	<meta name="msapplication-TileImage"
+		content="./uploads/2018/11/cropped-cropped-backx-copie-270x270.png">
+	<style id="et-core-unified-cached-inline-styles">
+		body {
+			color: #000000
+		}
+
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			color: #533f60
+		}
+
+		body {
+			line-height: 1.6em
+		}
+
+		.woocommerce #respond input#submit,
+		.woocommerce-page #respond input#submit,
+		.woocommerce #content input.button,
+		.woocommerce-page #content input.button,
+		.woocommerce-message,
+		.woocommerce-error,
+		.woocommerce-info {
+			background: #533f60 !important
+		}
+
+		#et_search_icon:hover,
+		.mobile_menu_bar:before,
+		.mobile_menu_bar:after,
+		.et_toggle_slide_menu:after,
+		.et-social-icon a:hover,
+		.et_pb_sum,
+		.et_pb_pricing li a,
+		.et_pb_pricing_table_button,
+		.et_overlay:before,
+		.entry-summary p.price ins,
+		.woocommerce div.product span.price,
+		.woocommerce-page div.product span.price,
+		.woocommerce #content div.product span.price,
+		.woocommerce-page #content div.product span.price,
+		.woocommerce div.product p.price,
+		.woocommerce-page div.product p.price,
+		.woocommerce #content div.product p.price,
+		.woocommerce-page #content div.product p.price,
+		.et_pb_member_social_links a:hover,
+		.woocommerce .star-rating span:before,
+		.woocommerce-page .star-rating span:before,
+		.et_pb_widget li a:hover,
+		.et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active,
+		.et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active,
+		.et_pb_gallery .et_pb_gallery_pagination ul li a.active,
+		.wp-pagenavi span.current,
+		.wp-pagenavi a:hover,
+		.nav-single a,
+		.posted_in a {
+			color: #533f60
+		}
+
+		.et_pb_contact_submit,
+		.et_password_protected_form .et_submit_button,
+		.et_pb_bg_layout_light .et_pb_newsletter_button,
+		.comment-reply-link,
+		.form-submit .et_pb_button,
+		.et_pb_bg_layout_light .et_pb_promo_button,
+		.et_pb_bg_layout_light .et_pb_more_button,
+		.woocommerce a.button.alt,
+		.woocommerce-page a.button.alt,
+		.woocommerce button.button.alt,
+		.woocommerce-page button.button.alt,
+		.woocommerce input.button.alt,
+		.woocommerce-page input.button.alt,
+		.woocommerce #respond input#submit.alt,
+		.woocommerce-page #respond input#submit.alt,
+		.woocommerce #content input.button.alt,
+		.woocommerce-page #content input.button.alt,
+		.woocommerce a.button,
+		.woocommerce-page a.button,
+		.woocommerce button.button,
+		.woocommerce-page button.button,
+		.woocommerce input.button,
+		.woocommerce-page input.button,
+		.et_pb_contact p input[type="checkbox"]:checked+label i:before,
+		.et_pb_bg_layout_light.et_pb_module.et_pb_button {
+			color: #533f60
+		}
+
+		.footer-widget h4 {
+			color: #533f60
+		}
+
+		.et-search-form,
+		.nav li ul,
+		.et_mobile_menu,
+		.footer-widget li:before,
+		.et_pb_pricing li:before,
+		blockquote {
+			border-color: #533f60
+		}
+
+		.et_pb_counter_amount,
+		.et_pb_featured_table .et_pb_pricing_heading,
+		.et_quote_content,
+		.et_link_content,
+		.et_audio_content,
+		.et_pb_post_slider.et_pb_bg_layout_dark,
+		.et_slide_in_menu_container,
+		.et_pb_contact p input[type="radio"]:checked+label i:before {
+			background-color: #533f60
+		}
+
+		a {
+			color: #533f60
+		}
+
+		#main-header,
+		#main-header .nav li ul,
+		.et-search-form,
+		#main-header .et_mobile_menu {
+			background-color: #533f60
+		}
+
+		.nav li ul {
+			border-color: #f2a9cb
+		}
+
+		#top-header,
+		#et-secondary-nav li ul {
+			background-color: #533f60
+		}
+
+		.et_header_style_centered .mobile_nav .select_page,
+		.et_header_style_split .mobile_nav .select_page,
+		.et_nav_text_color_light #top-menu>li>a,
+		.et_nav_text_color_dark #top-menu>li>a,
+		#top-menu a,
+		.et_mobile_menu li a,
+		.et_nav_text_color_light .et_mobile_menu li a,
+		.et_nav_text_color_dark .et_mobile_menu li a,
+		#et_search_icon:before,
+		.et_search_form_container input,
+		span.et_close_search_field:after,
+		#et-top-navigation .et-cart-info {
+			color: #ffffff
+		}
+
+		.et_search_form_container input::-moz-placeholder {
+			color: #ffffff
+		}
+
+		.et_search_form_container input::-webkit-input-placeholder {
+			color: #ffffff
+		}
+
+		.et_search_form_container input:-ms-input-placeholder {
+			color: #ffffff
+		}
+
+		#top-menu li a {
+			font-size: 12px
+		}
+
+		body.et_vertical_nav .container.et_search_form_container .et-search-form input {
+			font-size: 12px !important
+		}
+
+		#top-menu li a,
+		.et_search_form_container input {
+			font-weight: bold;
+			font-style: normal;
+			text-transform: uppercase;
+			text-decoration: none
+		}
+
+		.et_search_form_container input::-moz-placeholder {
+			font-weight: bold;
+			font-style: normal;
+			text-transform: uppercase;
+			text-decoration: none
+		}
+
+		.et_search_form_container input::-webkit-input-placeholder {
+			font-weight: bold;
+			font-style: normal;
+			text-transform: uppercase;
+			text-decoration: none
+		}
+
+		.et_search_form_container input:-ms-input-placeholder {
+			font-weight: bold;
+			font-style: normal;
+			text-transform: uppercase;
+			text-decoration: none
+		}
+
+		#top-menu li.current-menu-ancestor>a,
+		#top-menu li.current-menu-item>a,
+		.et_color_scheme_red #top-menu li.current-menu-ancestor>a,
+		.et_color_scheme_red #top-menu li.current-menu-item>a,
+		.et_color_scheme_pink #top-menu li.current-menu-ancestor>a,
+		.et_color_scheme_pink #top-menu li.current-menu-item>a,
+		.et_color_scheme_orange #top-menu li.current-menu-ancestor>a,
+		.et_color_scheme_orange #top-menu li.current-menu-item>a,
+		.et_color_scheme_green #top-menu li.current-menu-ancestor>a,
+		.et_color_scheme_green #top-menu li.current-menu-item>a {
+			color: #f2a9cb
+		}
+
+		#main-footer {
+			background-color: #533f60
+		}
+
+		#footer-widgets .footer-widget a,
+		#footer-widgets .footer-widget li a,
+		#footer-widgets .footer-widget li a:hover {
+			color: #ffffff
+		}
+
+		.footer-widget {
+			color: #ffffff
+		}
+
+		#main-footer .footer-widget h4 {
+			color: #533f60
+		}
+
+		.footer-widget li:before {
+			border-color: #533f60
+		}
+
+		#et-footer-nav .bottom-nav li.current-menu-item a {
+			color: #533f60
+		}
+
+		#footer-bottom {
+			background-color: #020202
+		}
+
+		#footer-info,
+		#footer-info a {
+			color: #ffffff
+		}
+
+		body .et_pb_button:after,
+		.woocommerce a.button.alt:after,
+		.woocommerce-page a.button.alt:after,
+		.woocommerce button.button.alt:after,
+		.woocommerce-page button.button.alt:after,
+		.woocommerce input.button.alt:after,
+		.woocommerce-page input.button.alt:after,
+		.woocommerce #respond input#submit.alt:after,
+		.woocommerce-page #respond input#submit.alt:after,
+		.woocommerce #content input.button.alt:after,
+		.woocommerce-page #content input.button.alt:after,
+		.woocommerce a.button:after,
+		.woocommerce-page a.button:after,
+		.woocommerce button.button:after,
+		.woocommerce-page button.button:after,
+		.woocommerce input.button:after,
+		.woocommerce-page input.button:after,
+		.woocommerce #respond input#submit:after,
+		.woocommerce-page #respond input#submit:after,
+		.woocommerce #content input.button:after,
+		.woocommerce-page #content input.button:after {
+			content: '#';
+			font-size: 20px
+		}
+
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		.et_quote_content blockquote p,
+		.et_pb_slide_description .et_pb_slide_title {
+			font-weight: bold;
+			font-style: normal;
+			text-transform: uppercase;
+			text-decoration: none
+		}
+
+		@media only screen and (min-width:981px) {
+			.et_pb_section {
+				padding: 0% 0
+			}
+
+			.et_pb_section.et_pb_section_first {
+				padding-top: inherit
+			}
+
+			.et_pb_fullwidth_section {
+				padding: 0
+			}
+
+			.et_pb_row {
+				padding: 1% 0
+			}
+
+			.et_header_style_left #et-top-navigation,
+			.et_header_style_split #et-top-navigation {
+				padding: 43px 0 0 0
+			}
+
+			.et_header_style_left #et-top-navigation nav>ul>li>a,
+			.et_header_style_split #et-top-navigation nav>ul>li>a {
+				padding-bottom: 43px
+			}
+
+			.et_header_style_split .centered-inline-logo-wrap {
+				width: 86px;
+				margin: -86px 0
+			}
+
+			.et_header_style_split .centered-inline-logo-wrap #logo {
+				max-height: 86px
+			}
+
+			.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo {
+				height: 86px
+			}
+
+			.et_header_style_centered #top-menu>li>a {
+				padding-bottom: 15px
+			}
+
+			.et_header_style_slide #et-top-navigation,
+			.et_header_style_fullscreen #et-top-navigation {
+				padding: 34px 0 34px 0 !important
+			}
+
+			.et_header_style_centered #main-header .logo_container {
+				height: 86px
+			}
+
+			.et_header_style_centered #logo {
+				max-height: 30%
+			}
+
+			.et_pb_svg_logo.et_header_style_centered #logo {
+				height: 30%
+			}
+
+			.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container,
+			.et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container {
+				height: 15.48px
+			}
+
+			.et_header_style_left .et-fixed-header #et-top-navigation,
+			.et_header_style_split .et-fixed-header #et-top-navigation {
+				padding: 67px 0 0 0
+			}
+
+			.et_header_style_left .et-fixed-header #et-top-navigation nav>ul>li>a,
+			.et_header_style_split .et-fixed-header #et-top-navigation nav>ul>li>a {
+				padding-bottom: 67px
+			}
+
+			.et_header_style_centered header#main-header.et-fixed-header .logo_container {
+				height: 134px
+			}
+
+			.et_header_style_split .et-fixed-header .centered-inline-logo-wrap {
+				width: 134px;
+				margin: -134px 0
+			}
+
+			.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo {
+				max-height: 134px
+			}
+
+			.et_pb_svg_logo.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo {
+				height: 134px
+			}
+
+			.et_header_style_slide .et-fixed-header #et-top-navigation,
+			.et_header_style_fullscreen .et-fixed-header #et-top-navigation {
+				padding: 58px 0 58px 0 !important
+			}
+
+			.et-fixed-header#top-header,
+			.et-fixed-header#top-header #et-secondary-nav li ul {
+				background-color: #df0054
+			}
+
+			.et-fixed-header#main-header,
+			.et-fixed-header#main-header .nav li ul,
+			.et-fixed-header .et-search-form {
+				background-color: #df0054
+			}
+
+			.et-fixed-header #top-menu li a {
+				font-size: 14px
+			}
+
+			.et-fixed-header #top-menu a,
+			.et-fixed-header #et_search_icon:before,
+			.et-fixed-header #et_top_search .et-search-form input,
+			.et-fixed-header .et_search_form_container input,
+			.et-fixed-header .et_close_search_field:after,
+			.et-fixed-header #et-top-navigation .et-cart-info {
+				color: #ffffff !important
+			}
+
+			.et-fixed-header .et_search_form_container input::-moz-placeholder {
+				color: #ffffff !important
+			}
+
+			.et-fixed-header .et_search_form_container input::-webkit-input-placeholder {
+				color: #ffffff !important
+			}
+
+			.et-fixed-header .et_search_form_container input:-ms-input-placeholder {
+				color: #ffffff !important
+			}
+
+			.et-fixed-header #top-menu li.current-menu-ancestor>a,
+			.et-fixed-header #top-menu li.current-menu-item>a {
+				color: #480032 !important
+			}
+		}
+
+		@media only screen and (min-width:1350px) {
+			.et_pb_row {
+				padding: 13px 0
+			}
+
+			.et_pb_section {
+				padding: 0px 0
+			}
+
+			.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper {
+				padding-top: 40px
+			}
+
+			.et_pb_section.et_pb_section_first {
+				padding-top: inherit
+			}
+
+			.et_pb_fullwidth_section {
+				padding: 0
+			}
+		}
+
+		@media only screen and (max-width:980px) {
+
+			body,
+			.et_pb_column_1_2 .et_quote_content blockquote cite,
+			.et_pb_column_1_2 .et_link_content a.et_link_main_url,
+			.et_pb_column_1_3 .et_quote_content blockquote cite,
+			.et_pb_column_3_8 .et_quote_content blockquote cite,
+			.et_pb_column_1_4 .et_quote_content blockquote cite,
+			.et_pb_blog_grid .et_quote_content blockquote cite,
+			.et_pb_column_1_3 .et_link_content a.et_link_main_url,
+			.et_pb_column_3_8 .et_link_content a.et_link_main_url,
+			.et_pb_column_1_4 .et_link_content a.et_link_main_url,
+			.et_pb_blog_grid .et_link_content a.et_link_main_url {
+				font-size: 16px
+			}
+
+			.et_pb_slider.et_pb_module .et_pb_slides .et_pb_slide_content,
+			.et_pb_best_value {
+				font-size: 18px
+			}
+
+			h1 {
+				font-size: 35px
+			}
+
+			h2,
+			.product .related h2,
+			.et_pb_column_1_2 .et_quote_content blockquote p {
+				font-size: 30px
+			}
+
+			h3 {
+				font-size: 25px
+			}
+
+			h4,
+			.et_pb_circle_counter h3,
+			.et_pb_number_counter h3,
+			.et_pb_column_1_3 .et_pb_post h2,
+			.et_pb_column_1_4 .et_pb_post h2,
+			.et_pb_blog_grid h2,
+			.et_pb_column_1_3 .et_quote_content blockquote p,
+			.et_pb_column_3_8 .et_quote_content blockquote p,
+			.et_pb_column_1_4 .et_quote_content blockquote p,
+			.et_pb_blog_grid .et_quote_content blockquote p,
+			.et_pb_column_1_3 .et_link_content h2,
+			.et_pb_column_3_8 .et_link_content h2,
+			.et_pb_column_1_4 .et_link_content h2,
+			.et_pb_blog_grid .et_link_content h2,
+			.et_pb_column_1_3 .et_audio_content h2,
+			.et_pb_column_3_8 .et_audio_content h2,
+			.et_pb_column_1_4 .et_audio_content h2,
+			.et_pb_blog_grid .et_audio_content h2,
+			.et_pb_column_3_8 .et_pb_audio_module_content h2,
+			.et_pb_column_1_3 .et_pb_audio_module_content h2,
+			.et_pb_gallery_grid .et_pb_gallery_item h3,
+			.et_pb_portfolio_grid .et_pb_portfolio_item h2,
+			.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2 {
+				font-size: 21px
+			}
+
+			.et_pb_slider.et_pb_module .et_pb_slides .et_pb_slide_description .et_pb_slide_title {
+				font-size: 53px
+			}
+
+			.woocommerce ul.products li.product h3,
+			.woocommerce-page ul.products li.product h3,
+			.et_pb_gallery_grid .et_pb_gallery_item h3,
+			.et_pb_portfolio_grid .et_pb_portfolio_item h2,
+			.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2,
+			.et_pb_column_1_4 .et_pb_audio_module_content h2 {
+				font-size: 18px
+			}
+
+			h5 {
+				font-size: 18px
+			}
+
+			h6 {
+				font-size: 16px
+			}
+
+			.et_pb_section {
+				padding: 0px 0
+			}
+
+			.et_pb_section.et_pb_section_first {
+				padding-top: inherit
+			}
+
+			.et_pb_section.et_pb_fullwidth_section {
+				padding: 0
+			}
+
+			.et_pb_row,
+			.et_pb_column .et_pb_row_inner {
+				padding: 11px 0
+			}
+		}
+
+		@media only screen and (max-width:767px) {
+
+			.et_pb_row,
+			.et_pb_column .et_pb_row_inner {
+				padding: 4px 0
+			}
+		}
+
+		body,
+		input,
+		textarea,
+		select {
+			font-family: 'Droid Sans', Helvetica, Arial, Lucida, sans-serif
+		}
+
+		#main-header,
+		#et-top-navigation {
+			font-family: 'Biryani', Helvetica, Arial, Lucida, sans-serif
+		}
+
+		.mobile_nav::before {
+			content: 'Menu';
+			vertical-align: top;
+			line-height: 2.2em;
+			color: white
+		}
+
+		.select_page {
+			visibility: hidden
+		}
+
+		hr.someClass {
+			background-color: #000080;
+			width: 20%;
+			height: 4px;
+			margin: 0 0 15px 0
+		}
+
+		h1:after {
+			content: ' ';
+			position: absolute;
+			display: block;
+			width: 60px;
+			margin: 0%;
+			border: 4px solid black;
+			border-radius: 4px;
+			-webkit-border-radius: 4px;
+			-moz-border-radius: 4px;
+			box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+			-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+			-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+			left: 50%;
+			transform: translateX(-50%)
+		}
+
+		#top-menu .current-menu-item a::before,
+		#top-menu .current_page_item a::before {
+			content: "";
+			position: absolute;
+			z-index: 2;
+			left: 0;
+			right: 0
+		}
+
+		#top-menu li a:before {
+			content: "";
+			position: absolute;
+			z-index: -2;
+			left: 0;
+			right: 100%;
+			bottom: 50%;
+			background: white;
+			height: 2px;
+			-webkit-transition-property: right;
+			transition-property: right;
+			-webkit-transition-duration: 0.3s;
+			transition-duration: 0.3s;
+			-webkit-transition-timing-function: ease-out;
+			transition-timing-function: ease-out
+		}
+
+		#top-menu li a:hover {
+			opacity: 1 !important
+		}
+
+		#top-menu li a:hover:before {
+			right: 0
+		}
+
+		#top-menu li li a:before {
+			bottom: 10%
+		}
+
+		header#main-header {
+			border-bottom: 0px solid black
+		}
+
+		div#top-header {
+			border-bottom: 0px solid black
+		}
+	</style>
+	<link id="ecwd-calendar-main-css" rel="stylesheet" type="text/css" href="index_files/calendar.css">
+	<style>
+		[data-columns]::before {
+			visibility: hidden;
+			position: absolute;
+			font-size: 1px;
+		}
+	</style>
+	<style id="fit-vids-style">
+		.fluid-width-video-wrapper {
+			width: 100%;
+			position: relative;
+			padding: 0;
+		}
+
+		.fluid-width-video-wrapper iframe,
+		.fluid-width-video-wrapper object,
+		.fluid-width-video-wrapper embed {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+	</style>
+</head>
+
+<body
+	class="home page-template-default page page-id-223191 custom-background tribe-js ecwd-theme-Divi et_color_scheme_pink et_button_custom_icon et_pb_button_helper_class et_fullwidth_nav et_fullwidth_secondary_nav et_non_fixed_nav et_show_nav et_hide_primary_logo et_hide_fixed_logo et_hide_mobile_logo et_pb_gutter linux et_pb_gutters2 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns1 et_header_style_centered et_pb_pagebuilder_layout et_right_sidebar et_divi_theme et-db et_minified_js et_minified_css gecko"
+	style="overflow-x: hidden;">
+	<div id="page-container" style="overflow-y: hidden;">
+
+
+
+		<header id="main-header" data-height-onload="49" data-height-loaded="true" data-fixed-height-onload="49">
+			<div class="container clearfix et_menu_container">
+				<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="/">
+						<img src="index_files/logo.png" alt="Grève des stages" id="logo" data-height-percentage="30"
+							data-actual-width="470" data-actual-height="163">
+					</a>
+				</div>
+				<div id="et-top-navigation" data-height="86" data-fixed-height="134">
+					<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav">
+							<li id="menu-item-223962"
+								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item page-item-223191 menu-item-223962">
+								<a href="./index">Accueil</a></li>
+							<li id="menu-item-224082"
+								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-224082">
+								<a href="./ggi-2019">GGI 2019</a>
+								<ul class="sub-menu">
+									<li id="menu-item-224263"
+										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224263">
+										<a href="./ag-de-greve-2019">Assemblées générales
+											de grève</a></li>
+									<li id="menu-item-224330"
+										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224330">
+										<a href="./outils-de-greve">Comment faire la
+											grève de son stage ?</a></li>
+									<li id="menu-item-215"
+										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215">
+										<a
+											href="./plan-daction-pour-la-remuneration-des-stages">Plan
+											d’action</a></li>
+									<li id="menu-item-224253"
+										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224253">
+										<a href="./quest-ce-quune-ggi">Qu’est-ce qu’une
+											GGI ?</a></li>
+								</ul>
+							</li>
+							<li id="menu-item-223339"
+								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223339"><a
+									href="./coalitions-regionales">Coalitions
+									régionales</a></li>
+							<li id="menu-item-31"
+								class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a
+									href="./questions-et-reponses">Questions et
+									réponses</a></li>
+							<li id="menu-item-224635"
+								class="menu-item current-menu-item current_page_item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-224635">
+								<a href="./historique">Historique</a>
+								<ul class="sub-menu">
+									<li id="menu-item-223601"
+										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223601">
+										<a href="./novembre-2018">Novembre 2018</a></li>
+								</ul>
+							</li>
+							<li id="menu-item-290"
+								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-290">
+								<a href="./materiel">Matériel</a>
+								<ul class="sub-menu">
+									<li id="menu-item-225219"
+										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225219">
+										<a href="./donnees">Recherche</a></li>
+								</ul>
+							</li>
+							<li id="menu-item-223992"
+								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223992 et-hover">
+								<a href="./appuis">Appuis</a></li>
+							<li id="menu-item-224331"
+								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224331"><a
+									href="./medias">Médias</a></li>
+						</ul>
+					</nav>
+
+
+
+
+					<div id="et_mobile_nav_menu">
+						<div class="mobile_nav closed">
+							<span class="select_page">Select Page</span>
+							<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+							<ul id="mobile_menu" class="et_mobile_menu">
+								<li id="menu-item-223962"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item page-item-223191 menu-item-223962 et_first_mobile_item">
+									<a href="./index">Accueil</a></li>
+								<li id="menu-item-224082"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-224082">
+									<a href="./ggi-2019">GGI 2019</a>
+									<ul class="sub-menu">
+										<li id="menu-item-224263"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224263">
+											<a href="./ag-de-greve-2019">Assemblées
+												générales de grève</a></li>
+										<li id="menu-item-224330"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224330">
+											<a href="./outils-de-greve">Comment faire la
+												grève de son stage ?</a></li>
+										<li id="menu-item-215"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215">
+											<a
+												href="./plan-daction-pour-la-remuneration-des-stages">Plan
+												d’action</a></li>
+										<li id="menu-item-224253"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224253">
+											<a href="./quest-ce-quune-ggi">Qu’est-ce
+												qu’une GGI ?</a></li>
+									</ul>
+								</li>
+								<li id="menu-item-223339"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223339"><a
+										href="./coalitions-regionales">Coalitions
+										régionales</a></li>
+								<li id="menu-item-31"
+									class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a
+										href="./questions-et-reponses">Questions et
+										réponses</a></li>
+								<li id="menu-item-224635"
+									class="menu-item current-menu-item current_page_item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-224635">
+									<a href="./historique">Historique</a>
+									<ul class="sub-menu">
+										<li id="menu-item-223601"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223601">
+											<a href="./novembre-2018">Novembre 2018</a>
+										</li>
+									</ul>
+								</li>
+								<li id="menu-item-290"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-290">
+									<a href="./materiel">Matériel</a>
+									<ul class="sub-menu">
+										<li id="menu-item-225219"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225219">
+											<a href="./donnees">Recherche</a></li>
+									</ul>
+								</li>
+								<li id="menu-item-223992"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223992"><a
+										href="./appuis">Appuis</a></li>
+								<li id="menu-item-224331"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224331"><a
+										href="./medias">Médias</a></li>
+							</ul>
+						</div>
+					</div>
+				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<!--<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="./">
+						<input type="search" class="et-search-field" placeholder="Search …" name="s"
+							title="Search for:">
+					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>-->
+		</header> <!-- #main-header -->
+
+
+
+		<!--REMPLACER JUSQU'ICI-->
+		<div id="et-main-area">
+
+			<div id="main-content">
+
+
+
+				<article id="post-224009" class="post-224009 page type-page status-publish hentry">
+
+
+					<div class="entry-content">
+						<div id="et-boc" class="et-boc">
+
+							<div class="et_builder_inner_content et_pb_gutters3">
+								<div class="et_pb_section et_pb_section_0 et_section_regular">
+
+
+
+
+									<div class="et_pb_row et_pb_row_0">
+										<div
+											class="et_pb_column et_pb_column_4_4 et_pb_column_0    et_pb_css_mix_blend_mode_passthrough et-last-child">
+
+
+											<div
+												class="et_pb_module et_pb_text et_pb_text_0 et_pb_bg_layout_light  et_pb_text_align_left">
+
+
+												<div class="et_pb_text_inner">
+													<h1
+														style="text-align: center; font-family: 'Antic Slab','Georgia','Times New Roman',serif; font-size: 48px;">
+														<span style="color: #df0054;">Historique</span></h1>
+												</div>
+											</div> <!-- .et_pb_text -->
+											<div
+												class="et_pb_module et_pb_text et_pb_text_1 et_pb_bg_layout_light  et_pb_text_align_center">
+
+
+												<div class="et_pb_text_inner">
+													<h3 style="text-align: center;"><span
+															style="color: #533f60;">Escalade des moyens de
+															pression</span></h3>
+													<p style="text-align: center;"><span style="color: #000000;">Depuis
+															près
+															de trois ans maintenant, des stagiaires et des étudiant.es
+															s’organisent
+															dans les campus afin d’imposer la rémunération des stages
+															comme enjeu
+															incontournable et central au mouvement étudiant. Des
+															représentant.es du
+															gouvernement et les administrations collégiale et
+															universitaire ont été
+															interpellé.es, des lettres publiques ont été diffusées, en
+															plus des
+															nombreuses actions, journées de grèves ponctuelles et
+															rassemblements qui
+															se sont déroulés dans plusieurs régions. Face au refus du
+															gouvernement
+															de mettre en place un programme pour la rémunération de tous
+															les stages à
+															tous les niveaux d’études, la grève générale illimitée des
+															cours et des
+															stages s’organise. Par le passé, aucun gain n’a été fait
+															dans le
+															mouvement étudiant sans un mouvement de grève massif.</span>
+													</p>
+												</div>
+											</div> <!-- .et_pb_text -->
+										</div> <!-- .et_pb_column -->
+
+
+									</div> <!-- .et_pb_row -->
+									<div class="et_pb_row et_pb_row_1 et_pb_row_1-4_3-4">
+										<div
+											class="et_pb_column et_pb_column_1_4 et_pb_column_1    et_pb_css_mix_blend_mode_passthrough">
+
+
+											<div
+												class="et_pb_with_border et_pb_module et_pb_text et_pb_text_2 et_pb_bg_layout_light  et_pb_text_align_left">
+
+
+												<div class="et_pb_text_inner">
+													<h2></h2>
+													<h2 style="text-align: right;">Automne<br>
+														2016</h2>
+													<p>&nbsp;</p>
+													<p>&nbsp;</p>
+													<p>&nbsp;</p>
+													<p>&nbsp;</p>
+													<p>&nbsp;</p>
+												</div>
+											</div> <!-- .et_pb_text -->
+										</div> <!-- .et_pb_column -->
+										<div
+											class="et_pb_column et_pb_column_3_4 et_pb_column_2    et_pb_css_mix_blend_mode_passthrough et-last-child">
+
+
+											<div
+												class="et_pb_with_border et_pb_module et_pb_text et_pb_text_3 et_pb_bg_layout_light  et_pb_text_align_justified">
+
+
+												<div class="et_pb_text_inner">
+													<p>4 septembre :&nbsp;Début de la <strong>grève des doctorant.es en
+															psychologie</strong> pour la rémunération de l’internat</p>
+													<p>24 septembre :&nbsp;Mobilisation en marge du 4e <strong>Forum des
+															idées du Parti Libéral du Québec</strong>, à Longueuil.<br>
+														Action-bannières pour la rémunération de tous les stages.</p>
+													<p>2 novembre :&nbsp;Journée pancanadienne de mobilisation contre
+														les frais de scolarité.<br>
+														<strong>Rassemblement</strong> pour la reconnaissance du travail
+														étudiant&nbsp;devant les bureaux du Ministère de l’emploi et de
+														la
+														solidarité sociale à Montréal
+													</p>
+													<p>21 novembre :&nbsp;Action de <strong>perturbation lors d’une
+															conférence d’Hélène David</strong>, ministre de
+														l’Enseignement supérieure&nbsp;au Cégep Marie-Victorin</p>
+													<p>21 décembre&nbsp;:&nbsp;Gain d’une <strong>compensation
+															financière pour l’internat en psychologie.&nbsp;</strong>Fin
+														de la grève des doctorant.es en psychologie</p>
+												</div>
+											</div> <!-- .et_pb_text -->
+										</div> <!-- .et_pb_column -->
+
+
+									</div> <!-- .et_pb_row -->
+									<div class="et_pb_row et_pb_row_2 et_pb_row_1-4_3-4">
+										<div
+											class="et_pb_column et_pb_column_1_4 et_pb_column_3    et_pb_css_mix_blend_mode_passthrough">
+
+
+											<div
+												class="et_pb_with_border et_pb_module et_pb_text et_pb_text_4 et_pb_bg_layout_light  et_pb_text_align_left">
+
+
+												<div class="et_pb_text_inner">
+													<h2 style="text-align: right;"><span style="color: #533f60;"><br>
+															Hiver<br>
+															2017</span></h2>
+												</div>
+											</div> <!-- .et_pb_text -->
+										</div> <!-- .et_pb_column -->
+										<div
+											class="et_pb_column et_pb_column_3_4 et_pb_column_4    et_pb_css_mix_blend_mode_passthrough et-last-child">
+
+
+											<div
+												class="et_pb_with_border et_pb_module et_pb_text et_pb_text_5 et_pb_bg_layout_light  et_pb_text_align_justified">
+
+
+												<div class="et_pb_text_inner">
+													<p><span style="text-decoration: underline;"><br>
+														</span>16 février :&nbsp;Manifestation en marge du
+														<strong>Rendez-vous national sur la
+															main-d’oeuvre</strong>&nbsp;à Québec<br>
+														30 000 étudiant.es et stagiaires en grève –&nbsp;Sherbrooke,
+														Gatineau, Saint-Jérôme, Québec, Montréal</p>
+													<p>13 mars :&nbsp;Rassemblement d’<strong>accueil à la visite de la
+															Ministre</strong> de l’Enseignement supérieur, Hélène
+														David<br>
+														Université du Québec en Outaouais, Gatineau</p>
+													<p>3 juin :&nbsp;Fondation de la <strong>Coalition
+															montréalaise</strong> pour la rémunération des stages</p>
+												</div>
+											</div> <!-- .et_pb_text -->
+										</div> <!-- .et_pb_column -->
+
+
+									</div> <!-- .et_pb_row -->
+									<div class="et_pb_row et_pb_row_3 et_pb_row_1-4_3-4">
+										<div
+											class="et_pb_column et_pb_column_1_4 et_pb_column_5    et_pb_css_mix_blend_mode_passthrough">
+
+
+											<div
+												class="et_pb_with_border et_pb_module et_pb_text et_pb_text_6 et_pb_bg_layout_light  et_pb_text_align_left">
+
+
+												<div class="et_pb_text_inner">
+													<h2 style="text-align: right;"><span style="color: #533f60;"><br>
+															Automne </span><br>
+														<span style="color: #533f60;">2017</span>
+													</h2>
+												</div>
+											</div> <!-- .et_pb_text -->
+										</div> <!-- .et_pb_column -->
+										<div
+											class="et_pb_column et_pb_column_3_4 et_pb_column_6    et_pb_css_mix_blend_mode_passthrough et-last-child">
+
+
+											<div
+												class="et_pb_with_border et_pb_module et_pb_text et_pb_text_7 et_pb_bg_layout_light  et_pb_text_align_justified">
+
+
+												<div class="et_pb_text_inner">
+													<p><span style="text-decoration: underline;"><br>
+														</span>23 septembre :&nbsp;<strong>Rassemblement
+															stratégique</strong> et journée de réflexion sur la
+														rémunération des stages<br>
+														Université du Québec en Outaouais</p>
+													<p>4 novembre :&nbsp;Fondation de la <strong>Coalition
+															sherbrookoise</strong> pour la rémunération des stages</p>
+													<p>10 novembre :&nbsp;Journée internationale des stagiaires.<br>
+														Lancement de la <strong>déclaration nord-américaine</strong>
+														«&nbsp;<a
+															href="http://www.globalinternsday.org/fr/la-declaration/"
+															target="_blank" rel="noopener"><span
+																style="color: #692da6;">Assez l’exploitation des
+																stagiaires!</span>&nbsp;</a>»<br>
+														<strong>Grand rassemblement</strong> à Montréal et
+														<strong>manifestation</strong> à Moncton<br>
+														20 000 étudiant.es et stagiaires en grève – Gatineau et Montréal
+													</p>
+												</div>
+											</div> <!-- .et_pb_text -->
+										</div> <!-- .et_pb_column -->
+
+
+									</div> <!-- .et_pb_row -->
+									<div class="et_pb_row et_pb_row_4 et_pb_row_1-4_3-4">
+										<div
+											class="et_pb_column et_pb_column_1_4 et_pb_column_7    et_pb_css_mix_blend_mode_passthrough">
+
+
+											<div
+												class="et_pb_with_border et_pb_module et_pb_text et_pb_text_8 et_pb_bg_layout_light  et_pb_text_align_left">
+
+
+												<div class="et_pb_text_inner">
+													<h2 style="text-align: right;"><span style="color: #533f60;"><br>
+															Hiver </span><br>
+														<span style="color: #533f60;">2018</span>
+													</h2>
+												</div>
+											</div> <!-- .et_pb_text -->
+										</div> <!-- .et_pb_column -->
+										<div
+											class="et_pb_column et_pb_column_3_4 et_pb_column_8    et_pb_css_mix_blend_mode_passthrough et-last-child">
+
+
+											<div
+												class="et_pb_with_border et_pb_module et_pb_text et_pb_text_9 et_pb_bg_layout_light  et_pb_text_align_justified">
+
+
+												<div class="et_pb_text_inner">
+													<p><span style="text-decoration: underline;"><br>
+														</span>20 février :&nbsp;<em>Global intern strike</em>&nbsp;–
+														Grève mondiale des stagiaires<br>
+														<strong>Actions, occupations, marches, blocages</strong> dans
+														plusieurs régions.<br>
+														15 000 étudiant.es et stagiaires en grève –&nbsp;Gatineau,
+														Trois-Rivières, Laval, Sherbrooke, Montréal, Moncton
+													</p>
+													<p>8 mars :&nbsp;Grève mondiale des femmes<br>
+														<strong>Manifestation à Montréal</strong> contre les violences
+														sexuelles et l’exploitation à l’école et dans les stages<br>
+														30 000 étudiant.es et stagiaires en grève – Trois-Rivières,
+														Sherbrooke, Montréal
+													</p>
+													<p>20 mars :&nbsp;<strong>Grève</strong> pour le positionnement du
+														Conseil d’administration de l’UQAM pour la rémunération des
+														stages<br>
+														10 000 étudiant.es et stagiaires en grève à UQAM</p>
+													<p>22 mars :&nbsp;<strong>Manifestation à Québec</strong> devant
+														l’Assemblée nationale<br>
+														10 000 étudiant.es et stagiaires en grève – Trois-Rivières,
+														Sherbrooke, Montréal</p>
+													<p>28 mars :&nbsp;Annonce d’une <strong>compensation pour le stage
+															final en enseignement</strong></p>
+													<p>5 mai :&nbsp;Action de perturbation lors des <strong>États
+															généraux sur l’enseignement supérieur</strong><br>
+														Université du Québec à Montréal</p>
+													<p>28 mai :&nbsp;Fondation de la <strong>Coalition
+															outaouaise</strong> pour la rémunération des stages</p>
+												</div>
+											</div> <!-- .et_pb_text -->
+										</div> <!-- .et_pb_column -->
+
+
+									</div> <!-- .et_pb_row -->
+									<div class="et_pb_row et_pb_row_5 et_pb_row_1-4_3-4">
+										<div
+											class="et_pb_column et_pb_column_1_4 et_pb_column_9    et_pb_css_mix_blend_mode_passthrough">
+
+
+											<div
+												class="et_pb_with_border et_pb_module et_pb_text et_pb_text_10 et_pb_bg_layout_light  et_pb_text_align_left">
+
+
+												<div class="et_pb_text_inner">
+													<h2 style="text-align: right;"><span style="color: #522f60;"><br>
+															Automne<br>
+															2018</span></h2>
+												</div>
+											</div> <!-- .et_pb_text -->
+										</div> <!-- .et_pb_column -->
+										<div
+											class="et_pb_column et_pb_column_3_4 et_pb_column_10    et_pb_css_mix_blend_mode_passthrough et-last-child">
+
+
+											<div
+												class="et_pb_with_border et_pb_module et_pb_text et_pb_text_11 et_pb_bg_layout_light  et_pb_text_align_justified">
+
+
+												<div class="et_pb_text_inner">
+													<p>&nbsp;</p>
+													<p>Rentrée : <strong>Lancement d’un ultimatum</strong> <span
+															style="font-weight: 400;">au
+															gouvernement de déclencher la grève générale illimitée des
+															cours et des
+															stages à l’hiver 2019 advenant son refus de mettre en place
+															un
+															programme de rémunération pour tous les stages à tous les
+															niveaux
+															d’étude.</span></p>
+													<p>18 au 24 novembre : <strong>Semaine de grève</strong>&nbsp;des
+														cours
+														et des stages menée, à son plus haut point, par 58 000
+														étudiant.es de 7
+														régions différentes – Outaouais, Estrie, Mauricie, Québec,
+														Montréal,
+														Laurentides, Rimouski<br>
+														<strong>Tournées de milieux de stage, manifestations
+															régionales</strong>, ateliers-discussions et conférences,
+														etc.
+													</p>
+												</div>
+											</div> <!-- .et_pb_text -->
+										</div> <!-- .et_pb_column -->
+
+
+									</div> <!-- .et_pb_row -->
+									<div class="et_pb_row et_pb_row_6 et_pb_row_1-4_3-4">
+										<div
+											class="et_pb_column et_pb_column_1_4 et_pb_column_11    et_pb_css_mix_blend_mode_passthrough">
+
+
+											<div
+												class="et_pb_with_border et_pb_module et_pb_text et_pb_text_12 et_pb_bg_layout_light  et_pb_text_align_left">
+
+
+												<div class="et_pb_text_inner">
+													<h2 style="text-align: right;"><span style="color: #533f60;"><br>
+															Hiver</span><br>
+														<span style="color: #533f60;">2019</span>
+													</h2>
+												</div>
+											</div> <!-- .et_pb_text -->
+										</div> <!-- .et_pb_column -->
+										<div
+											class="et_pb_column et_pb_column_3_4 et_pb_column_12    et_pb_css_mix_blend_mode_passthrough et-last-child">
+
+
+											<div
+												class="et_pb_with_border et_pb_module et_pb_text et_pb_text_13 et_pb_bg_layout_light  et_pb_text_align_justified">
+
+
+												<div class="et_pb_text_inner">
+													<p>&nbsp;</p>
+													<p>11 janvier : Fondation de la <strong>Coalition
+															laurentienne</strong> pour la rémunération des stages</p>
+													<p>13 janvier : Premier mandat de <strong>grève générale
+															illimitée</strong><br>
+														Adopté par l’Association des étudiantes sages-femmes du Québec
+													</p>
+													<p>23 janvier : <strong>Occupation du bureau du ministre de
+															l’Éducation</strong>, Jean-François Roberge, à Québec</p>
+													<p>20 février : <em>Global Intern’s Strike</em> et Journée pour la
+														justice sociale<br>
+														<strong>Actions et manifestations dans plusieurs
+															régions</strong><br>
+														19 000 étudiant.es et stagiaires en grève à Gatineau, Montréal,
+														Québec et Sherbrooke
+													</p>
+													<p><strong>…</strong></p>
+												</div>
+											</div> <!-- .et_pb_text -->
+										</div> <!-- .et_pb_column -->
+
+
+									</div> <!-- .et_pb_row -->
+
+
+								</div> <!-- .et_pb_section -->
+							</div>
+
+						</div>
+					</div> <!-- .entry-content -->
+
+
+				</article> <!-- .et_pb_post -->
+
+
+
+			</div> <!-- #main-content -->
+
+
+			<footer id="main-footer">
+
+
+
+				<div id="footer-bottom">
+					<div class="container clearfix">
+						<div id="footer-info">Questions, commentaires, ajouts, modifs? N'hésitez pas à nous écrire au <a
+								href="mailto:cute.travail@gmail.com">cute.travail@gmail.com</a></div>
+					</div> <!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<script>
+		(function (body) {
+			'use strict';
+			body.className = body.className.replace(/\btribe-no-js\b/, 'tribe-js');
+		})(document.body);
+	</script>
+	<script type="text/javascript">
+	</script>
+	<script> /* <![CDATA[ */var tribe_l10n_datatables = { "aria": { "sort_ascending": ": activer pour trier la colonne ascendante", "sort_descending": ": activer pour trier la colonne descendante" }, "length_menu": "Afficher les saisies _MENU_", "empty_table": "Aucune donn\u00e9e disponible sur le tableau", "info": "Affichant_START_ \u00e0 _END_ du _TOTAL_ des saisies", "info_empty": "Affichant 0 \u00e0 0 de 0 saisies", "info_filtered": "(filtr\u00e9 \u00e0 partir du total des saisies _MAX_ )", "zero_records": "Aucun enregistrement correspondant trouv\u00e9", "search": "Rechercher :", "all_selected_text": "Tous les \u00e9l\u00e9ments de cette page ont \u00e9t\u00e9 s\u00e9lectionn\u00e9s. ", "select_all_link": "S\u00e9lectionner toutes les pages", "clear_selection": "Effacer la s\u00e9lection.", "pagination": { "all": "Tout", "next": "Suivant", "previous": "Pr\u00e9c\u00e9dent" }, "select": { "rows": { "0": "", "_": ": a s\u00e9lectionn\u00e9 %d rang\u00e9es", "1": ": a s\u00e9lectionn\u00e9 une rang\u00e9e" } }, "datepicker": { "dayNames": ["dimanche", "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"], "dayNamesShort": ["dim", "lun", "mar", "mer", "jeu", "ven", "sam"], "dayNamesMin": ["D", "L", "M", "M", "J", "V", "S"], "monthNames": ["janvier", "f\u00e9vrier", "mars", "avril", "mai", "juin", "juillet", "ao\u00fbt", "septembre", "octobre", "novembre", "d\u00e9cembre"], "monthNamesShort": ["janvier", "f\u00e9vrier", "mars", "avril", "mai", "juin", "juillet", "ao\u00fbt", "septembre", "octobre", "novembre", "d\u00e9cembre"], "monthNamesMin": ["Jan", "F\u00e9v", "Mar", "Avr", "Mai", "Juin", "Juil", "Ao\u00fbt", "Sep", "Oct", "Nov", "D\u00e9c"], "nextText": "Suivant", "prevText": "Pr\u00e9c\u00e9dent", "currentText": "Aujourd&#039;hui ", "closeText": "Termin\u00e9", "today": "Aujourd&#039;hui ", "clear": "Effac\u00e9" } }; var tribe_system_info = { "sysinfo_optin_nonce": "b343e0d597", "clipboard_btn_text": "Copier vers le presse-papiers", "clipboard_copied_text": "Infos syst\u00e8me copi\u00e9es", "clipboard_fail_text": "Appuyer sur \"Cmd + C\" pour copier" };/* ]]> */ </script>
+	<script type="text/javascript" src="Historique2%20-%20Gr%C3%A8ve%20des%20stages_files/ecwd_popup.js"></script>
+	<script type="text/javascript" src="Historique2%20-%20Gr%C3%A8ve%20des%20stages_files/core.min.js"></script>
+	<script type="text/javascript" src="Historique2%20-%20Gr%C3%A8ve%20des%20stages_files/widget.min.js"></script>
+	<script type="text/javascript" src="Historique2%20-%20Gr%C3%A8ve%20des%20stages_files/mouse.min.js"></script>
+	<script type="text/javascript" src="Historique2%20-%20Gr%C3%A8ve%20des%20stages_files/draggable.min.js"></script>
+	<script type="text/javascript" src="Historique2%20-%20Gr%C3%A8ve%20des%20stages_files/imagesloaded.min.js"></script>
+	<script type="text/javascript" src="Historique2%20-%20Gr%C3%A8ve%20des%20stages_files/masonry.min.js"></script>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		var ecwd = { "ajaxurl": "http:\/\/www.grevedesstages.info\/wp-admin\/admin-ajax.php", "ajaxnonce": "2b6736b492", "loadingText": "Loading...", "event_popup_title_text": "Event Details", "plugin_url": "http:\/\/www.grevedesstages.info\/wp-content\/plugins\/event-calendar-wd", "gmap_key": "", "gmap_style": "" };
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="Historique2%20-%20Gr%C3%A8ve%20des%20stages_files/scripts.js"></script>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		var DIVI = { "item_count": "%d Item", "items_count": "%d Items" };
+		var et_shortcodes_strings = { "previous": "Previous", "next": "Next" };
+		var et_pb_custom = { "ajaxurl": "http:\/\/www.grevedesstages.info\/wp-admin\/admin-ajax.php", "images_uri": "http:\/\/www.grevedesstages.info\/wp-content\/themes\/Divi\/images", "builder_images_uri": "http:\/\/www.grevedesstages.info\/wp-content\/themes\/Divi\/includes\/builder\/images", "et_frontend_nonce": "df669b703f", "subscription_failed": "Please, check the fields below to make sure you entered the correct information.", "et_ab_log_nonce": "444cd4c2fe", "fill_message": "Please, fill in the following fields:", "contact_error_message": "Please, fix the following errors:", "invalid": "Invalid email", "captcha": "Captcha", "prev": "Prev", "previous": "Previous", "next": "Next", "wrong_captcha": "You entered the wrong number in captcha.", "is_builder_plugin_used": "", "ignore_waypoints": "no", "is_divi_theme_used": "1", "widget_search_selector": ".widget_search", "is_ab_testing_active": "", "page_id": "224009", "unique_test_id": "", "ab_bounce_rate": "5", "is_cache_plugin_active": "no", "is_shortcode_tracking": "" };
+		var et_pb_box_shadow_elements = [];
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="Historique2%20-%20Gr%C3%A8ve%20des%20stages_files/custom.min.js"></script>
+	<script type="text/javascript"
+		src="Historique2%20-%20Gr%C3%A8ve%20des%20stages_files/jquery.fancybox.1.3.23.min.js"></script>
+	<script type="text/javascript">
+		var fb_timeout, fb_opts = { 'overlayShow': true, 'hideOnOverlayClick': false, 'showCloseButton': true, 'margin': 20, 'centerOnScroll': false, 'enableEscapeButton': true, 'autoScale': true };
+		if (typeof easy_fancybox_handler === 'undefined') {
+			var easy_fancybox_handler = function () {
+				jQuery('.nofancybox,a.wp-block-file__button,a.pin-it-button,a[href*="pinterest.com/pin/create"],a[href*="facebook.com/share"],a[href*="twitter.com/share"]').addClass('nolightbox');
+				/* IMG */
+				var fb_IMG_select = 'a[href*=".jpg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpg"]:not(.nolightbox),a[href*=".jpeg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpeg"]:not(.nolightbox),a[href*=".png"]:not(.nolightbox,li.nolightbox>a),area[href*=".png"]:not(.nolightbox),a[href*=".webp"]:not(.nolightbox,li.nolightbox>a),area[href*=".webp"]:not(.nolightbox)';
+				jQuery(fb_IMG_select).addClass('fancybox image');
+				var fb_IMG_sections = jQuery('.gallery,.wp-block-gallery,.tiled-gallery');
+				fb_IMG_sections.each(function () { jQuery(this).find(fb_IMG_select).attr('rel', 'gallery-' + fb_IMG_sections.index(this)); });
+				jQuery('a.fancybox,area.fancybox,li.fancybox a').each(function () { jQuery(this).fancybox(jQuery.extend({}, fb_opts, { 'transitionIn': 'elastic', 'easingIn': 'easeOutBack', 'transitionOut': 'elastic', 'easingOut': 'easeInBack', 'opacity': false, 'hideOnContentClick': false, 'titleShow': true, 'titlePosition': 'over', 'titleFromAlt': true, 'showNavArrows': true, 'enableKeyboardNav': true, 'cyclic': false })) });
+				/* Inline */
+				jQuery('a.fancybox-inline,area.fancybox-inline,li.fancybox-inline a').each(function () { jQuery(this).fancybox(jQuery.extend({}, fb_opts, { 'type': 'inline', 'autoDimensions': true, 'scrolling': 'auto', 'easingIn': 'easeOutBack', 'easingOut': 'easeInBack', 'opacity': false, 'hideOnContentClick': false, 'titleShow': false })) });
+			};
+			jQuery('a.fancybox-close').on('click', function (e) { e.preventDefault(); jQuery.fancybox.close() });
+		};
+		var easy_fancybox_auto = function () { setTimeout(function () { jQuery('#fancybox-auto').trigger('click') }, 1000); };
+		jQuery(easy_fancybox_handler); jQuery(document).on('post-load', easy_fancybox_handler);
+		jQuery(easy_fancybox_auto);
+	</script>
+	<script type="text/javascript"
+		src="Historique2%20-%20Gr%C3%A8ve%20des%20stages_files/jquery.easing.1.4.1.min.js"></script>
+	<script type="text/javascript" src="Historique2%20-%20Gr%C3%A8ve%20des%20stages_files/common.js"></script>
+	<script type="text/javascript" src="Historique2%20-%20Gr%C3%A8ve%20des%20stages_files/wp-embed.min.js"></script>
+	<style id="et-core-unified-cached-inline-styles-2">
+		div.et_pb_section.et_pb_section_0 {
+			background-image: linear-gradient(180deg, rgba(63, 63, 63, 0.05) 0%, rgba(0, 0, 0, 0) 100%) !important
+		}
+
+		.et_pb_text_7 {
+			font-size: 15px;
+			border-top-width: 2px;
+			border-top-style: dotted;
+			border-top-color: #df0054;
+			max-width: 100%
+		}
+
+		.et_pb_text_12 {
+			border-top-width: 2px;
+			border-top-style: dotted;
+			border-top-color: #df0054;
+			max-width: 100%
+		}
+
+		.et_pb_text_11 h1 {
+			line-height: 1.5em
+		}
+
+		.et_pb_text_11 {
+			font-size: 15px;
+			border-top-width: 2px;
+			border-top-style: dotted;
+			border-top-color: #df0054;
+			max-width: 100%
+		}
+
+		.et_pb_text_10 {
+			border-top-width: 2px;
+			border-top-style: dotted;
+			border-top-color: #df0054;
+			max-width: 100%
+		}
+
+		.et_pb_text_9 {
+			font-size: 15px;
+			border-top-width: 2px;
+			border-top-style: dotted;
+			border-top-color: #df0054;
+			max-width: 100%
+		}
+
+		.et_pb_text_8 {
+			border-top-width: 2px;
+			border-top-style: dotted;
+			border-top-color: #df0054;
+			max-width: 100%
+		}
+
+		.et_pb_text_6 {
+			border-top-width: 2px;
+			border-top-style: dotted;
+			border-top-color: #df0054;
+			max-width: 100%
+		}
+
+		.et_pb_section_0 {
+			max-width: 100%
+		}
+
+		.et_pb_text_5 {
+			font-size: 15px;
+			border-top-width: 2px;
+			border-top-style: dotted;
+			border-top-color: #df0054;
+			max-width: 100%
+		}
+
+		.et_pb_text_4 {
+			border-top-width: 2px;
+			border-top-style: dotted;
+			border-top-color: #df0054;
+			max-width: 100%
+		}
+
+		.et_pb_text_3 {
+			font-size: 15px;
+			border-top-width: 2px;
+			border-top-style: dotted;
+			border-bottom-style: dotted;
+			border-top-color: #df0054;
+			max-width: 100%
+		}
+
+		.et_pb_text_2 {
+			border-top-width: 2px;
+			border-style: dotted groove;
+			border-top-color: #df0054;
+			max-width: 100%
+		}
+
+		.et_pb_text_2 h1 {
+			color: #533f60 !important;
+			text-align: center
+		}
+
+		.et_pb_text_1 {
+			font-size: 17px;
+			max-width: 100%
+		}
+
+		.et_pb_text_0 {
+			max-width: 100%
+		}
+
+		.et_pb_text_13 {
+			font-size: 15px;
+			border-top-width: 2px;
+			border-top-style: dotted;
+			border-bottom-style: dotted;
+			border-top-color: #df0054;
+			border-bottom-color: #df0054;
+			max-width: 100%
+		}
+	</style>
+
+	<div id="fancybox-tmp"></div>
+	<div id="fancybox-loading">
+		<div></div>
+	</div>
+	<div id="fancybox-overlay"></div>
+	<div id="fancybox-wrap">
+		<div id="fancybox-outer">
+			<div class="fancybox-bg" id="fancybox-bg-n"></div>
+			<div class="fancybox-bg" id="fancybox-bg-ne"></div>
+			<div class="fancybox-bg" id="fancybox-bg-e"></div>
+			<div class="fancybox-bg" id="fancybox-bg-se"></div>
+			<div class="fancybox-bg" id="fancybox-bg-s"></div>
+			<div class="fancybox-bg" id="fancybox-bg-sw"></div>
+			<div class="fancybox-bg" id="fancybox-bg-w"></div>
+			<div class="fancybox-bg" id="fancybox-bg-nw"></div>
+			<div id="fancybox-content"></div><a id="fancybox-close"></a>
+			<div id="fancybox-title"></div><a id="fancybox-left"><span class="fancy-ico"
+					id="fancybox-left-ico"></span></a><a id="fancybox-right"><span class="fancy-ico"
+					id="fancybox-right-ico"></span></a>
+		</div>
+	</div>
+</body>
+
+</html>

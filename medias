@@ -1,0 +1,3640 @@
+<!DOCTYPE html>
+<html lang="fr-CA" prefix="og: http://ogp.me/ns#" class="js">
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="./xmlrpc.php">
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url = '.'; var et_post_id = '223191'; function et_core_page_resource_fallback(a, b) { "undefined" === typeof b && (b = a.sheet.cssRules && 0 === a.sheet.cssRules.length); b && (a.onerror = null, a.onload = null, a.href ? a.href = et_site_url + "/?et_core_page_resource=" + a.id + et_post_id : a.src && (a.src = et_site_url + "/?et_core_page_resource=" + a.id + et_post_id)) }
+	</script>
+	<title>ACCUEIL - Grève des stages</title>
+
+	<!-- This site is optimized with the Yoast SEO plugin v9.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="./">
+	<meta property="og:locale" content="fr_CA">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="ACCUEIL - Grève des stages">
+	<meta property="og:url" content="./">
+	<meta property="og:site_name" content="Grève des stages">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="ACCUEIL - Grève des stages">
+	<meta name="twitter:site" content="@cute_travail">
+	<meta name="twitter:creator" content="@cute_travail">
+	<script
+		type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"./#website","url":"./","name":"Gr\u00e8ve des stages","potentialAction":{"@type":"SearchAction","target":"./?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+	<script
+		type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"./","sameAs":["https://www.facebook.com/campagnetravailetudiant/","https://www.instagram.com/campagnetravailetudiant/","https://www.youtube.com/channel/UCt7wZf2ODYNAS3bO5KYuJxA","https://twitter.com/cute_travail"],"@id":"./#organization","name":"Gr\u00e8veDesStages.info","logo":"./uploads/2019/01/Gr\u00e8ve-des-stages.jpg"}</script>
+	<!-- / Yoast SEO plugin. -->
+
+	<link rel="dns-prefetch" href="http://fonts.googleapis.com/">
+	<link rel="dns-prefetch" href="http://s.w.org/">
+	<link rel="alternate" type="application/rss+xml" title="Grève des stages » Flux"
+		href="./feed/">
+	<link rel="alternate" type="application/rss+xml" title="Grève des stages » Flux des commentaires"
+		href="./comments/feed/">
+	<link rel="alternate" type="text/calendar" title="Grève des stages » Flux iCal"
+		href="./events/?ical=1">
+	<script type="text/javascript">
+		window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "http:\/\/www.grevedesstages.info\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.26" } };
+		!function (e, a, t) { var n, r, o, i = a.createElement("canvas"), p = i.getContext && i.getContext("2d"); function s(e, t) { var a = String.fromCharCode; p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, e), 0, 0); e = i.toDataURL(); return p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, t), 0, 0), e === i.toDataURL() } function c(e) { var t = a.createElement("script"); t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t) } for (o = Array("flag", "emoji"), t.supports = { everything: !0, everythingExceptFlag: !0 }, r = 0; r < o.length; r++)t.supports[o[r]] = function (e) { if (!p || !p.fillText) return !1; switch (p.textBaseline = "top", p.font = "600 32px Arial", e) { case "flag": return s([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) ? !1 : !s([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]); case "emoji": return !s([55358, 56760, 9792, 65039], [55358, 56760, 8203, 9792, 65039]) }return !1 }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function () { t.DOMReady = !0 }, t.supports.everything || (n = function () { t.readyCallback() }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function () { "complete" === a.readyState && t.readyCallback() })), (n = t.source || {}).concatemoji ? c(n.concatemoji) : n.wpemoji && n.twemoji && (c(n.twemoji), c(n.wpemoji))) }(window, document, window._wpemojiSettings);
+	</script>
+	<script src="index_files/wp-emoji-release.min.js" type="text/javascript" defer="defer"></script>
+	<meta content="Divi v.3.16.1" name="generator">
+	<style type="text/css">
+		img.wp-smiley,
+		img.emoji {
+			display: inline !important;
+			border: none !important;
+			box-shadow: none !important;
+			height: 1em !important;
+			width: 1em !important;
+			margin: 0 .07em !important;
+			vertical-align: -0.1em !important;
+			background: none !important;
+			padding: 0 !important;
+		}
+	</style>
+	<link rel="stylesheet" id="ecwd-popup-style-css" href="index_files/ecwd_popup.css" type="text/css" media="all">
+	<link rel="stylesheet" id="ecwd_font-awesome-css" href="index_files/font-awesome.css" type="text/css" media="all">
+	<link rel="stylesheet" id="ecwd-public-css" href="index_files/style_002.css" type="text/css" media="all">
+	<link rel="stylesheet" id="divi-style-css" href="index_files/style.css" type="text/css" media="all">
+	<link rel="stylesheet" id="et-builder-googlefonts-cached-css" href="index_files/css_002.css" type="text/css"
+		media="all">
+	<link rel="stylesheet" id="tf-compiled-options-ect-css" href="index_files/titan-framework-ect-css.css"
+		type="text/css" media="all">
+	<link rel="stylesheet" id="tf-google-webfont-monda-css" href="index_files/css.css" type="text/css" media="all">
+	<link rel="stylesheet" id="tf-google-webfont-open-sans-css" href="index_files/css_003.css" type="text/css"
+		media="all">
+	<link rel="stylesheet" id="fancybox-css" href="index_files/jquery.fancybox.1.3.23.min.css" type="text/css"
+		media="screen">
+	<link rel="stylesheet" id="dashicons-css" href="index_files/dashicons.min.css" type="text/css" media="all">
+	<script type="text/javascript" src="index_files/jquery.js"></script>
+	<script type="text/javascript" src="index_files/jquery-migrate.min.js"></script>
+	<!--<link rel="https://api.w.org/" href="./wp-json/">-->
+	<!--<link rel="EditURI" type="application/rsd+xml" title="RSD" href="./xmlrpc.php?rsd">-->
+	<!--<link rel="wlwmanifest" type="application/wlwmanifest+xml"
+		href="./wp-includes/wlwmanifest.xml">
+	<meta name="generator" content="WordPress 4.9.26">
+	<link rel="shortlink" href="./">
+	<link rel="alternate" type="application/json+oembed"
+		href="./wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.grevedesstages.info%2F">
+	<link rel="alternate" type="text/xml+oembed"
+		href="./wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.grevedesstages.info%2F&amp;format=xml">
+	Analytics by WP-Statistics v12.6 - https://wp-statistics.com/ -->
+	<!-- <meta name="tec-api-version" content="v1">
+	<meta name="tec-api-origin" content=".">
+	<link rel="https://theeventscalendar.com/" href="./wp-json/tribe/events/v1/">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">-->
+	<style type="text/css" id="custom-background-css">
+		body.custom-background {
+			background-color: #533f60;
+		}
+	</style>
+	<link rel="icon"
+		href="./uploads/2018/11/cropped-cropped-backx-copie-32x32.png"
+		sizes="32x32">
+	<link rel="icon"
+		href="./uploads/2018/11/cropped-cropped-backx-copie-192x192.png"
+		sizes="192x192">
+	<link rel="apple-touch-icon-precomposed"
+		href="./uploads/2018/11/cropped-cropped-backx-copie-180x180.png">
+	<meta name="msapplication-TileImage"
+		content="./uploads/2018/11/cropped-cropped-backx-copie-270x270.png">
+	<style id="et-core-unified-cached-inline-styles">
+		body {
+			color: #000000
+		}
+
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			color: #533f60
+		}
+
+		body {
+			line-height: 1.6em
+		}
+
+		.woocommerce #respond input#submit,
+		.woocommerce-page #respond input#submit,
+		.woocommerce #content input.button,
+		.woocommerce-page #content input.button,
+		.woocommerce-message,
+		.woocommerce-error,
+		.woocommerce-info {
+			background: #533f60 !important
+		}
+
+		#et_search_icon:hover,
+		.mobile_menu_bar:before,
+		.mobile_menu_bar:after,
+		.et_toggle_slide_menu:after,
+		.et-social-icon a:hover,
+		.et_pb_sum,
+		.et_pb_pricing li a,
+		.et_pb_pricing_table_button,
+		.et_overlay:before,
+		.entry-summary p.price ins,
+		.woocommerce div.product span.price,
+		.woocommerce-page div.product span.price,
+		.woocommerce #content div.product span.price,
+		.woocommerce-page #content div.product span.price,
+		.woocommerce div.product p.price,
+		.woocommerce-page div.product p.price,
+		.woocommerce #content div.product p.price,
+		.woocommerce-page #content div.product p.price,
+		.et_pb_member_social_links a:hover,
+		.woocommerce .star-rating span:before,
+		.woocommerce-page .star-rating span:before,
+		.et_pb_widget li a:hover,
+		.et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active,
+		.et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active,
+		.et_pb_gallery .et_pb_gallery_pagination ul li a.active,
+		.wp-pagenavi span.current,
+		.wp-pagenavi a:hover,
+		.nav-single a,
+		.posted_in a {
+			color: #533f60
+		}
+
+		.et_pb_contact_submit,
+		.et_password_protected_form .et_submit_button,
+		.et_pb_bg_layout_light .et_pb_newsletter_button,
+		.comment-reply-link,
+		.form-submit .et_pb_button,
+		.et_pb_bg_layout_light .et_pb_promo_button,
+		.et_pb_bg_layout_light .et_pb_more_button,
+		.woocommerce a.button.alt,
+		.woocommerce-page a.button.alt,
+		.woocommerce button.button.alt,
+		.woocommerce-page button.button.alt,
+		.woocommerce input.button.alt,
+		.woocommerce-page input.button.alt,
+		.woocommerce #respond input#submit.alt,
+		.woocommerce-page #respond input#submit.alt,
+		.woocommerce #content input.button.alt,
+		.woocommerce-page #content input.button.alt,
+		.woocommerce a.button,
+		.woocommerce-page a.button,
+		.woocommerce button.button,
+		.woocommerce-page button.button,
+		.woocommerce input.button,
+		.woocommerce-page input.button,
+		.et_pb_contact p input[type="checkbox"]:checked+label i:before,
+		.et_pb_bg_layout_light.et_pb_module.et_pb_button {
+			color: #533f60
+		}
+
+		.footer-widget h4 {
+			color: #533f60
+		}
+
+		.et-search-form,
+		.nav li ul,
+		.et_mobile_menu,
+		.footer-widget li:before,
+		.et_pb_pricing li:before,
+		blockquote {
+			border-color: #533f60
+		}
+
+		.et_pb_counter_amount,
+		.et_pb_featured_table .et_pb_pricing_heading,
+		.et_quote_content,
+		.et_link_content,
+		.et_audio_content,
+		.et_pb_post_slider.et_pb_bg_layout_dark,
+		.et_slide_in_menu_container,
+		.et_pb_contact p input[type="radio"]:checked+label i:before {
+			background-color: #533f60
+		}
+
+		a {
+			color: #533f60
+		}
+
+		#main-header,
+		#main-header .nav li ul,
+		.et-search-form,
+		#main-header .et_mobile_menu {
+			background-color: #533f60
+		}
+
+		.nav li ul {
+			border-color: #f2a9cb
+		}
+
+		#top-header,
+		#et-secondary-nav li ul {
+			background-color: #533f60
+		}
+
+		.et_header_style_centered .mobile_nav .select_page,
+		.et_header_style_split .mobile_nav .select_page,
+		.et_nav_text_color_light #top-menu>li>a,
+		.et_nav_text_color_dark #top-menu>li>a,
+		#top-menu a,
+		.et_mobile_menu li a,
+		.et_nav_text_color_light .et_mobile_menu li a,
+		.et_nav_text_color_dark .et_mobile_menu li a,
+		#et_search_icon:before,
+		.et_search_form_container input,
+		span.et_close_search_field:after,
+		#et-top-navigation .et-cart-info {
+			color: #ffffff
+		}
+
+		.et_search_form_container input::-moz-placeholder {
+			color: #ffffff
+		}
+
+		.et_search_form_container input::-webkit-input-placeholder {
+			color: #ffffff
+		}
+
+		.et_search_form_container input:-ms-input-placeholder {
+			color: #ffffff
+		}
+
+		#top-menu li a {
+			font-size: 12px
+		}
+
+		body.et_vertical_nav .container.et_search_form_container .et-search-form input {
+			font-size: 12px !important
+		}
+
+		#top-menu li a,
+		.et_search_form_container input {
+			font-weight: bold;
+			font-style: normal;
+			text-transform: uppercase;
+			text-decoration: none
+		}
+
+		.et_search_form_container input::-moz-placeholder {
+			font-weight: bold;
+			font-style: normal;
+			text-transform: uppercase;
+			text-decoration: none
+		}
+
+		.et_search_form_container input::-webkit-input-placeholder {
+			font-weight: bold;
+			font-style: normal;
+			text-transform: uppercase;
+			text-decoration: none
+		}
+
+		.et_search_form_container input:-ms-input-placeholder {
+			font-weight: bold;
+			font-style: normal;
+			text-transform: uppercase;
+			text-decoration: none
+		}
+
+		#top-menu li.current-menu-ancestor>a,
+		#top-menu li.current-menu-item>a,
+		.et_color_scheme_red #top-menu li.current-menu-ancestor>a,
+		.et_color_scheme_red #top-menu li.current-menu-item>a,
+		.et_color_scheme_pink #top-menu li.current-menu-ancestor>a,
+		.et_color_scheme_pink #top-menu li.current-menu-item>a,
+		.et_color_scheme_orange #top-menu li.current-menu-ancestor>a,
+		.et_color_scheme_orange #top-menu li.current-menu-item>a,
+		.et_color_scheme_green #top-menu li.current-menu-ancestor>a,
+		.et_color_scheme_green #top-menu li.current-menu-item>a {
+			color: #f2a9cb
+		}
+
+		#main-footer {
+			background-color: #533f60
+		}
+
+		#footer-widgets .footer-widget a,
+		#footer-widgets .footer-widget li a,
+		#footer-widgets .footer-widget li a:hover {
+			color: #ffffff
+		}
+
+		.footer-widget {
+			color: #ffffff
+		}
+
+		#main-footer .footer-widget h4 {
+			color: #533f60
+		}
+
+		.footer-widget li:before {
+			border-color: #533f60
+		}
+
+		#et-footer-nav .bottom-nav li.current-menu-item a {
+			color: #533f60
+		}
+
+		#footer-bottom {
+			background-color: #020202
+		}
+
+		#footer-info,
+		#footer-info a {
+			color: #ffffff
+		}
+
+		body .et_pb_button:after,
+		.woocommerce a.button.alt:after,
+		.woocommerce-page a.button.alt:after,
+		.woocommerce button.button.alt:after,
+		.woocommerce-page button.button.alt:after,
+		.woocommerce input.button.alt:after,
+		.woocommerce-page input.button.alt:after,
+		.woocommerce #respond input#submit.alt:after,
+		.woocommerce-page #respond input#submit.alt:after,
+		.woocommerce #content input.button.alt:after,
+		.woocommerce-page #content input.button.alt:after,
+		.woocommerce a.button:after,
+		.woocommerce-page a.button:after,
+		.woocommerce button.button:after,
+		.woocommerce-page button.button:after,
+		.woocommerce input.button:after,
+		.woocommerce-page input.button:after,
+		.woocommerce #respond input#submit:after,
+		.woocommerce-page #respond input#submit:after,
+		.woocommerce #content input.button:after,
+		.woocommerce-page #content input.button:after {
+			content: '#';
+			font-size: 20px
+		}
+
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		.et_quote_content blockquote p,
+		.et_pb_slide_description .et_pb_slide_title {
+			font-weight: bold;
+			font-style: normal;
+			text-transform: uppercase;
+			text-decoration: none
+		}
+
+		@media only screen and (min-width:981px) {
+			.et_pb_section {
+				padding: 0% 0
+			}
+
+			.et_pb_section.et_pb_section_first {
+				padding-top: inherit
+			}
+
+			.et_pb_fullwidth_section {
+				padding: 0
+			}
+
+			.et_pb_row {
+				padding: 1% 0
+			}
+
+			.et_header_style_left #et-top-navigation,
+			.et_header_style_split #et-top-navigation {
+				padding: 43px 0 0 0
+			}
+
+			.et_header_style_left #et-top-navigation nav>ul>li>a,
+			.et_header_style_split #et-top-navigation nav>ul>li>a {
+				padding-bottom: 43px
+			}
+
+			.et_header_style_split .centered-inline-logo-wrap {
+				width: 86px;
+				margin: -86px 0
+			}
+
+			.et_header_style_split .centered-inline-logo-wrap #logo {
+				max-height: 86px
+			}
+
+			.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo {
+				height: 86px
+			}
+
+			.et_header_style_centered #top-menu>li>a {
+				padding-bottom: 15px
+			}
+
+			.et_header_style_slide #et-top-navigation,
+			.et_header_style_fullscreen #et-top-navigation {
+				padding: 34px 0 34px 0 !important
+			}
+
+			.et_header_style_centered #main-header .logo_container {
+				height: 86px
+			}
+
+			.et_header_style_centered #logo {
+				max-height: 30%
+			}
+
+			.et_pb_svg_logo.et_header_style_centered #logo {
+				height: 30%
+			}
+
+			.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container,
+			.et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container {
+				height: 15.48px
+			}
+
+			.et_header_style_left .et-fixed-header #et-top-navigation,
+			.et_header_style_split .et-fixed-header #et-top-navigation {
+				padding: 67px 0 0 0
+			}
+
+			.et_header_style_left .et-fixed-header #et-top-navigation nav>ul>li>a,
+			.et_header_style_split .et-fixed-header #et-top-navigation nav>ul>li>a {
+				padding-bottom: 67px
+			}
+
+			.et_header_style_centered header#main-header.et-fixed-header .logo_container {
+				height: 134px
+			}
+
+			.et_header_style_split .et-fixed-header .centered-inline-logo-wrap {
+				width: 134px;
+				margin: -134px 0
+			}
+
+			.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo {
+				max-height: 134px
+			}
+
+			.et_pb_svg_logo.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo {
+				height: 134px
+			}
+
+			.et_header_style_slide .et-fixed-header #et-top-navigation,
+			.et_header_style_fullscreen .et-fixed-header #et-top-navigation {
+				padding: 58px 0 58px 0 !important
+			}
+
+			.et-fixed-header#top-header,
+			.et-fixed-header#top-header #et-secondary-nav li ul {
+				background-color: #df0054
+			}
+
+			.et-fixed-header#main-header,
+			.et-fixed-header#main-header .nav li ul,
+			.et-fixed-header .et-search-form {
+				background-color: #df0054
+			}
+
+			.et-fixed-header #top-menu li a {
+				font-size: 14px
+			}
+
+			.et-fixed-header #top-menu a,
+			.et-fixed-header #et_search_icon:before,
+			.et-fixed-header #et_top_search .et-search-form input,
+			.et-fixed-header .et_search_form_container input,
+			.et-fixed-header .et_close_search_field:after,
+			.et-fixed-header #et-top-navigation .et-cart-info {
+				color: #ffffff !important
+			}
+
+			.et-fixed-header .et_search_form_container input::-moz-placeholder {
+				color: #ffffff !important
+			}
+
+			.et-fixed-header .et_search_form_container input::-webkit-input-placeholder {
+				color: #ffffff !important
+			}
+
+			.et-fixed-header .et_search_form_container input:-ms-input-placeholder {
+				color: #ffffff !important
+			}
+
+			.et-fixed-header #top-menu li.current-menu-ancestor>a,
+			.et-fixed-header #top-menu li.current-menu-item>a {
+				color: #480032 !important
+			}
+		}
+
+		@media only screen and (min-width:1350px) {
+			.et_pb_row {
+				padding: 13px 0
+			}
+
+			.et_pb_section {
+				padding: 0px 0
+			}
+
+			.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper {
+				padding-top: 40px
+			}
+
+			.et_pb_section.et_pb_section_first {
+				padding-top: inherit
+			}
+
+			.et_pb_fullwidth_section {
+				padding: 0
+			}
+		}
+
+		@media only screen and (max-width:980px) {
+
+			body,
+			.et_pb_column_1_2 .et_quote_content blockquote cite,
+			.et_pb_column_1_2 .et_link_content a.et_link_main_url,
+			.et_pb_column_1_3 .et_quote_content blockquote cite,
+			.et_pb_column_3_8 .et_quote_content blockquote cite,
+			.et_pb_column_1_4 .et_quote_content blockquote cite,
+			.et_pb_blog_grid .et_quote_content blockquote cite,
+			.et_pb_column_1_3 .et_link_content a.et_link_main_url,
+			.et_pb_column_3_8 .et_link_content a.et_link_main_url,
+			.et_pb_column_1_4 .et_link_content a.et_link_main_url,
+			.et_pb_blog_grid .et_link_content a.et_link_main_url {
+				font-size: 16px
+			}
+
+			.et_pb_slider.et_pb_module .et_pb_slides .et_pb_slide_content,
+			.et_pb_best_value {
+				font-size: 18px
+			}
+
+			h1 {
+				font-size: 35px
+			}
+
+			h2,
+			.product .related h2,
+			.et_pb_column_1_2 .et_quote_content blockquote p {
+				font-size: 30px
+			}
+
+			h3 {
+				font-size: 25px
+			}
+
+			h4,
+			.et_pb_circle_counter h3,
+			.et_pb_number_counter h3,
+			.et_pb_column_1_3 .et_pb_post h2,
+			.et_pb_column_1_4 .et_pb_post h2,
+			.et_pb_blog_grid h2,
+			.et_pb_column_1_3 .et_quote_content blockquote p,
+			.et_pb_column_3_8 .et_quote_content blockquote p,
+			.et_pb_column_1_4 .et_quote_content blockquote p,
+			.et_pb_blog_grid .et_quote_content blockquote p,
+			.et_pb_column_1_3 .et_link_content h2,
+			.et_pb_column_3_8 .et_link_content h2,
+			.et_pb_column_1_4 .et_link_content h2,
+			.et_pb_blog_grid .et_link_content h2,
+			.et_pb_column_1_3 .et_audio_content h2,
+			.et_pb_column_3_8 .et_audio_content h2,
+			.et_pb_column_1_4 .et_audio_content h2,
+			.et_pb_blog_grid .et_audio_content h2,
+			.et_pb_column_3_8 .et_pb_audio_module_content h2,
+			.et_pb_column_1_3 .et_pb_audio_module_content h2,
+			.et_pb_gallery_grid .et_pb_gallery_item h3,
+			.et_pb_portfolio_grid .et_pb_portfolio_item h2,
+			.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2 {
+				font-size: 21px
+			}
+
+			.et_pb_slider.et_pb_module .et_pb_slides .et_pb_slide_description .et_pb_slide_title {
+				font-size: 53px
+			}
+
+			.woocommerce ul.products li.product h3,
+			.woocommerce-page ul.products li.product h3,
+			.et_pb_gallery_grid .et_pb_gallery_item h3,
+			.et_pb_portfolio_grid .et_pb_portfolio_item h2,
+			.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2,
+			.et_pb_column_1_4 .et_pb_audio_module_content h2 {
+				font-size: 18px
+			}
+
+			h5 {
+				font-size: 18px
+			}
+
+			h6 {
+				font-size: 16px
+			}
+
+			.et_pb_section {
+				padding: 0px 0
+			}
+
+			.et_pb_section.et_pb_section_first {
+				padding-top: inherit
+			}
+
+			.et_pb_section.et_pb_fullwidth_section {
+				padding: 0
+			}
+
+			.et_pb_row,
+			.et_pb_column .et_pb_row_inner {
+				padding: 11px 0
+			}
+		}
+
+		@media only screen and (max-width:767px) {
+
+			.et_pb_row,
+			.et_pb_column .et_pb_row_inner {
+				padding: 4px 0
+			}
+		}
+
+		body,
+		input,
+		textarea,
+		select {
+			font-family: 'Droid Sans', Helvetica, Arial, Lucida, sans-serif
+		}
+
+		#main-header,
+		#et-top-navigation {
+			font-family: 'Biryani', Helvetica, Arial, Lucida, sans-serif
+		}
+
+		.mobile_nav::before {
+			content: 'Menu';
+			vertical-align: top;
+			line-height: 2.2em;
+			color: white
+		}
+
+		.select_page {
+			visibility: hidden
+		}
+
+		hr.someClass {
+			background-color: #000080;
+			width: 20%;
+			height: 4px;
+			margin: 0 0 15px 0
+		}
+
+		h1:after {
+			content: ' ';
+			position: absolute;
+			display: block;
+			width: 60px;
+			margin: 0%;
+			border: 4px solid black;
+			border-radius: 4px;
+			-webkit-border-radius: 4px;
+			-moz-border-radius: 4px;
+			box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+			-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+			-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+			left: 50%;
+			transform: translateX(-50%)
+		}
+
+		#top-menu .current-menu-item a::before,
+		#top-menu .current_page_item a::before {
+			content: "";
+			position: absolute;
+			z-index: 2;
+			left: 0;
+			right: 0
+		}
+
+		#top-menu li a:before {
+			content: "";
+			position: absolute;
+			z-index: -2;
+			left: 0;
+			right: 100%;
+			bottom: 50%;
+			background: white;
+			height: 2px;
+			-webkit-transition-property: right;
+			transition-property: right;
+			-webkit-transition-duration: 0.3s;
+			transition-duration: 0.3s;
+			-webkit-transition-timing-function: ease-out;
+			transition-timing-function: ease-out
+		}
+
+		#top-menu li a:hover {
+			opacity: 1 !important
+		}
+
+		#top-menu li a:hover:before {
+			right: 0
+		}
+
+		#top-menu li li a:before {
+			bottom: 10%
+		}
+
+		header#main-header {
+			border-bottom: 0px solid black
+		}
+
+		div#top-header {
+			border-bottom: 0px solid black
+		}
+	</style>
+	<link id="ecwd-calendar-main-css" rel="stylesheet" type="text/css" href="index_files/calendar.css">
+	<style>
+		[data-columns]::before {
+			visibility: hidden;
+			position: absolute;
+			font-size: 1px;
+		}
+	</style>
+	<style id="fit-vids-style">
+		.fluid-width-video-wrapper {
+			width: 100%;
+			position: relative;
+			padding: 0;
+		}
+
+		.fluid-width-video-wrapper iframe,
+		.fluid-width-video-wrapper object,
+		.fluid-width-video-wrapper embed {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+	</style>
+</head>
+
+<body
+	class="home page-template-default page page-id-223191 custom-background tribe-js ecwd-theme-Divi et_color_scheme_pink et_button_custom_icon et_pb_button_helper_class et_fullwidth_nav et_fullwidth_secondary_nav et_non_fixed_nav et_show_nav et_hide_primary_logo et_hide_fixed_logo et_hide_mobile_logo et_pb_gutter linux et_pb_gutters2 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns1 et_header_style_centered et_pb_pagebuilder_layout et_right_sidebar et_divi_theme et-db et_minified_js et_minified_css gecko"
+	style="overflow-x: hidden;">
+	<div id="page-container" style="overflow-y: hidden;">
+
+
+
+		<header id="main-header" data-height-onload="49" data-height-loaded="true" data-fixed-height-onload="49">
+			<div class="container clearfix et_menu_container">
+				<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="/">
+						<img src="index_files/logo.png" alt="Grève des stages" id="logo" data-height-percentage="30"
+							data-actual-width="470" data-actual-height="163">
+					</a>
+				</div>
+				<div id="et-top-navigation" data-height="86" data-fixed-height="134">
+					<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav">
+							<li id="menu-item-223962"
+								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item page-item-223191 menu-item-223962">
+								<a href="./index">Accueil</a></li>
+							<li id="menu-item-224082"
+								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-224082">
+								<a href="./ggi-2019">GGI 2019</a>
+								<ul class="sub-menu">
+									<li id="menu-item-224263"
+										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224263">
+										<a href="./ag-de-greve-2019">Assemblées générales
+											de grève</a></li>
+									<li id="menu-item-224330"
+										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224330">
+										<a href="./outils-de-greve">Comment faire la
+											grève de son stage ?</a></li>
+									<li id="menu-item-215"
+										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215">
+										<a
+											href="./plan-daction-pour-la-remuneration-des-stages">Plan
+											d’action</a></li>
+									<li id="menu-item-224253"
+										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224253">
+										<a href="./quest-ce-quune-ggi">Qu’est-ce qu’une
+											GGI ?</a></li>
+								</ul>
+							</li>
+							<li id="menu-item-223339"
+								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223339"><a
+									href="./coalitions-regionales">Coalitions
+									régionales</a></li>
+							<li id="menu-item-31"
+								class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a
+									href="./questions-et-reponses">Questions et
+									réponses</a></li>
+							<li id="menu-item-224635"
+								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-224635">
+								<a href="./historique">Historique</a>
+								<ul class="sub-menu">
+									<li id="menu-item-223601"
+										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223601">
+										<a href="./novembre-2018">Novembre 2018</a></li>
+								</ul>
+							</li>
+							<li id="menu-item-290"
+								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-290">
+								<a href="./materiel">Matériel</a>
+								<ul class="sub-menu">
+									<li id="menu-item-225219"
+										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225219">
+										<a href="./donnees">Recherche</a></li>
+								</ul>
+							</li>
+							<li id="menu-item-223992"
+								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223992 et-hover">
+								<a href="./appuis">Appuis</a></li>
+							<li id="menu-item-224331"
+								class="menu-item current-menu-item current_page_item menu-item-type-post_type menu-item-object-page menu-item-224331"><a
+									href="./medias">Médias</a></li>
+						</ul>
+					</nav>
+
+
+
+
+					<div id="et_mobile_nav_menu">
+						<div class="mobile_nav closed">
+							<span class="select_page">Select Page</span>
+							<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+							<ul id="mobile_menu" class="et_mobile_menu">
+								<li id="menu-item-223962"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item page-item-223191 menu-item-223962 et_first_mobile_item">
+									<a href="./index">Accueil</a></li>
+								<li id="menu-item-224082"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-224082">
+									<a href="./ggi-2019">GGI 2019</a>
+									<ul class="sub-menu">
+										<li id="menu-item-224263"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224263">
+											<a href="./ag-de-greve-2019">Assemblées
+												générales de grève</a></li>
+										<li id="menu-item-224330"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224330">
+											<a href="./outils-de-greve">Comment faire la
+												grève de son stage ?</a></li>
+										<li id="menu-item-215"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215">
+											<a
+												href="./plan-daction-pour-la-remuneration-des-stages">Plan
+												d’action</a></li>
+										<li id="menu-item-224253"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224253">
+											<a href="./quest-ce-quune-ggi">Qu’est-ce
+												qu’une GGI ?</a></li>
+									</ul>
+								</li>
+								<li id="menu-item-223339"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223339"><a
+										href="./coalitions-regionales">Coalitions
+										régionales</a></li>
+								<li id="menu-item-31"
+									class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a
+										href="./questions-et-reponses">Questions et
+										réponses</a></li>
+								<li id="menu-item-224635"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-224635">
+									<a href="./historique">Historique</a>
+									<ul class="sub-menu">
+										<li id="menu-item-223601"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223601">
+											<a href="./novembre-2018">Novembre 2018</a>
+										</li>
+									</ul>
+								</li>
+								<li id="menu-item-290"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-290">
+									<a href="./materiel">Matériel</a>
+									<ul class="sub-menu">
+										<li id="menu-item-225219"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225219">
+											<a href="./donnees">Recherche</a></li>
+									</ul>
+								</li>
+								<li id="menu-item-223992"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223992"><a
+										href="./appuis">Appuis</a></li>
+								<li id="menu-item-224331"
+									class="menu-item current-menu-item current_page_item menu-item-type-post_type menu-item-object-page menu-item-224331"><a
+										href="./medias">Médias</a></li>
+							</ul>
+						</div>
+					</div>
+				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<!--<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="./">
+						<input type="search" class="et-search-field" placeholder="Search …" name="s"
+							title="Search for:">
+					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>-->
+		</header> <!-- #main-header -->
+
+
+
+		<!--REMPLACER JUSQU'ICI-->
+		<div id="et-main-area">
+
+			<div id="main-content">
+
+
+
+				<article id="post-223905" class="post-223905 page type-page status-publish hentry">
+
+
+					<div class="entry-content">
+						<div id="et-boc" class="et-boc">
+
+							<div class="et_builder_inner_content et_pb_gutters3">
+								<div class="et_pb_section et_pb_section_0 et_section_regular">
+
+
+
+
+									<div class="et_pb_row et_pb_row_0">
+										<div
+											class="et_pb_column et_pb_column_4_4 et_pb_column_0    et_pb_css_mix_blend_mode_passthrough et-last-child">
+
+
+											<div
+												class="et_pb_module et_pb_text et_pb_text_0 et_pb_bg_layout_light  et_pb_text_align_left">
+
+
+												<div class="et_pb_text_inner">
+													<h1
+														style="text-align: center; font-family: 'Antic Slab','Georgia','Times New Roman',serif; font-size: 48px;">
+														<span style="color: #df0054;">MÉDIAS</span>
+													</h1>
+													<p>Pour contacter les coalitions régionales, voir <a
+															href="./coalitions-regionales/">leurs
+															coordonnées ici</a>.</p>
+												</div>
+											</div> <!-- .et_pb_text -->
+										</div> <!-- .et_pb_column -->
+
+
+									</div> <!-- .et_pb_row -->
+									<div class="et_pb_row et_pb_row_1">
+										<div
+											class="et_pb_column et_pb_column_2_5 et_pb_column_1    et_pb_css_mix_blend_mode_passthrough">
+
+
+											<div
+												class="et_pb_module et_pb_text et_pb_text_1 et_pb_bg_layout_light  et_pb_text_align_justified">
+
+
+												<div class="et_pb_text_inner">
+													<h3 style="text-align: center;">Communiqués et lettres ouvertes</h3>
+													<ul>
+														<li><strong><a
+																	href="./uploads/2019/04/COMM-2019-04-04-Manif-St-Jerome.pdf"
+																	target="_blank" rel="noopener">Rémunération des
+																	stages: Les étudiantes et stagiaires prennent la rue
+																	à Saint-Jérôme</a></strong></li>
+														<li><strong><a
+																	href="./uploads/2019/04/COMM-2019-04-02-Travail-invisible.pdf"
+																	target="_blank" rel="noopener">Grève des stages: Une
+																	manifestation pour la rémunération des stages dans
+																	le cadre de la Journée mondiale du travail
+																	invisible</a></strong></li>
+														<li><strong><a
+																	href="https://www.pressegauche.org/Greve-pour-la-remuneration-des-stages"
+																	target="_blank" rel="noopener">Grève
+																	pour la rémunération des stages: 25 000 stagiaires
+																	et étudiant.e.s
+																	refusent le statu quo imposé par le gouvernement
+																	Legault et combattent
+																	leur répression</a><br>
+															</strong>Coalition montréalaise pour la rémunération des
+															stages, Presse-toi à gauche, 28 mars 2019<strong><br>
+															</strong></li>
+														<li><a href="https://www.pressegauche.org/Remuneration-des-stages-Manifestation-etudiante-a-Saint-Jerome"
+																target="_blank" rel="noopener"><strong>Rémunération des
+																	stages: Manifestation étudiante à
+																	Saint-Jérôme</strong></a><br>
+															Coalition laurentienne pour la rémunération des stages,
+															Presse-toi à gauche, 26 mars 2019</li>
+														<li><strong><a
+																	href="https://www.pressegauche.org/Remuneration-des-stages"
+																	target="_blank" rel="noopener">Rémunération des
+																	stages: La grève des stages se poursuit cette
+																	semaine malgré la pression sur les
+																	stagiaires</a><br>
+															</strong>Coalition montréalaise pour la rémunération des
+															stages, Presse-toi à gauche, 25 mars 2019<strong><br>
+															</strong></li>
+														<li><strong><a
+																	href="https://www.pressegauche.org/Budget-provincial-2019-2020-Appel-a-la"
+																	target="_blank" rel="noopener">Budget provincial
+																	2019-2020: Appel à la reconduction de la grève
+																	étudiante</a><br>
+															</strong>Coalition montréalaise pour la rémunération des
+															stages, Presse-toi à gauche, 21 mars 2019<strong><br>
+															</strong></li>
+														<li><a href="https://www.pressegauche.org/Les-stagiaires-manifestent-pour-reclamer-leur-du"
+																target="_blank" rel="noopener"><strong>Les stagiaires
+																	manifestent pour réclamer leur dû!</strong></a><br>
+															Coalition montréalaise pour la rémunération des stages,
+															Presse-toi à gauche, 21 mars 2019</li>
+														<li><a href="https://www.pressegauche.org/Les-stagiaires-en-greve-visitent-les-milieux-de-stages"
+																target="_blank" rel="noopener"><strong>Les stagiaires en
+																	grève visitent les milieux de
+																	stages</strong></a><br>
+															Coalition montréalaise pour la rémunération des stages,
+															Presse-toi à gauche, 18 mars 2019</li>
+														<li><strong><a
+																	href="./uploads/2019/03/COMM-2019-03-18-Declenchement.pdf"
+																	target="_blank" rel="noopener">Plus de 35 000
+																	étudiant.es et stagiaires lancent la grève pour la
+																	rémunération de tous les stages</a></strong></li>
+														<li><strong><a
+																	href="https://www.pressegauche.org/Greve-generale-pour-la-remuneration-des-stages"
+																	target="_blank" rel="noopener">AVIS
+																	AUX MÉDIAS – Conférence de presse: Près de 40 000
+																	étudiant.es et
+																	stagiaires en grève, tournées des milieux de stage
+																	et manifestation
+																	montréalaise&nbsp;</a><br>
+															</strong>Coalition montréalaise pour la rémunération des
+															stages, Presse-toi à gauche, 18 mars 2019</li>
+														<li><strong><a
+																	href="https://www.pressegauche.org/Un-projet-de-loi-c-est-insuffisant-la-greve-sera-necessaire"
+																	target="_blank" rel="noopener">Un projet de loi
+																	c’est insuffisant, la grève sera
+																	nécessaire</a></strong><br>
+															Coalition montréalaise pour la rémunération des stages,
+															Presse-toi à gauche, 19 février 2019</li>
+														<li><a href="https://dissident.es/la-fecq-na-fait-quinterpreter-les-stages-ce-qui-importe-cest-de-les-transformer/"
+																target="_blank" rel="noopener"><strong>La FECQ n’a fait
+																	qu’interpréter les stages: ce qui importe, c’est de
+																	les transformer</strong></a><br>
+															Réponse de la Coalition montréalaise pour la rémunération
+															des stages à
+															la Fédération étudiante collégiale du Québec (FECQ),&nbsp;5
+															janvier 2019</li>
+														<li><a href="https://www.pressegauche.org/Le-mouvement-de-greve-pour-la-remuneration-des-stages-continuera-a-l-hiver-2019"
+																target="_blank" rel="noopener"><strong>Le mouvement de
+																	grève pour la rémunération de tous les stages
+																	continuera à l’hiver 2019. Pas de salaire, pas de
+																	stagiaire!</strong></a><br>
+															Coalition montréalaise pour la rémunération des stages,
+															Presse-toi à gauche, 19 décembre 2018</li>
+														<li><a href="./uploads/2019/01/Appui_PosteCanada.pdf"
+																target="_blank" rel="noopener"><strong>Appui aux
+																	travailleurs et travailleuses de Poste
+																	Canada</strong></a><br>
+															Coalition montréalaise pour la rémunération des stages, 1er
+															décembre 2018</li>
+														<li><a href="./uploads/2019/01/Appui_SAQ.pdf"
+																target="_blank" rel="noopener"><strong>Appui aux
+																	travailleurs et travailleuses de la
+																	SAQ</strong></a><br>
+															Coalition montréalaise pour la rémunération des stages, 1er
+															décembre 2018</li>
+														<li><a href="./uploads/2019/01/communiqu%C3%A9-gr%C3%A8ve-Nov-2018.pdf"
+																target="_blank" rel="noopener"><strong>Plus de 55 000
+																	étudiant.es et stagiaires en grève pour la
+																	rémunération de tous les stages</strong></a><br>
+															Coalitions sherbrookoise, montréalaise et outaouaise pour la
+															rémunération des stages, 18 novembre 2018</li>
+														<li><a href="https://www.ababord.org/Un-gouvernement-CAQ-et-puis-quoi-apres"
+																target="_blank" rel="noopener"><strong>Un gouvernement
+																	CAQ, et puis quoi après?</strong></a><br>
+															201 signataires, À Babord, 8 octobre 2018<p></p>
+															<ul>
+																<li>Reprise par <a
+																		href="https://www.lesoleil.com/opinions/point-de-vue/un-appel-large-pour-la-remuneration-des-stages-15aeefdef83b3be114892885e763a00c"
+																		target="_blank" rel="noopener">le Soleil</a>, le
+																	10 octobre 2018</li>
+																<li>Reprise par <a
+																		href="http://montrealcampus.ca/2018/10/10/un-gouvernement-caq-et-puis-quoi-apres-un-appel-large-pour-la-remuneration-des-stages/"
+																		target="_blank" rel="noopener">Montréal
+																		Campus</a>, le 10 octobre 2018</li>
+																<li>Reprise par <a
+																		href="https://quebec.huffingtonpost.ca/alexandra-dufresne/remuneration-stages-etudiants-charges-cours-professeurs-appel-mobilisation_a_23566234/"
+																		target="_blank" rel="noopener">HuffingtonPost
+																		Québec</a>, 19 octobre 2018</li>
+															</ul>
+														</li>
+														<li><a href="https://www.pressegauche.org/Remuneration-des-stages-Le-resultat-des-elections-ne-change-rien-a-la-menace-de?fbclid=IwAR0s3_KxqMZ02yE0dj1uSEjqNra1evnbaTyC3IHTlZ-J8RiO1qrLTYtT0Qs"
+																target="_blank" rel="noopener"><strong>Rémunération des
+																	stages / Le résultat des élections ne change rien à
+																	la menace de grève des
+																	étudiant.e.s</strong></a>&nbsp; &nbsp; &nbsp; &nbsp;
+															Communiqué du <a href="https://www.facebook.com/CUTE.st.lo/"
+																target="_blank" rel="noopener">CUTE St-Lô</a> et de l’<a
+																href="https://www.facebook.com/aecsl/" target="_blank"
+																rel="noopener">AECSL</a>, Presse-toi à gauche, 4 octobre
+															2018</li>
+														<li><a href="./uploads/2018/09/2018-09-18_lettre_ouverte_coalition_remuneration_stages-.pdf"
+																target="_blank" rel="noopener"><strong>Lettre ouverte à
+																	toutes les candidates et tous les candidats aux
+																	élections provinciales</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															Coalition montréalaise pour la rémunération des stages, 18
+															septembre
+															2018</li>
+														<li><a href="https://www.facebook.com/notes/cris-coalition-de-loutaouais-pour-la-r%C3%A9mun%C3%A9ration-des-stages/lettre-ouverte-aux-partis-politiques-et-%C3%A0-leurs-candidates/480291839118811/"
+																target="_blank" rel="noopener"><strong>Lettre ouverte
+																	aux partis politiques et à leurs
+																	candidat.e.s</strong></a>&nbsp; Coalition de
+															l’Outaouais pour la rémunération des stages, 17 septembre
+															2018</li>
+														<li><a href="https://www.facebook.com/notes/cute-campagne-sur-le-travail-%C3%A9tudiant/r%C3%A9sistance-au-g7-des-stagiaires-du-qu%C3%A9bec-lancent-un-appel-mondial-%C3%A0-la-gr%C3%A8ve-de/2052727548387485/"
+																target="_blank" rel="noopener"><strong>Résistance au G7:
+																	des stagiaires du Québec lancent un appel mondial à
+																	la grève des stages</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															Coalition
+															montréalaise pour la rémunération des stages, 6 juin 2018
+															(<a href="https://www.facebook.com/notes/cute-campagne-sur-le-travail-%C3%A9tudiant/resistance-to-the-g7-a-global-call-from-quebec-interns-for-an-interns-strike/2052808961712677/"
+																target="_blank" rel="noopener">English version</a>)</li>
+														<li><a href="http://www.adeese.org/2018/03/budget-provincial-2018-2019/"
+																target="_blank" rel="noopener"><strong>Le
+																	mépris du gouvernement libéral force le mouvement
+																	étudiant à
+																	intensifier la mobilisation pour la rémunération de
+																	tous les stages</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;30 groupes
+															et
+															associations signataires, 28 mars 2018</li>
+														<li><a href="https://www.facebook.com/notes/cute-campagne-sur-le-travail-%C3%A9tudiant/r%C3%A9forme-de-la-loi-sur-les-normes-du-travail-prochaine-%C3%A9tape-de-la-mobilisation-p/2008823319444575/"
+																target="_blank" rel="noopener"><strong>Réforme de la Loi
+																	sur les normes du travail – Prochaine étape de la
+																	mobilisation pour la rémunération des
+																	stages</strong></a>&nbsp; &nbsp; &nbsp;23 groupes et
+															associations signataires, 21 mars 2018</li>
+														<li><a href="https://www.newswire.ca/fr/news-releases/pres-de-30-000-etudiantes-et-stagiaires-repondent-a-lappel-de-la-greve-internationale-des-femmes-676228723.html?fbclid=IwAR1cZGkJ7r2Vw7HmMFeY-0gnOeudeP69zNtq2GJ5Y1EtX9vms0dwnefWhrQ"
+																target="_blank" rel="noopener"><strong>Près de 30 000
+																	étudiant.es et stagiaires répondent à l’appel de la
+																	Grève mondiale des femmes</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Coalition
+															montréalaise pour la
+															rémunération des stages, 8 mars 2018</li>
+														<li><a href="https://www.facebook.com/notes/cute-campagne-sur-le-travail-%C3%A9tudiant/15k-gr%C3%A9vistes-centaines-de-manifestantes-et-65-organisations-nord-am%C3%A9ricaines-en/1936767929983448/"
+																target="_blank" rel="noopener"><strong>15K grévistes,
+																	centaines de manifestant.es et 65+ organisations
+																	nord-américaines en ont assez de l’exploitation des
+																	stagiaires !</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															Coalition montréalaise pour la rémunération des stages, 10
+															novembre 2017</li>
+													</ul>
+												</div>
+											</div> <!-- .et_pb_text -->
+											<div
+												class="et_pb_module et_pb_image et_pb_image_0 et_always_center_on_mobile">
+
+
+												<span class="et_pb_image_wrap"><img
+														src="M%C3%A9dias%20-%20Gr%C3%A8ve%20des%20stages_files/image.%C3%A9tudiant.9.png"
+														alt=""></span>
+											</div>
+										</div> <!-- .et_pb_column -->
+										<div
+											class="et_pb_column et_pb_column_3_5 et_pb_column_2    et_pb_css_mix_blend_mode_passthrough et-last-child">
+
+
+											<div
+												class="et_pb_module et_pb_text et_pb_text_2 et_pb_bg_layout_light  et_pb_text_align_left">
+
+
+												<div class="et_pb_text_inner">
+													<h3 style="text-align: center;">Retombées médiatiqueS</h3>
+												</div>
+											</div> <!-- .et_pb_text -->
+											<div
+												class="et_pb_module et_pb_toggle et_pb_toggle_0 et_pb_toggle_item  et_pb_text_align_justified et_pb_toggle_close">
+
+
+												<h5 class="et_pb_toggle_title">Mars 2019</h5>
+												<div class="et_pb_toggle_content clearfix" style="display: none;">
+													<ul>
+														<li><a href="https://www.journallenord.com/pas-de-salaire-pas-de-stagiaire/?fbclid=IwAR2WS6muLAUDjnClTyztMq09H1hx5ERq1tmBKqXukhHR5jOF4h3XSKAhmjY"
+																target="_blank" rel="noopener"><strong>«Pas de salaire,
+																	pas de stagiaire! »</strong></a><br>
+															France Poirier, Journal Le Nord, 2 avril 2019</li>
+														<li><a href="https://ici.radio-canada.ca/nouvelle/1161308/greve-etudiants-cegep-stages-remuneration?fbclid=IwAR04f7oUAamXSoJd9mB6m5LNOPo6v3FjiOPbteq2xXHxD2x5PjwZ7cup22s"
+																target="_blank" rel="noopener"><strong>Grève des
+																	étudiants collégiaux aux
+																	Îles-de-la-Madeleine</strong></a><br>
+															Radio-Canada Gaspésie-Îles-de-la-Madeleine, 29 mars 2019
+														</li>
+														<li><a href="https://www.lechodelarivenord.ca/actualites/societe/358856/25-000-stagiaires-et-etudiants-en-sont-en-greve?fbclid=IwAR0KUB3axZ5VEdzONH6URl0tMpC2xDvEpzbKyEjG-QPQpHHfgtEsv0EalmE"
+																target="_blank" rel="noopener"><strong>25 000 étudiants
+																	et stagiaires sont en grève</strong></a><br>
+															L’Écho de la Rive-Nord, 28 mars 2019</li>
+														<li><a href="https://www.tvanouvelles.ca/2019/03/26/remuneration-des-stages-les-etudiants-poursuivent-leur-greve-1?fbclid=IwAR1JaxPzvEhiSIl--Mbe21kyLgUjHDrLVUt1VMq19mgp8mDR-_-FrdQOyz8"
+																target="_blank" rel="noopener"><strong>Rémunération des
+																	stages: les étudiants poursuivent leur
+																	grève</strong></a><br>
+															Agence QMI, TVA Nouvelles, 26 mars 2019</li>
+														<li><a href="https://www.vice.com/fr_ca/article/kzdjya/la-greve-des-stages-est-feministe?fbclid=IwAR0aIBwMcJpp-MtjngWu8BLEGZsnpY6UKahzlt2tCf2s1ZN_G_-kQtFSS5s"
+																target="_blank" rel="noopener"><strong>La grève des
+																	stages est féministe</strong></a><br>
+															Marie Boule, VICE Québec, 22 mars 2019</li>
+														<li><a href="https://thelinknewspaper.ca/article/student-march-halts-at-ministry-of-education-unhappy-with-governments-short?fbclid=IwAR0jIsr9YstjNVv7uingKV5q-wPaJOjM5B1TSDVzaeb5-3NJjcDlqGZPTUw"
+																target="_blank" rel="noopener"><strong>Student March
+																	Halts at Ministry of Education, Unhappy with ‘Short
+																	Term’ Solutions</strong></a><br>
+															Alexander Perez, The Link, March 22, 2019</li>
+														<li><a href="http://quartierlibre.ca/budget-2019-rien-pour-les-stagiaires/?fbclid=IwAR2Y85nqHL-APSuXU3AZWOx4SiEUbRWM7yn8POi-o_9oZ4HcMelKuIuvnQs"
+																target="_blank" rel="noopener"><strong>Budget 2019 :
+																	Rien pour les stagiaires</strong></a><br>
+															Zacharie Routhier, Quartier Libre, 21 mars 2019</li>
+														<li><strong><a
+																	href="https://jacobinmag.com/2019/03/quebec-unpaid-internships-strike-university?fbclid=IwAR1R375_iH4y5Xdb13cCjIqr-lOnEIWuh1r0bC0WTWeLTOxrI5-7CvqT_fA"
+																	target="_blank" rel="noopener">“Pay your interns
+																	now”</a></strong><br>
+															Eleni Schirmer, Jacobin, March 21, 2019</li>
+														<li><a href="https://ici.radio-canada.ca/nouvelle/1159470/manifestation-etudiante-victoriaville-stage-remunere?fbclid=IwAR2u_jqlfixrH-9tsWdc2CFSAJaNlfAvvGZBPU0Bq6WkmWy_ZczLKo2ozkU"
+																target="_blank" rel="noopener"><strong>Manifestation
+																	étudiante à Victoriaville</strong></a><br>
+															Radio-Canada Estrie, 20 mars 2019</li>
+														<li><a href="https://www.lanouvelle.net/2019/03/20/les-etudiants-du-cegep-en-debrayage-pour-des-stages-remuneres/?fbclid=IwAR2tSHl5Px3kPuSBbYX1mMgxUFjbZR7-8oUk7-L5furPrFQyQ8lH0oGNe1Y"
+																target="_blank" rel="noopener"><strong>Les étudiants du
+																	Cégep en débrayage pour des stages
+																	rémunérés</strong></a><br>
+															Andrée-Anne Fréchette, La Nouvelle Union, 20 mars 2019</li>
+														<li><a href="https://ici.radio-canada.ca/nouvelle/1159026/greve-universite-laval-remuneration-stages-etudiants-quebec?fbclid=IwAR2T-2Tx-PQW5BzNRja387xbKBh79DTHWu8_FWiQqMSr9K3Iim8VG07r5HE"
+																target="_blank" rel="noopener"><strong>Grève à
+																	l’Université Laval pour la rémunération des
+																	stages</strong></a><br>
+															Radio-Canada Québec, 18 mars 2019</li>
+														<li><a href="https://ici.radio-canada.ca/nouvelle/1159013/greve-etudiante-generale-remuneration-stages?fbclid=IwAR3aHG0WyAKKie25sndyRNCjpD3gJb6niq1RdC5fqfo1J-cuz0hqjWBsEXE"
+																target="_blank" rel="noopener"><strong>Une grève
+																	étudiante générale est lancée pour la rémunération
+																	des stages</strong></a><br>
+															Isabelle Maltais, Radio-Canada Montréal, 18 mars 2019</li>
+														<li><a href="https://montreal.ctvnews.ca/35-000-students-to-hold-week-long-protest-against-unpaid-internships-1.4340560?fbclid=IwAR3CIjVDGSaJuEvl108gCgUh7syvjKD20-9by9Ewe7lhSMWHd1SQUdamCCg"
+																target="_blank" rel="noopener"><strong>35 000 students
+																	to hold week-long protest against unpaid
+																	internships</strong></a><br>
+															CTV Montréal, March 18, 2019</li>
+														<li><a href="https://www.985fm.ca/nouvelles/politique/201324/stages-remuneres-on-denonce-ce-deux-poids-deux-mesures?fbclid=IwAR2x0W6MFMXrZWjnspqiDVyqhyJkipkEYDLHFxMlUiDbZKSHm1C4KDZ7J-s"
+																target="_blank" rel="noopener"><strong>Stages rémunérés
+																	: « On dénonce ce deux poids, deux mesures
+																	»</strong></a><br>
+															Bernard Drainville, 98,5 FM, 18 mars 2019</li>
+														<li><a href="https://www.cbc.ca/player/play/1460480067705?fbclid=IwAR3yz58IBY5Cz9CGaW_W8cQYzC6Rcy2-PtJ6yiDJpqGaU4fZ0CBxzzUe48c"
+																target="_blank" rel="noopener"><strong>Strike against
+																	unpaid internships</strong></a><br>
+															CBC Montreal News (10min.26), March 18, 2019</li>
+														<li><a href="https://www.journaldemontreal.com/2019/03/17/35-000-etudiants-en-greve-des-lundi?fbclid=IwAR2KUnCa_RkUEiZIw8wqGPdepExXGlt7bQVQtNQuZplHHYDxwAL_NtgPxiA"
+																target="_blank" rel="noopener"><strong>35 000 étudiants
+																	en grève dès lundi</strong></a><br>
+															Agence QMI, Journal de Montréal, 17 mars 2019</li>
+														<li><a href="https://www.thestar.com/amp/opinion/contributors/2019/03/13/the-curse-of-unpaid-internships-keep-students-from-getting-jobs.html?fbclid=IwAR008ztfmHkLBUaMRRTGO-bdTZmY_4eBWfpFpUAOIm54cbOKqsvbyXpFcu8"
+																target="_blank" rel="noopener"><strong>The curse of
+																	unpaid internships keep students from getting
+																	jobs</strong></a><br>
+															Gabrielle Drolet, The Star, March 13, 2019</li>
+														<li><a href="https://www.latribune.ca/actualites/sherbrooke/une-semaine-de-greve-a-la-flsh-e5d3eb01a2055ee4554c609c9dea49dd?fbclid=IwAR1XwPU6olU0Ml8Aqte7SBmC12S-nn-gWgsclYljpzbJYGP9rW_TEun7OWI"
+																target="_blank" rel="noopener"><strong>Une semaine de
+																	grève à la FLSH</strong></a><br>
+															Chloé Cotnoir, La Tribune, 7 mars 2019</li>
+														<li><a href="https://socialistworker.org/2019/03/04/why-quebec-students-are-back-in-the-streets?fbclid=IwAR29acqYFgd-rSQT5VOT918ETHqrG5SOY90OPm_XshH0R5jL5idaVJFDkt8"
+																target="_blank" rel="noopener"><strong>Why Quebec
+																	Students are Back in the Streets</strong></a><br>
+															Paolo Miriello-Lapointe, Socialist Worker, March 4, 2019
+														</li>
+													</ul>
+												</div> <!-- .et_pb_toggle_content -->
+											</div> <!-- .et_pb_toggle -->
+											<div
+												class="et_pb_module et_pb_toggle et_pb_toggle_1 et_pb_toggle_item  et_pb_text_align_justified et_pb_toggle_close">
+
+
+												<h5 class="et_pb_toggle_title">Février 2019</h5>
+												<div class="et_pb_toggle_content clearfix" style="display: none;">
+													<ul>
+														<li><a href="https://www.vice.com/amp/fr_ca/article/9kpz77/mon-quotidien-de-stagiaire-sans-salaire?fbclid=IwAR2ySagohyN0r9XGYe4O1RuiLIVmVksSLUhUkRw_JmcyMbc9mDzjAW0rqMM"
+																target="_blank" rel="noopener"><strong>Mon quotidien de
+																	stagiaire sans salaire</strong></a><br>
+															Marie Boulet, VICE, 27 février 2019</li>
+														<li><a href="http://montrealcampus.ca/2019/02/26/un-mois-de-mars-charge-en-greves-pour-le-mouvement-pour-la-remuneration-des-stages/?fbclid=IwAR0WyAH_KqMNK2JBem2ww2HSKiWqI8A7XrXGSnZ6syS0-EW0eKVp5S5s3to"
+																target="_blank" rel="noopener"><strong>Un mois de mars
+																	chargé en grèves pour le mouvement pour la
+																	rémunération des stages</strong></a><br>
+															Laurent Lavoie, Montréal Campus, 26 février 2019</li>
+														<li><a href="https://www.ledevoir.com/societe/education/548553/le-nouveau-visage-de-la-precarite?fbclid=IwAR1VLCMWgMZIpsLv_yJHm98FzaX9tzySQfEFXPmSthOOlaPMBwWyTE65hyE"
+																target="_blank" rel="noopener"><strong>Les stagiaires,
+																	le nouveau visage de la précarité</strong></a><br>
+															Marco Fortier, Le Devoir, 25 février 2019</li>
+														<li><strong><a
+																	href="https://www.narcity.com/ca/qc/montreal/nouvelles/une-greve-generale-illimitee-sera-officiellement-declenchee-a-luqam-le-mois-prochain?fbclid=IwAR19k3wAcNpPdhJWkJBMLxHna3K9fLDgjAjrz9MEGNyARasQLev8dCg-T1c"
+																	target="_blank" rel="noopener">Une grève générale
+																	illimitée sera officiellement déclenchée à l’UQAM le
+																	mois prochain</a></strong><br>
+															Ariane Fortin, Narcity, 22 février 2019</li>
+														<li><a href="http://impactcampus.ca/actualites/remuneration-stages-etudiant-es-se-mobilisent-pavillon-charles-de-koninck/?fbclid=IwAR1neqGX020xwUrl32kRrMT6Z6yXXO6FpgMWknQCpb77UIhCnCTfyUDTnG8"
+																target="_blank" rel="noopener"><strong>Rémunération des
+																	stages : des étudiant-es se mobilisent au pavillon
+																	Charles-de-Koninck</strong></a><br>
+															Ludovic Dufour, Impact Campus, 21 février 2019</li>
+														<li><a href="http://quartierlibre.ca/19-000-etudiants-en-greve-pour-la-remuneration-des-stages/?fbclid=IwAR2KCiuPIySyH1p7QkzcB05mGyWAJkpY4bLoesrwKLR1S6yid3sF6rddD1Y"
+																target="_blank" rel="noopener"><strong>19 000 étudiants
+																	en grève pour la rémunération des
+																	stages</strong></a><br>
+															Zacharie Routhier, Quartier Libre, 21 février 2019</li>
+														<li><a href="https://journalmetro.com/actualites/2178555/stages-non-remunerees-42-des-etudiants-anxieux-a-cause-de-la-precarite-financiere/?fbclid=IwAR36QGRfJOldZfoTGpEz_cU9wnZKEQ0ySMejzsGz_GgVw5Wpf2d_3dig8xY"
+																target="_blank" rel="noopener"><strong>Stages non
+																	rémunérés : 42% des étudiants anxieux à cause de la
+																	précarité financière</strong></a><br>
+															Vanessa Hébert, Journal Métro, 20 février 2019</li>
+														<li><a href="https://globalnews.ca/news/4978700/vanier-college-students-walk-out-of-classes-wednesday-morning/?fbclid=IwAR3oE9czjkZNWbvReb6xuVM-VQMkiZwiFv3Ne4UvB99PELczwWUchLeFlyM"
+																target="_blank" rel="noopener"><strong>Vanier College
+																	students stage walkout over unpaid
+																	internships</strong></a><br>
+															Felicia Parrillo, Global News, February 20, 2019</li>
+														<li><strong><a
+																	href="http://montrealcampus.ca/2019/02/20/remuneration-des-stages-une-mobilisation-a-la-grandeur-de-la-province/"
+																	target="_blank" rel="noopener">Rémunération des
+																	stages: une mobilisation à la grandeur de la
+																	province</a></strong><br>
+															Marguerite Morin, Montréal Campus, 20 février 2019</li>
+														<li><strong><a
+																	href="https://ici.radio-canada.ca/premiere/emissions/faites-du-bruit/segments/entrevue/106771/stages-remuneration-enjeux-etudiants-feministe-uqam-camille-robert-travail-invisible"
+																	target="_blank" rel="noopener">Rémunération des
+																	stages: la prochaine étape pour l’équité
+																	salariale</a></strong><br>
+															Audio Fil de&nbsp;<em>Faites du Bruit</em>, Radio-Canada, 15
+															février 2019</li>
+														<li><a href="https://www.journaldemontreal.com/2019/02/12/remuneration-des-stages-des-etudiants-de-luqam-en-route-vers-une-greve-illimitee?fbclid=IwAR1cj8dUwoAc5NhelbSNXSLpc8Em7gh--BJOjyIdCgnJ4NooVpQNQDHbNo8"
+																target="_blank" rel="noopener"><strong>Rémunération des
+																	stages: des étudiants de l’UQAM en route vers une
+																	grève générale illimitée</strong></a><br>
+															Agence QMI, Journal de Montréal, 12 février 1019</li>
+														<li><strong><a
+																	href="https://www.ledevoir.com/societe/education/547676/stages-les-etudiants-en-sciences-humaines-de-l-uqam-adoptent-un-mandat-de-greve"
+																	target="_blank" rel="noopener">Stages: les étudiants
+																	en sciences humaines de l’UQAM adoptent un mandat de
+																	grève</a></strong><br>
+															Le Devoir, 12 février 2019</li>
+														<li><a href="https://www.lapresse.ca/actualites/education/201902/11/01-5214369-un-mandat-de-greve-en-sciences-humaines-a-luqam.php?fbclid=IwAR30mFIJukLYvFDC5j4PJOh1pkkYp0fDzX9miu4wvsTWrG6-NmynsiBhhXw"
+																target="_blank" rel="noopener"><strong>Un mandat de
+																	grève en sciences humaines à l’UQAM</strong></a><br>
+															La Presse canadienne, 11 février 2019</li>
+														<li><a href="https://lactualite.com/actualites/2019/02/11/stages-les-etudiants-en-sciences-humaines-de-luqam-adoptent-un-mandat-de-greve/"
+																target="_blank" rel="noopener"><strong>Stages: les
+																	étudiants en sciences humaines de l’UQAM adoptent un
+																	mandat de grève</strong></a><br>
+															L’actualité, 11 février 2019</li>
+														<li><strong><a
+																	href="https://www.tvanouvelles.ca/2019/02/11/des-etudiants-de-luqam-en-route-vers-une-greve-illimitee"
+																	target="_blank" rel="noopener">Des étudiants de
+																	l’UQAM en route vers une grève
+																	illimitée</a></strong><br>
+															TVA Nouvelles, 11 février 2019</li>
+														<li><a href="https://thelinknewspaper.ca/article/strike-votes-imminent-as-departments-prepare-for-mobilization?fbclid=IwAR0vXuDFmy3CT7H_j0UJdjLLE2JSONE67br7EhgmH__Ex3Xvn-V43YUWnhM"
+																target="_blank" rel="noopener"><strong>Strike Votes
+																	Imminent as Departments Prepare for
+																	Mobilization</strong></a><br>
+															Alexander Perez, The Link, February 10, 2019</li>
+														<li><a href="https://ici.radio-canada.ca/nouvelle/1152065/greve-etudiants-stages-remuneres-quebec?fbclid=IwAR3koFZQGVMtzu7s9KtHgViJqDcz1By3ILpcrByKB8CXz9axx2NsKhxaSXo"
+																target="_blank" rel="noopener"><strong>Des étudiants
+																	revendiquent des stages rémunérés à
+																	Québec</strong></a><br>
+															Fanny Samson, Radio-Canada Québec, 9 février 2019</li>
+														<li><a href="https://www.lesoleil.com/actualite/education/des-stagiaires-manifestent-pour-la-remuneration-cc732917b4fefd8a3fc500333ee26724?fbclid=IwAR3tRg1Osehh5XiyllKfBBkc2UjJmcrr1MeRmHk_iQGoQSl7ECVAIvce__I"
+																target="_blank" rel="noopener"><strong>Des stagiaires
+																	manifestent pour la rémunération</strong></a><br>
+															Ian Bussières, Le Soleil, 9 février 2019</li>
+														<li><a href="https://quebec.huffingtonpost.ca/sonia-ethier/remuneration-stages-femmes-fin-injustices-mobilisation-stagiaires_a_23665023/?ec_carp=2000007335791571622&amp;fbclid=IwAR3LrX99wis3_VfmZ4_usdod1wmNe8XirJC_TmZzznS5g_CPGtNvwiENNXo&amp;ec_carp=2000007335791571622"
+																target="_blank" rel="noopener"><strong>Stages: mettons
+																	fin aux injustices !</strong></a><br>
+															Sonia Éthier, Huffington Post, 8 février 2019</li>
+														<li><a href="https://www.lesoleil.com/opinions/point-de-vue/pour-des-stages-remuneres-954c96e574bd6f3312e40bfcc003735a?utm_source=dlvr.it&amp;utm_medium=facebook&amp;fbclid=IwAR0jn4wFu_SxCcSXQo4pbFMuSBHSUz0OwJNE50nGIXBs8lu2g3rqfKD_t1I"
+																target="_blank" rel="noopener"><strong>Pour des stages
+																	rémunérés</strong></a><br>
+															Nancy Beauseigle et Anne-Valérie Lemieux-Breton, Le Soleil,
+															7 février 2019</li>
+														<li><strong><a
+																	href="https://journalmetro.com/actualites/montreal/2106769/les-stagiaires-de-luqam-menacent-de-declencher-une-greve-generale-illimitee/?fbclid=IwAR3PMU-6WjoBvLVzuvLkrrkHgWUME15xymrwG4B1ki6zvuwXpBt_KrJ6wCU"
+																	target="_blank" rel="noopener">Les stagiaires de
+																	l’UQAM menacent de déclencher une grève générale
+																	illimitée</a></strong><br>
+															Vanessa Hébert, Journal Métro, 6 février 2019</li>
+														<li><a href="https://ici.radio-canada.ca/nouvelle/1151229/stages-remuneres-greve-faculte-des-lettres-universite-sherbrooke-etudiants?fbclid=IwAR0TG5JGmKVYWHej-HwecK0NcoWMH4_HxfgXKPtZsHFD2itTV2a8lcCkqWQ"
+																target="_blank" rel="noopener"><strong>Stages rémunérés
+																	: trois jours de grève à la Faculté des lettres de
+																	l’UdeS</strong></a><br>
+															Radio-Canada Estrie, 5 février 2019</li>
+														<li><a href="https://www.lesoleil.com/actualite/education/stage-remunere-vote-dune-greve-de-quatre-jours-au-cegep-limoilou-d468c192d10a236b3756783c9a4c762f?fbclid=IwAR34t2TwBk-x-XeT4eukMI2fiwKv5s73J2Of4YrsddT5b7oqCLDm_Qp8dJg"
+																target="_blank" rel="noopener"><strong>Stage rémunéré :
+																	vote d’une grève de 4 jours au Cégep
+																	Limoilou</strong></a><br>
+															Céline Fabriès, Le Soleil, 4 février 2019</li>
+														<li><a href="https://journallephoque.wordpress.com/2019/01/30/pourquoi-la-greve/?fbclid=IwAR1n2pZUgZ3KzpIl_-tAhTR4oSUeRzbtG6OdyIzRA_eBHNPUtGMzGHIE0WI"
+																target="_blank" rel="noopener"><strong>Pourquoi la grève
+																	?</strong></a><br>
+															Lauriane Alix, Journal Le Phoque, 2 février 2019</li>
+													</ul>
+												</div> <!-- .et_pb_toggle_content -->
+											</div> <!-- .et_pb_toggle -->
+											<div
+												class="et_pb_module et_pb_toggle et_pb_toggle_2 et_pb_toggle_item  et_pb_text_align_left et_pb_toggle_close">
+
+
+												<h5 class="et_pb_toggle_title">Janvier 2019</h5>
+												<div class="et_pb_toggle_content clearfix">
+													<ul>
+														<li><strong><a
+																	href="https://www.lapresse.ca/actualites/education/201901/29/01-5212821-stages-etudiants-la-menace-de-greve-plane-toujours.php?fbclid=IwAR2hL5rqLzIdw2lN-qsnQdTijx35Yn0OnVxriECoJ4vhTXyAmErNogT_lgQ"
+																	target="_blank" rel="noopener">Stages étudiants : la
+																	menace de grève plane toujours</a><br>
+															</strong>Marie-Ève Morasse, La Presse, 30 janvier 2019</li>
+														<li><span style="font-weight: 400;"><span
+																	style="font-weight: 400;"><strong><a
+																			href="http://montrealcampus.ca/2019/01/27/la-campagne-continue-en-vue-de-la-remuneration-des-stages/"
+																			target="_blank" rel="noopener">La campagne
+																			continue en vue de la rémunération des
+																			stages</a></strong><br>
+																</span></span>Marguerite Morin, Montréal Campus. 27
+															janvier 2019</li>
+														<li><span style="font-weight: 400;"><strong><a
+																		href="http://quartierlibre.ca/encadrement-des-stages-bataille-sur-deux-fronts/"
+																		target="_blank" rel="noopener">Encadrement des
+																		stages: bataille sur deux
+																		fronts</a></strong><br>
+																Zacharie Routhier, Quartier Libre, 22 janvier
+																2019</span></li>
+													</ul>
+												</div> <!-- .et_pb_toggle_content -->
+											</div> <!-- .et_pb_toggle -->
+											<div
+												class="et_pb_module et_pb_toggle et_pb_toggle_3 et_pb_toggle_item  et_pb_text_align_left et_pb_toggle_close">
+
+
+												<h5 class="et_pb_toggle_title">Décembre 2018</h5>
+												<div class="et_pb_toggle_content clearfix">
+													<ul>
+														<li><a href="https://ici.radio-canada.ca/premiere/emissions/trouble-fetes/segments/chronique/100458/bilan-medias-2018-marilyse-hamelin-nicolas-tittley"
+																target="_blank" rel="noopener"><strong>Femmes et
+																	environnement, les deux sujets de l’année dans les
+																	médias</strong></a><br>
+															Bilan médias 2018 avec Marilyse Hamelin et Nicolas Tittley
+															(à 5min45), Ici Radio-Canada, 31 décembre 2018</li>
+														<li><strong><a
+																	href="http://montrealcampus.ca/2018/12/21/les-visages-derriere-les-stages-non-payes/?fbclid=IwAR2ZNU1LFbikYCDUqQS7FeFL4X85AVHnLm0h5BVdXu8BdaPdR3NaNiO3lZU"
+																	target="_blank" rel="noopener">Le visage derrière
+																	les stages non-rémunérés</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp;</strong>François-Alexis Favreau, Montréal
+															Campus, 21 décembre 2018</li>
+														<li><strong><a
+																	href="http://quartierlibre.ca/construire-la-mobilisation/?fbclid=IwAR3oSqJh5yyUN4OFeIfFhcTMRd7XePATt9P0MmgOqPjKfFSFgM1uP8S_BMI"
+																	target="_blank" rel="noopener">Construire la
+																	mobilisation</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp;</strong>Lou Curien, Quartier Libre, 13
+															décembre 2018</li>
+														<li><strong><a
+																	href="http://runnermag.ca/2018/12/the-quebec-student-strike-against-unpaid-work-is-long-overdue/"
+																	target="_blank" rel="noopener">The Quebec Student
+																	Strike Against Unpaid Work Is Long Overdue</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;&nbsp;</strong>Braden Klassen, The Runner, 8
+															décembre 2018</li>
+														<li><strong><a
+																	href="http://montrealcampus.ca/2018/12/07/les-douze-travaux-de-la-remuneration/"
+																	target="_blank" rel="noopener">Les douze travaux de
+																	la rémunération</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp;</strong>François Carabin, Montréal Campus, 7
+															décembre 2018</li>
+														<li><strong><a
+																	href="https://www.exemplaire.com.ulaval.ca/actualites/un-debat-sur-les-stages-remuneres-en-vue-dans-les-cegeps-de-quebec/?fbclid=IwAR37hSp2L-ulZVZdtk6vS-gP0tkUM3F09hhU-IM9WJCcW5BkNbLdEF1HFuI"
+																	target="_blank" rel="noopener">Un débat sur les
+																	stages rémunérés en vue dans les cégeps de
+																	Québec</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;</strong>Entrevue radio, L’Exemplaire, 5
+															décembre 2018</li>
+														<li><strong><a
+																	href="https://theconversation.com/faut-il-remunerer-les-stages-etudiants-108373"
+																	target="_blank" rel="noopener">Faut-il rémunérer les
+																	stages étudiants?</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;
+																&nbsp;&nbsp;</strong>Saul Carnier, La conversation, 6
+															décembre 2018</li>
+													</ul>
+												</div> <!-- .et_pb_toggle_content -->
+											</div> <!-- .et_pb_toggle -->
+											<div
+												class="et_pb_module et_pb_toggle et_pb_toggle_4 et_pb_toggle_item  et_pb_text_align_left et_pb_toggle_close">
+
+
+												<h5 class="et_pb_toggle_title">Novembre 2018</h5>
+												<div class="et_pb_toggle_content clearfix">
+													<ul>
+														<li><strong><a
+																	href="https://www.lenouvelliste.ca/actualites/les-etudiantes-sages-femmes-de-luqtr-en-greve-90d72ae77372cc7857c49e799c931a87?fbclid=IwAR2A-fZ7obxFRX5fZ6YtkpJ6LZcIj7sFSgbo8a_UfCUwT6tc-vxMYxGhxH8"
+																	target="_blank" rel="noopener">Les étudiantes
+																	sages-femmes de l’UQTR en grève</a></strong>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; Brigitte Trahan, Le Nouvelliste, 21 novembre
+															2018</li>
+														<li><strong><a
+																	href="https://ici.radio-canada.ca/nouvelle/1137139/etudiants-manifestent-stages-remuneres-quebec?fbclid=IwAR0RSdM61EraGDXvrpkJhGqnMXuy2NZzeOQeyeijMsLWGKDcdHrIryVFOKc"
+																	target="_blank" rel="noopener">Les étudiants du
+																	Québec manifestent pour des stages
+																	rémunérés</a></strong>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp;Radio-Canada Grand Montréal, 21 novembre 2018</li>
+														<li><a href="https://www.tvanouvelles.ca/2018/11/21/stages-remuneres-la-contestation-etudiante-sintensifie-1?fbclid=IwAR3_EC80_Y7I4FZQjMxkDeCZrk4JVuF2WxPKLMyFc9OXqR6ryMKcSbq8iRo"
+																target="_blank" rel="noopener"><strong>La contestation
+																	s’intensifie: Quelques milliers d’étudiants marchent
+																	pour la rémunération des stages</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp;
+															&nbsp;Agence QMI, TVA Nouvelles, 21 novembre 2018</li>
+														<li><strong><a
+																	href="https://www.lapresse.ca/actualites/education/201811/21/01-5205022-point-culminant-de-la-greve-etudiante-aujourdhui.php?fbclid=IwAR0u2zQUy-EnaDcrWjvRKRS6H-9YhSxr5HTVZ6NqcbbZn2VkWcSa0Vi-FAg"
+																	target="_blank" rel="noopener">Point culminant de la
+																	grève étudiante aujourd’hui</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp;</strong>Sara Champagne, La Presse, 21 novembre
+															2018</li>
+														<li><a href="https://ici.radio-canada.ca/amp/1137145/milliers-etudiants-greve-universite-sherbrooke-stages-remuneration-faculte-education?fbclid=IwAR2BAl5AJpIuADZMKQ1kLX61EgpOAf_0YnuqHQsBgOL7J6kgmyvBolgPI8s"
+																target="_blank" rel="noopener"><strong>Des milliers
+																	d’étudiants en grève à
+																	Sherbrooke</strong></a><strong>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;&nbsp;</strong>Radio-Canada Estrie, 21 novembre
+															2018</li>
+														<li><strong><a
+																	href="https://soundcloud.com/radiocanadainfo/0085995c?fbclid=IwAR3_EC80_Y7I4FZQjMxkDeCZrk4JVuF2WxPKLMyFc9OXqR6ryMKcSbq8iRo"
+																	target="_blank" rel="noopener">Jour de mobilisation
+																	pour des stages rémunérés</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp;</strong>&nbsp;Radio-Canada Info, 21 novembre 2018
+														</li>
+														<li><strong><a
+																	href="https://ici.radio-canada.ca/premiere/emissions/gravel-le-matin/episodes/420745/audio-fil-du-mercredi-21-novembre-2018/34?fbclid=IwAR3sjJzNEJqNref8BE_QDBet_JrfSK4aQs8W9t6QFSthihHswTX_vzAy6VU"
+																	target="_blank" rel="noopener">Grève étudiante pour
+																	des stages rémunérés</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp;</strong>&nbsp;Gravel le matin,
+															Radio-Canada Grand Montréal, 21 novembre 2018</li>
+														<li><a href="http://www.pressegauche.org/Des-stages-remuneres?fbclid=IwAR3xAYmkwctVrzfrQ-l6OIR1Syx-ZRbPSgbtaL7kDNXBSC3wAscdY6_kVMo"
+																target="_blank" rel="noopener"><strong>Des stages
+																	rémunérés</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Maria-Alexandra
+															Cracium,
+															Presse-toi à gauche!, 21 novembre 2018</li>
+														<li><a href="https://ici.radio-canada.ca/premiere/emissions/boreale-138/segments/entrevue/95846/etudiants-manifestent-stages-remuneres-quebec-realite-region?fbclid=IwAR1ge1Pk9WvLFbb30z_CSVZfgAgYgUHQAX9SG5gsBE7MKC4hFprHWxfCK9I"
+																target="_blank" rel="noopener"><strong>Rémunérer ou non
+																	les stages des étudiants</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Boréal 138, Radio-Canada
+															Côte-Nord, 21
+															novembre 2018</li>
+														<li><strong><a
+																	href="https://soundcloud.com/jerome-landry-energie/jerome-landry-au-retour-est-ce-que-tous-les-stages-devraient-etre-remuneres"
+																	target="_blank" rel="noopener">Est-ce que tous les
+																	stages devraient être rémunérés?</a></strong>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Jérôme
+															Landry, Énergie
+															98,9, 21 novembre 2018</li>
+														<li><strong><a
+																	href="https://ici.radio-canada.ca/premiere/emissions/premiere-heure/segments/entrevue/95775/greve-etudiant-stage-remunere?fbclid=IwAR3Yu7awUDm2G28-6t0KMv_NTpOqUD0KnNEv7G7Lj2LXIDKVEpqLAvWItaE"
+																	target="_blank" rel="noopener">Stages rémunérés: Les
+																	demandes des étudiants</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;</strong>&nbsp;Première heure, Radio-Canada Grand
+															Montréal, 21 novembre 2018</li>
+														<li><strong><a
+																	href="https://ici.radio-canada.ca/premiere/emissions/premiere-heure/segments/entrevue/95776/greve-etudiant-stage-remunere-michaud?fbclid=IwAR3TTR8NqnqxfuYb4mtgCt1POLcto7709-qQy7GcC9vro46Cohe7NdXf9y4"
+																	target="_blank" rel="noopener">Stages rémunérés: Les
+																	explications de Me Félix-Antoine Michaud </a>&nbsp;
+																&nbsp; &nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp;Première heure, Radio-Canada
+															Grand Montréal, 21 novembre 2018</li>
+														<li><a href="http://www.journaldelevis.com/1120/Soci%C3%A9t%C3%A9_.html?id=33325&amp;fbclid=IwAR1mnSoVCdlztXroo2DcAq-rOPanlw0PjJLh-7yrl36bO6l82Uzl5nStNUo"
+																target="_blank" rel="noopener"><strong>Stages
+																	non-rémunérés: le mouvement de contestation gagne
+																	Lévis</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp;Erick Deschenes, Le Journal de
+															Lévis, 21
+															novembre 2018</li>
+														<li><a href="https://montrealgazette.com/opinion/columnists/hanes-there-is-peril-in-underestimating-striking-students?fbclid=IwAR1ac6NpmYLUctE4KBFybT7n28vYFchfpZt6HPL2ax38yUQGCVQ8LGcqaZU"
+																target="_blank" rel="noopener"><strong>Hanes: There is
+																	peril in underestimating striking
+																	students</strong></a><strong>&nbsp;</strong>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp;Allison Hanes, Montreal Gazette, 21 novembre 2018</li>
+														<li><a href="https://www.cbc.ca/news/canada/ottawa/gatineau-students-block-classroom-doors-to-protest-internships-1.4914275?fbclid=IwAR3xAYmkwctVrzfrQ-l6OIR1Syx-ZRbPSgbtaL7kDNXBSC3wAscdY6_kVMo"
+																target="_blank" rel="noopener"><strong>Gatineau students
+																	teachers protest unpaid
+																	internship</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CBC News Ottawa, 21
+															novembre 2018</li>
+														<li><strong><a
+																	href="https://twitter.com/RadioCanadaInfo/status/1065339117033086976?fbclid=IwAR1bt-3tmD-W5MxlW9zXprixke4fVgZbf7bMRw4QsoLWYGOwLq6nkNdGMx8"
+																	target="_blank" rel="noopener">Débrayage pour des
+																	stages payés</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp;</strong>&nbsp;Radio-Canada Info, 21
+															novembre 2018</li>
+														<li><strong><a
+																	href="https://www.lapresse.ca/actualites/education/201811/21/01-5205124-des-milliers-detudiants-manifestent-pour-des-stages-payes.php?fbclid=IwAR1mnSoVCdlztXroo2DcAq-rOPanlw0PjJLh-7yrl36bO6l82Uzl5nStNUo"
+																	target="_blank" rel="noopener">Des milliers
+																	d’étudiants manifestent pour des stages
+																	payés</a>&nbsp;</strong>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp;Simon-Olivier
+															Lorange, La Presse, 21 novembre 2018</li>
+														<li><strong><a
+																	href="https://www.ledevoir.com/societe/education/541878/manifestation-etudiante?fbclid=IwAR3tpTkbiew_O4rLHTjGRB8BqIVgf-Fbf-rIcXrM_QUYWJAUZuf5LXn3Ego"
+																	target="_blank" rel="noopener">Les étudiants dans la
+																	rue pour réclamer des stages rémunérés</a>&nbsp;
+																&nbsp; &nbsp;</strong>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; Annabelle Caillou, Le Devoir, 21 novembre 2018</li>
+														<li><strong><a
+																	href="http://impactcampus.ca/actualites/quatre-assos-greve-remuneration-stages/?fbclid=IwAR1NYOhrLY3AydOb5anOLc01-6ECM8pOVMyB-G9p5A3DJFtuZrdrLO_vsR4"
+																	target="_blank" rel="noopener">Quatre assos en grève
+																	pour la rémunération des stages</a> </strong>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Raphaël Lapierre, Impact
+															Campus, 20
+															novembre 2018</li>
+														<li><strong><a
+																	href="https://www.ledevoir.com/societe/541744/cegepiens-en-greve?fbclid=IwAR0_OwvAJfUCmTZ4Q1jgcTTtlK7EvtanN91GHgZzdtrH1BTmyh6F0oaYoQc"
+																	target="_blank" rel="noopener">Des étudiants en
+																	grève pour des stages rémunérés</a>
+																&nbsp;</strong>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Jessica Nadeau, Le
+															Devoir, 20
+															novembre 2018</li>
+														<li><strong><a
+																	href="http://www.mcgilltribune.com/news/social-work-students-strike-against-unpaid-internships-112018/?fbclid=IwAR1q8xHcoL7-EeEcFRsq2j4__clupworskyrVGmhxZRmVIRC_ABh8rBchmo"
+																	target="_blank" rel="noopener">Social Work students
+																	strike against unpaid internships</a>
+																&nbsp;</strong>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															Jacqueline Yao, The McGill Tribune, 20 novembre 2018</li>
+														<li><strong><a
+																	href="https://ici.radio-canada.ca/nouvelle/1136920/greve-etudiantes-sages-femmes-uqtr-remuneration-stages?fbclid=IwAR1yq0KmVsSemnlFLy_7KLnWn1vI6Hz_osEeWZEfoB4WRwngG5ggVN3miIk"
+																	target="_blank" rel="noopener">Les étudiantes
+																	sage-femmes en grève</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;</strong>&nbsp;Radio-Canada Mauricie et
+															Centre-du-Québec, 20 novembre 2018</li>
+														<li><strong><a
+																	href="https://twitter.com/rdimatin/status/1064883650783657984?s=19&amp;fbclid=IwAR2gDRJ7iffHxxEye2j35XzFFTf98_X51ILd3wy8SltflWrFPtaBoJWCpAs"
+																	target="_blank" rel="noopener">Les stagiaires
+																	devraient-ils être payés? Entrevue avec Camille
+																	Marcoux-Berthiaume</a>&nbsp; &nbsp;
+																&nbsp;&nbsp;</strong>RDI Matin, 20 novembre 2018</li>
+														<li><a href="https://www.journaldequebec.com/2018/11/20/stages-remuneres-3000-etudiants-en-greve-a-luqar-les-cours-suspendus?fbclid=IwAR1CFW5sVj2ugfsDaNzr_5i6WYNpBj48ijUVkg4rkEVNK60mZxaeuULJL6E"
+																target="_blank" rel="noopener"><strong>Stages rémunérés.
+																	3000 étudiants en grève à l’UQAR; les cours
+																	suspendus</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; Simon
+															Gamache Fortin et Vanessa Limoges, TVA Nouvelles
+															Bas-St-Laurent /
+															Journal de Québec , 20 novembre 2018</li>
+														<li><a href="https://ici.radio-canada.ca/premiere/emissions/le-15-18/episodes/420701/audio-fil-du-mardi-20-novembre-2018"
+																target="_blank" rel="noopener"><strong>Actualité avec
+																	Josée Boileau: obtenir des stages
+																	rémunérés</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp;Le 15-18, Radio-Canada Grand Montréal,
+															20 novembre
+															2018</li>
+														<li><strong><a
+																	href="https://www.lavantage.qc.ca/article/2018/11/20/une-centaine-d-etudiants-dans-les-rues-de-rimouski?fbclid=IwAR00wRa23dZxb6HKAzzC0QQZeOndHGVZYbk2q0nCCbtZWY_aXx4pbEzyL4o"
+																	target="_blank" rel="noopener">Une centaine
+																	d’étudiants dans les rues de Rimouski</a>
+																&nbsp;</strong>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; Adeline Mantyk, L’Avantage, 20 novembre
+															2018</li>
+														<li><strong><a
+																	href="https://ici.radio-canada.ca/amp/1136918/suspension-cours-uqar-manifestation-greve-stage-remuneration?fbclid=IwAR3uzoasTQ7Jx4SvY_lRfdcgl_htY1ZXQ7t83sv1ONiznK1iXnBWl_AZqq4"
+																	target="_blank" rel="noopener">Les étudiants de
+																	l’UQAR manifestent pour des stages
+																	rémunérés</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;</strong>&nbsp;Radio-Canada Bas-St-Laurent, 20
+															novembre 2018</li>
+														<li><strong><a
+																	href="https://www.tvanouvelles.ca/2018/11/20/les-apprenties-sages-femmes-souhaitent-des-stages-remuneres?fbclid=IwAR26LUbv2f7r9hBg2OYOcO_o3w4we8XIIKDsYT8vfDPDnPXtDNTYbSaQfiI"
+																	target="_blank" rel="noopener">Les apprenties
+																	sages-femmes souhaitent des stages
+																	rémunérés</a></strong>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Charel Traversy, TVA
+															Nouvelles
+															Trois-Rivières, 20 novembre 2018</li>
+														<li><strong><a
+																	href="https://ici.radio-canada.ca/amp/1137082/mouvement-greve-etudiants-stage-remuneres-quebec-universite-laval-cegep-limoilou?fbclid=IwAR2A-fZ7obxFRX5fZ6YtkpJ6LZcIj7sFSgbo8a_UfCUwT6tc-vxMYxGhxH8"
+																	target="_blank" rel="noopener">Stages rémunérés: Le
+																	mouvement de grève gagne Québec</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;</strong>&nbsp;Radio-Canada Québec, 20
+															novembre 2018</li>
+														<li><strong><a
+																	href="https://www.ledevoir.com/societe/education/541676/cegepiens-en-greve">Plus
+																	de 50 000 étudiants en grève</a>
+																&nbsp;</strong>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp;Jessica Nadeau, Le Devoir, 19 novembre
+															2018</li>
+														<li><a href="https://ici.radio-canada.ca/nouvelle/1136702/universite-cegep-greve-etudiante-remuneration-stages"
+																target="_blank" rel="noopener"><strong>«Ne défoncez pas
+																	des portes ouvertes!», dit le ministre de
+																	l’Éducation aux étudiants</strong></a>&nbsp; &nbsp;
+															&nbsp;Radio-Canada, 19 novembre 2018</li>
+														<li><strong><a
+																	href="https://www.lapresse.ca/actualites/education/201811/19/01-5204727-les-stagiaires-reclament-un-programme-de-remuneration.php?fbclid=IwAR2gmOrO_jwsfYBCWPayuUNRVATwU_63mT3hqIuuxBsIdnb4FoXLYOWBPsc"
+																	target="_blank" rel="noopener">Les stagiaires
+																	réclament un programme de rémunération</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;</strong>&nbsp;Marissa Groguhé, La Presse, 19
+															novembre 2018</li>
+														<li><a href="https://www.tvanouvelles.ca/videos/5968998343001?fbclid=IwAR2qKCa5Z2hpzkJI9ihV4TbKKYvPc93it-0Vic_ERQnm7sBYqwskktDG5wE"
+																target="_blank" rel="noopener"><strong>Suspension
+																	des cours pour la journée au cégep du Vieux
+																	Montréal: entrevue avec
+																	Mathilde Laforge, Comités unitaires pour le travail
+																	étudiant</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Mario Dumont LCN, TVA
+															Nouvelles, 19
+															novembre 2018</li>
+														<li><a
+																href="https://lactualite.com/actualites/2018/11/19/des-milliers-detudiants-en-greve-pour-obtenir-des-stages-remuneres/">&nbsp;</a><strong><a
+																	href="https://lactualite.com/actualites/2018/11/19/des-milliers-detudiants-en-greve-pour-obtenir-des-stages-remuneres/"
+																	target="_blank" rel="noopener">Des milliers
+																	d’étudiants en grève pour obtenir des stages
+																	rémunérés</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp;</strong>&nbsp;Caroline St-Pierre,
+															La Presse canadienne,L’Actualité, 19 novembre 2018</li>
+														<li><strong><a
+																	href="https://nationalpost.com/pmn/news-pmn/canada-news-pmn/more-than-50000-quebec-students-to-strike-seeking-pay-for-internships"
+																	target="_blank" rel="noopener">More than 50 000
+																	Quebec students to strike seeking pay for
+																	internships</a> &nbsp;</strong>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp;
+															&nbsp;Caroline St-Pierre, The Canadian Press, National Post,
+															19 novembre
+															2018</li>
+														<li><strong><a
+																	href="https://ici.radio-canada.ca/nouvelle/1136741/etudiants-uqo-greve-universite-quebec-outaouais-remuneration-stage"
+																	target="_blank" rel="noopener">Des étudiants de
+																	l’UQO en grève cette semaine</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;&nbsp;</strong>&nbsp;Radio-Canada Ottawa-Gatineau,
+															19 novembre 2018</li>
+														<li><strong><a
+																	href="https://quebec.huffingtonpost.ca/2018/11/19/greve-etudiante-remuneration-stages_a_23593860/?fbclid=IwAR3jvZrhgXMURC987wys6UvuY-mXosNIEU4TVwc51bxJkIs82otg_Fz9lxg"
+																	target="_blank" rel="noopener">Près de 60 000
+																	étudiants québécois en grève pour faire cesser les
+																	stages non-rémunérés</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;</strong>&nbsp;Caroline St-Pierre, La Presse
+															Canadienne, HufftingtonPost, 19 novembre 2018</li>
+														<li><a href="https://ici.radio-canada.ca/tele/le-telejournal-midi/site/segments/reportage/95469/etudiants-greve-stages-remuneres"
+																target="_blank" rel="noopener"><strong>Réclamer des
+																	stages rémunérés</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp;Le
+															téléjournal, Radio-Canada Grand Montréal, 19 novembre 2018
+														</li>
+														<li><a href="https://ici.radio-canada.ca/premiere/emissions/midi-info/episodes/420577/audio-fil-du-lundi-19-novembre-2018"
+																target="_blank" rel="noopener"><strong>Grève étudiante
+																	pour la rémunération des stages: entrevue avec
+																	Kassandra Raymond</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Midi-info, Radio-Canada,
+															19 novembre
+															2018</li>
+														<li><a href="https://www.cbc.ca/news/canada/montreal/unpaid-internship-protests-1.4911566?fbclid=IwAR0Hq0_yYRIZv-IAaAu2mNyKpfmp-rQodY5mPX2TEa48D-G9FVbMZMTknIw"
+																target="_blank" rel="noopener"><strong>Quebec students
+																	lauch week-long protest against unpaid
+																	internships</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CBC News, 19 novembre
+															2018</li>
+														<li><strong><a
+																	href="http://www.iheartradio.ca/rouge-fm/rouge-fm-rimouski/nouvelles/trois-jours-de-greve-a-l-uqar-1.8570020"
+																	target="_blank" rel="noopener">Trois jours de grève
+																	à l’UQAR</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;</strong>Maude Parent, 102.9 Rouge FM, 19 novembre
+															2018</li>
+														<li><strong><a
+																	href="https://www.journaldemontreal.com/2018/11/19/des-meres-stagiaires-au-bout-du-rouleau?fbclid=IwAR0RSdM61EraGDXvrpkJhGqnMXuy2NZzeOQeyeijMsLWGKDcdHrIryVFOKc"
+																	target="_blank" rel="noopener">Des mères stagiaires
+																	au bout du rouleau: en grève pour que les stages
+																	soient rémunérés</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;&nbsp;</strong>Dominique Scali, Le Journal de
+															Montréal, 19 novembre 2018</li>
+														<li><strong><a
+																	href="https://twitter.com/PatriceRoyTJ/status/1064654675654242304?fbclid=IwAR3A5tshN956f9yrosbVkxkUygi2uB4dmL78STxC2Kz9iGZQkZkbtDzsUd0"
+																	target="_blank" rel="noopener">Des milliers
+																	d’étudiants québécois menacent d’entamer une grève
+																	générale illimitée pour des stages
+																	rémunérés</a></strong>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp;
+															&nbsp;Téléjournal 18h, Radio-Canada, 19 novembre 2018</li>
+														<li><strong><a
+																	href="https://twitter.com/AMarieDussault/status/1064683251690745856?fbclid=IwAR0qCQ2XjvnAxkFIyr3w-Pi-U7l5vcNAJo8QjZpiEOT7vzqpaXIfxDKKb_Y"
+																	target="_blank" rel="noopener">Les étudiants
+																	québécois réclament des stages rémunérés, où mènera
+																	le mouvement de grève qui commence? </a>
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;&nbsp;</strong>24 heures en 60 minutes, RDI, 19
+															novembre 2018</li>
+														<li><strong><a
+																	href="https://www.985fm.ca/nouvelles/politique/167659/des-milliers-detudiants-en-greve-ils-exigent-des-stages-remuneres?fbclid=IwAR1bt-3tmD-W5MxlW9zXprixke4fVgZbf7bMRw4QsoLWYGOwLq6nkNdGMx8"
+																	target="_blank" rel="noopener">Des milliers
+																	d’étudiants en grève: ils exigent des stages
+																	rémunérés</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp;</strong>Drainville PM, 98,5 FM, 19
+															novembre 2018</li>
+														<li><strong><a
+																	href="https://www.ledroit.com/actualites/education/greve-de-1200-etudiants-de-luqo-pour-reclamer-des-stages-remuneres-9f57b3b0f372797ba950bad836efae09?fbclid=IwAR0qCQ2XjvnAxkFIyr3w-Pi-U7l5vcNAJo8QjZpiEOT7vzqpaXIfxDKKb_Y"
+																	target="_blank" rel="noopener">Grève de 1200
+																	étudiants de l’UQO pour réclamer des stages
+																	rémunérés</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;</strong>Justine Mercier, Le Droit, 19
+															novembre 2018</li>
+														<li><strong><a
+																	href="https://www.tvanouvelles.ca/2018/11/18/mouvement-de-greve-pour-la-remuneration-des-stages?fbclid=IwAR21piURWyaFSiKERqMLBSRWPB0I5_C89tdsdFIPlU71XAcT4S11rBZslKY"
+																	target="_blank" rel="noopener">Mouvement de grève
+																	pour la rémunération des stages</a>
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong>Agence
+															QMI, TVA Nouvelles, 18 novembre 2018</li>
+														<li><strong><a
+																	href="https://www.journaldemontreal.com/2018/11/18/les-etudiants-devraient-bouder-leurs-stages-cette-semaine"
+																	target="_blank" rel="noopener">Les étudiants
+																	devraient bouder leur stage cette semaine</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;&nbsp;</strong>Agence QMI, Journal de Montréal, 18
+															novembre 2018</li>
+														<li><a href="https://soundcloud.com/nobordersmedia/quebecinternstrike?fbclid=IwAR31WY3zWlDzmbZF9cjCw9OcVU6Ll7Odur3h1YQQVscwl91R5EwPo9Hl80I"
+																target="_blank" rel="noopener"><strong>More than 55 000
+																	Quebec students on strike this
+																	week</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp;Interview with
+															strikers Jackie and Laurie, No Borders Media, 18 novembre
+															2018</li>
+														<li><strong><a
+																	href="https://www.tvanouvelles.ca/2018/11/15/des-etudiants-en-greve-pour-obtenir-des-stages-payes"
+																	target="_blank" rel="noopener">Des étudiants en
+																	grève pour obtenir des stages payés</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;</strong>Stéphanie Gendron, Journal de Québec, TVA
+															Nouvelles, 15 novembre 2018</li>
+													</ul>
+												</div> <!-- .et_pb_toggle_content -->
+											</div> <!-- .et_pb_toggle -->
+											<div
+												class="et_pb_module et_pb_toggle et_pb_toggle_5 et_pb_toggle_item  et_pb_toggle_close">
+
+
+												<h5 class="et_pb_toggle_title">Octobre 2018</h5>
+												<div class="et_pb_toggle_content clearfix">
+													<ul>
+														<li><strong><a
+																	href="https://ici.radio-canada.ca/premiere/emissions/sur-le-vif/episodes/418721/audio-fil-du-jeudi-25-octobre-2018/3"
+																	target="_blank" rel="noopener">Des étudiants
+																	réclament une rémunération pour leurs stages en
+																	milieu de travail</a>&nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;&nbsp;</strong>Entrevue radio, Radio-Canada, Ici
+															Première, 25 octobre 2018, 15h18</li>
+													</ul>
+													<ul>
+														<li><strong><a
+																	href="https://ici.radio-canada.ca/nouvelle/1131909/greve-etudiante-outaouais-stages-remuneres"
+																	target="_blank" rel="noopener">La mobilisation
+																	étudiante s’organise en Outaouais pour exiger des
+																	stages rémunérés</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong>Radio-Canada
+															Ottawa-Gatineau, 25 octobre 2018</li>
+													</ul>
+													<ul>
+														<li><strong><a
+																	href="http://www.lecollectif.ca/bientot-la-fin-des-stages-non-remuneres-a-luniversite-le-souhait-de-plusieurs-membres-de-la-communaute-etudiante/"
+																	target="_blank" rel="noopener">Bientôt la fin des
+																	stages non rémunérés à l’université? Le souhait de
+																	plusieurs membres de la communauté
+																	étudiante</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;</strong>Martine Dallaire, Le Collectif, 22
+															octobre 2018</li>
+													</ul>
+													<ul>
+														<li><strong><a
+																	href="http://www.lecollectif.ca/avancees-dans-la-lutte-a-la-remuneration-des-stages/"
+																	target="_blank" rel="noopener">Avancées dans la
+																	lutte pour la rémunération des stages</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;&nbsp;</strong>Ariane Drainville, Le Collectif, 22
+															octobre 2018</li>
+													</ul>
+													<ul>
+														<li><strong><a
+																	href="http://quartierlibre.ca/nouveaux-mandats-de-greve-pour-la-remuneration-des-stages/?fbclid=IwAR1c7Oind2x7_q7hX17ypmOUGeQHtRFPU5sEk88n-1F-KyCD7VjdqZlrCOg"
+																	target="_blank" rel="noopener">Nouveaux mandats de
+																	grève pour la rémunération des
+																	stages&nbsp;</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp;</strong>Zacharie Routhier, Quartier libre,
+															11 octobre 2018</li>
+													</ul>
+													<ul>
+														<li><strong><a
+																	href="https://www.narcity.com/ca/qc/montreal/nouvelles/les-etudiants-en-education-de-luqam-envisagent-une-greve-generale-illimitee"
+																	target="_blank" rel="noopener">Les étudiants en
+																	éducation de l’UQAM envisagent une grève générale
+																	illimitée</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;&nbsp;</strong>Kayan Naghshi,
+															Narcity,&nbsp;10 octobre 2018</li>
+													</ul>
+													<ul>
+														<li><strong><a
+																	href="https://www.ledevoir.com/societe/education/538697/les-etudiants-en-education-de-l-uqam-retournent-en-greve?fbclid=IwAR1pA9ns5iTiAr_kxp0mM285PiIza79BfEOiygRDMCwXdwZtt5rwLZjYKC0"
+																	target="_blank" rel="noopener">Les étudiants en
+																	éducation de l’UQAM retournent en grève</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp;&nbsp;</strong>Annabelle Caillou, Le Devoir, 9
+															octobre 2018</li>
+													</ul>
+												</div> <!-- .et_pb_toggle_content -->
+											</div> <!-- .et_pb_toggle -->
+											<div
+												class="et_pb_module et_pb_toggle et_pb_toggle_6 et_pb_toggle_item  et_pb_text_align_justified et_pb_toggle_close">
+
+
+												<h5 class="et_pb_toggle_title">Septembre 2018</h5>
+												<div class="et_pb_toggle_content clearfix">
+													<ul>
+														<li><strong><a
+																	href="http://montrealcampus.ca/2018/09/29/des-avis-politiques-divergents-sur-la-remuneration-des-stages/?fbclid=IwAR08futcPa8rsrgsBXLCXXPkjXTsZUpBl-f3vcSLNxOH7fCB3Sj7c4d4Rcc"
+																	target="_blank" rel="noopener">Des avis politiques
+																	divergents sur la rémunération des stages</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp;</strong>François Carabin, Montréal Campus,
+															29 septembre 2018</li>
+													</ul>
+													<ul>
+														<li><strong><a
+																	href="http://rankandfile.ca/striking-back-gender-and-unpaid-internships/?fbclid=IwAR0J_lZGeHgdk4JFgtVPO7yH0hXiJZAInRZ475G5e0wXheHyD_ftAiELO2M"
+																	target="_blank" rel="noopener">Striking Back: Gender
+																	and unpaid internship</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;</strong>Haseena Manek, Rank and File, 25
+															septembre 2018</li>
+													</ul>
+													<ul>
+														<li><strong><a
+																	href="http://montrealcampus.ca/2018/09/24/21277/?fbclid=IwAR2DBekAB36XZik0yKn8IKGIdZU-85Mu8-Pt9XhD4-MmC6qzPfYT_9mDJrQ"
+																	target="_blank" rel="noopener">La rémunération des
+																	stages, une lutte à définir</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;</strong>Laurent Lavoie, Montréal Campus, 24
+															septembre 2018</li>
+													</ul>
+													<ul>
+														<li><strong><a
+																	href="http://quartierlibre.ca/vers-la-greve-pour-le-travail-etudiant/"
+																	target="_blank" rel="noopener">Vers la grève pour le
+																	travail étudiant</a>
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;&nbsp;</strong>Zacharie Routhier, Quartier libre,
+															10 septembre 2018</li>
+													</ul>
+												</div> <!-- .et_pb_toggle_content -->
+											</div> <!-- .et_pb_toggle -->
+											<div
+												class="et_pb_module et_pb_toggle et_pb_toggle_7 et_pb_toggle_item  et_pb_toggle_close">
+
+
+												<h5 class="et_pb_toggle_title">Avril - Mai 2018</h5>
+												<div class="et_pb_toggle_content clearfix">
+													<ul>
+														<li><span style="font-weight: 400;"><a
+																	href="https://www.journaldemontreal.com/2018/05/17/des-coalitions-pour-la-remuneration-des-stages?fbclid=IwAR0T6D3Ht4iu2g_nmfRLKcmaH2j8WDKalqAO90DwBeg9HvJLaCnAsCnB1PY"
+																	target="_blank" rel="noopener"><strong>Des
+																		coalitions pour la rémunération des
+																		stages</strong></a><strong>
+																	&nbsp;</strong>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; Journal de Montréal, 17 mai
+																2018</span></li>
+														<li><span style="font-weight: 400;"><strong><a
+																		href="http://journalmetro.com/plus/carrieres/1542207/est-ce-bientot-la-fin-des-stages-non-remuneres-au-pays/?fbclid=IwAR0njsDzS2OlnXw2eVHjXdqEfYsPQHXFEA2yD4xZc0-0w7PY-d2bSoc2kfs"
+																		target="_blank" rel="noopener">Est-ce bientôt la
+																		fin des stages non rémunérés au pays
+																		?</a></strong>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp;Véronique Demers, Journal
+																Métro, 1er mai
+																2018&nbsp;</span></li>
+														<li><span style="font-weight: 400;"><strong><a
+																		href="https://ici.radio-canada.ca/nouvelle/1096959/programme-penurie-main-doeuvre-etudiants-sante?fbclid=IwAR1h1sfc04EVnTVX-54Ox-WRnsLmD7zWchvgHk5PEdCyWlSlB7BqlwDlkaM"
+																		target="_blank" rel="noopener">Être payé pour
+																		étudier dans le milieu de la
+																		santé</a></strong>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;
+																Radio-Canada Québec, 24 avril 2018</span></li>
+														<li><span style="font-weight: 400;"><strong><a
+																		href="https://www.latribune.ca/actualites/sherbrooke/une-journee-de-greve-au-cegep-cb86650b307a58a70cc2afdb8afdec4b?fbclid=IwAR2qNVfDtyu6DqobHZYPgB7x0-rPIco_Xyz1jOmDTVUCQDVg-khYLMJcuo4"
+																		target="_blank" rel="noopener">Une journée de
+																		grève au Cégep ?</a></strong>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp;Camille Dauphinais-Pelletier, La
+																Tribune, 20 avril
+																2018</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://www.journaldemontreal.com/2018/04/07/remuneration-des-stages-etudiante-sage-femme-a-la-mer?fbclid=IwAR3tchAzFAvRa4RKnOWB1Hyc9bZJThHsO8oPFlOaRT7vvU7qBbhoN-XCdck"
+																	target="_blank" rel="noopener"><strong>Rémunération
+																		des stages : étudiante sage-femme à la
+																		mer</strong></a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;Mayou
+																Soulière, Journal de Montréal, 7 avril 2018</span></li>
+														<li><span style="font-weight: 400;"><strong><a
+																		href="https://www.journaldemontreal.com/2018/04/06/remuneration-des-stages-des-etudiants-de-luqam-envisagent-la-greve?fbclid=IwAR093NV2iyWwgu2stbm7Jzuvf_yS-jTKWnoV0u3V4i_UZmjQcnNhCofA0-w"
+																		target="_blank" rel="noopener">Rémunération des
+																		stages :des étudiants de l’UQAM envisagent la
+																		grève</a>&nbsp; &nbsp; &nbsp; &nbsp;
+																	&nbsp;</strong>Dominique Scali,&nbsp;Journal de
+																Montréal, 6 avril 2018</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://www.journaldemontreal.com/2018/04/04/moins-de-futurs-enseignants?fbclid=IwAR1sd-PZbswIyJW3cChw2HqA-6Uneq458YMyfYy3OrlPQA0aZEO0ywUHPkg"
+																	target="_blank" rel="noopener"><strong>Le nombre de
+																		futurs enseignants à son plus bas depuis 5
+																		ans</strong></a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Dominique Scali,
+																Journal de Montréal, 4
+																avril 2018</span></li>
+													</ul>
+												</div> <!-- .et_pb_toggle_content -->
+											</div> <!-- .et_pb_toggle -->
+											<div
+												class="et_pb_module et_pb_toggle et_pb_toggle_8 et_pb_toggle_item  et_pb_text_align_justified et_pb_toggle_close">
+
+
+												<h5 class="et_pb_toggle_title">Mars 2018</h5>
+												<div class="et_pb_toggle_content clearfix">
+													<ul>
+														<li><span style="font-weight: 400;"><strong><a
+																		href="http://quartierlibre.ca/la-remuneration-pour-tous-les-programmes/?fbclid=IwAR1nV0920C7_zQZsz5bktjehZJ2dMoub0cgR8bdp7w03D3a8SjfGoOleU1M"
+																		target="_blank" rel="noopener">La rémunération
+																		demandée pour tous les
+																		programmes</a>&nbsp;</strong>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp;Thomas Martin, Quartier Libre, 29 mars
+																2018</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="http://montrealcampus.ca/2018/03/27/remuneration-des-stages-vers-une-greve-generale-illimitee/?fbclid=IwAR2_ODpAQOzVBenc9lqQ27aQlFcxRLBFPHcb7J9JudFM0-G6TztLrCdYw6s"
+																	target="_blank" rel="noopener"><strong>Rémunération
+																		des stages : vers une grève générale illimitée
+																		?</strong></a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;François Carabin,
+																Montréal Campus, 27
+																mars 2018&nbsp;</span></li>
+														<li><span style="font-weight: 400;"><strong><a
+																		href="https://ici.radio-canada.ca/nouvelle/1090762/stages-remuneres-universite-sherbrooke-greve?fbclid=IwAR3w3MJ2oEeA___ZVMCGqLJ4KTV8CZGoOgOb-oGrOhzab03MzKHTDApI9zU"
+																		target="_blank" rel="noopener">Stages rémunérés
+																		: des étudiants de l’UdeS de nouveau en grève
+																		jeudi</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																	&nbsp;</strong> Radio-Canada Estrie, 21 mars
+																2018&nbsp;</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://www.lesoleil.com/opinions/point-de-vue/stages-en-soins-infirmiers-les-soins-cest-pour-les-autres-11a24289cf2677dec8c9dd499475526b?fbclid=IwAR3B1RMhjxqDm6xlsVE2YCzV4F6VVNxlQwR3LAO2EPlK8u2fFBeAuOJIORs"
+																	target="_blank" rel="noopener"><strong>Stages en
+																		soins infirmiers : les soins c’est pour les
+																		autres</strong></a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp;Kaëlla Stapels, Le Soleil, 17 mars
+																2018</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://www.delitfrancais.com/2018/03/16/montreal-dans-la-rue-pour-la-journee-international-des-femmes/?fbclid=IwAR0JYD-q4CU96zfM0x69R3fSzmU5YB3aG1kVNGdFM1zX0TmHX6-Mz4ajUTo"
+																	target="_blank" rel="noopener"><strong>Montréal dans
+																		la rue pour la journée internationale des
+																		femmes</strong></a>&nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp;</span><span
+																style="font-weight: 400;">Sébastien
+																Oudin-Filipecki</span><span style="font-weight: 400;">,
+																Le Délit, 16 mars 2018&nbsp;</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="http://ceuc.ca/2018/03/15/pour-la-remuneration-de-tous-les-stages/?fbclid=IwAR19PgMoX7j1PxZStJ8_z9hsIYv4Cep_RYMgJDT0x1kaNrsEnvPzNjzwUy0"
+																	target="_blank" rel="noopener"><strong>Pour la
+																		rémunération de tous les
+																		stages</strong></a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Stéphane
+																Boivin, Communications
+																étudiantes universitaires de Chicoutimi, 15 mars
+																&nbsp;2018</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://www.ledevoir.com/politique/quebec/522356/les-partis-politiques-rivalisent-de-creativite-afin-d-attirer-l-attention-des-nouveaux-votants?utm_campaign=Autopost&amp;utm_medium=Social&amp;utm_source=Facebook&amp;fbclid=IwAR0Cez2CLsuj7cA1EcgBD9KCSTxsFE-NLkD-irHcztsJpePSQRRwiFTQnYM#link_time=1520695672"
+																	target="_blank" rel="noopener"><strong>Le parti pris
+																		des jeunes</strong></a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; Marco Bélair-Cirino, Le Devoir, 10 mars
+																2018</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://ici.radio-canada.ca/nouvelle/1088279/stage-regions-sage-femme-baccalaureat?fbclid=IwAR0pvrBpYqd6QCr5cv2om0as6wBoHitktDf7Patiiic1vZ5YV0pfzzGwG7g"
+																	target="_blank" rel="noopener"><strong>Peu de
+																		milieux de stage en région pour les
+																		sages-femmes</strong></a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Édith Drouin,
+																Radio-Canada
+																Bas-St-Laurent, 9 mars 2018&nbsp;</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="http://quartierlibre.ca/manifestation-au-centre-ville-contre-lexploitation-des-femmes-en-milieu-scolaire-et-en-stage/?fbclid=IwAR3qJEZpDGqcDRoUCxKWzQOvs5M-4sf0DmDukQ_rSqrJBMX3GeZyR4kQ2Ss"
+																	target="_blank" rel="noopener"><strong>Manifestation
+																		au centre-ville contre l’exploitation des femmes
+																		en milieu scolaire et en
+																		stage</strong></a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																Mylène Gagnon,
+																Quartier Libre, 9 mars 2018</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://globalnews.ca/news/4072023/quebec-students-strike-march-in-downtown-montreal-for-paid-internships/?fbclid=IwAR26FhIuH65dF-IG_jSPn_IiMuIXcjQSWb91bJTARjXDSUZ5muY5sXCzMF8"
+																	target="_blank" rel="noopener"><strong>Quebec
+																		students strike, march in downtown Montreal for
+																		paid internships</strong></a>&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Gloria
+																Henriquez, Global News, 8 mars 2018</span></li>
+														<li><strong><a
+																	href="https://www.cbc.ca/news/canada/montreal/women-sexual-harassment-metoo-rally-1.4565751?fbclid=IwAR3fJXbNvzPaF6DA-j5HEDuSKNaNhlbNeeDkGQWu3QtL9vcv4jDUHQLrw58"
+																	target="_blank" rel="noopener">For Women’s Day, one
+																	woman tells her story of harassment during
+																	mandatory, unpaid internship</a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp;</strong>&nbsp; Elysha Enos, CBC News, 8 mars 2018
+														</li>
+														<li><a href="https://www.lequotidien.com/actualites/etre-paye-pour-etudier-au-dep-en-soudage-montage-aff20a3182061e7e91a0a04b86b09226?fbclid=IwAR0IFO6_iD-Gb24mRYB5ZS1ew-Wz6-s7O2Pb3rXngk5Tk5PfMirjnFjusH4"
+																target="_blank" rel="noopener"><strong>Être payés pour
+																	étudier au DEP en soudage-montage</strong></a>&nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+															&nbsp; &nbsp;
+															&nbsp; &nbsp; &nbsp; &nbsp; Annie-Claude Brisson, Le
+															Quotidien, 7 mars
+															2018</li>
+													</ul>
+												</div> <!-- .et_pb_toggle_content -->
+											</div> <!-- .et_pb_toggle -->
+											<div
+												class="et_pb_module et_pb_toggle et_pb_toggle_9 et_pb_toggle_item  et_pb_text_align_justified et_pb_toggle_close">
+
+
+												<h5 class="et_pb_toggle_title">Février 2018</h5>
+												<div class="et_pb_toggle_content clearfix">
+													<ul>
+														<li><span style="font-weight: 400;"><a
+																	href="http://montrealcampus.ca/2018/02/21/stagiaires-unis-pour-la-remuneration/?fbclid=IwAR3wbtsBmDLJvFIEw1zKEa-Y2oIWf3p3rbGNWzI3KOy73zAeEDOCImT07-g"
+																	target="_blank" rel="noopener"><strong>Stagiaires
+																		unis pour la rémunération des
+																		stages</strong></a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;François-Alexis Favreau, Montréal Campus, 21
+																février 2018&nbsp;</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="http://quartierlibre.ca/laessum-manifeste-pour-une-remuneration-des-stages/?fbclid=IwAR0oGV2wKbfp0i_9DuQ3bJixH_OAmpDHTswcvCSlKdyWbZBt7wNWUQ8RXTA"
+																	target="_blank" rel="noopener"><strong>L’AESSUM
+																		manifeste pour une rémunération des
+																		stages</strong></a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; Mylène Gagnon, Quartier Libre, 21 février
+																2018</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://ici.radio-canada.ca/premiere/emissions/Les-matins-d-ici/segments/entrevue/60002/uqo-manifestation-etudiants-remuneration-stage?fbclid=IwAR3ev9w9ipwvZRvWuHDE9hWEff9zJuXpcvLKrSs8C9t00rABEiA5DHEDwiM"
+																	target="_blank" rel="noopener"><strong>Des étudiants
+																		de l’UQO revendiquent en faveur de stages
+																		rémunérés</strong></a>&nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																Entrevue radio, Radio-Canada, 20 février
+																2018&nbsp;</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="http://zonecampus.ca/blogue/etudiantes-sages-femmes-rassemblement-pour-la-remuneration-des-stages/?fbclid=IwAR1f8FlVJQLkqPp32DAdlGRPpV4Bi30GKnilIvZpjmXvRSdPp5EQ-bb5LIk"
+																	target="_blank" rel="noopener"><strong>Étudiantes
+																		sages-femmes : rassemblement pour la
+																		rémunération des stages</strong></a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Marie
+																Labrousse, Zone Campus, 20 février 2018</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://ici.radio-canada.ca/nouvelle/1084788/des-etudiants-de-luqo-en-greve-pour-exiger-des-stages-remuneres?fbclid=IwAR11wrH0xY4obzcxnbWdi-6ZByczr1vRPlKCzgMV7SoA-uqda_sBmWF1bSg"
+																	target="_blank" rel="noopener"><strong>Des étudiants
+																		de l’UQO en grève pour exiger des stages
+																		rémunérés</strong></a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp;Radio-Canada Ottawa-Gatineau,
+																20 février 2018</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://ici.radio-canada.ca/nouvelle/1084960/greve-etudiants-stages-remuneres-quebec-education-kinesiologie?fbclid=IwAR3DLZTKStfkxP9D6EA4J-wln127qTAGp1IB-Zrx4tfNYfG7TP5qZJfuq58"
+																	target="_blank" rel="noopener"><strong>Des étudiants
+																		revendiquent des stages rémunérés à
+																		Sherbrooke</strong></a>
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Radio-Canada
+																Estrie, 20 février
+																2018&nbsp;</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://www.lavantage.qc.ca/article/2018/02/20/l_agecar-se-positionne-pour-la-remuneration-de-tous-les-stages-e"
+																	target="_blank" rel="noopener"><strong>L’AGECAR se
+																		positionne pour la rémunération de tous les
+																		stages étudiants</strong></a>&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;Alexandre D’Astous, L’Avantage, 20 février
+																2018&nbsp;</span></li>
+														<li><span style="font-weight: 400;"><strong><a
+																		href="https://www.lenouvelliste.ca/actualites/education/les-futures-sages-femmes-veulent-etre-payees-f76ae66db653550052f7ec24af5e4c7c?utm_campaign=lenouvelliste&amp;utm_medium=article_share&amp;utm_source=facebook&amp;fbclid=IwAR10TaeMv0FD73SiDrpeZtpPlHQvbOAoljmYbcjGaqhKkYRsv9owl_wuQPk"
+																		target="_blank" rel="noopener">Les futures
+																		sages-femmes veulent être payées</a>&nbsp;
+																	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																	&nbsp; &nbsp; &nbsp;
+																	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																	&nbsp; &nbsp; &nbsp;
+																	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																	&nbsp; &nbsp; &nbsp;</strong> &nbsp; Brigitte
+																Trahan, Le Nouvelliste, 20 février 2018 &nbsp;</span>
+														</li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://www.ledroit.com/actualites/education/en-greve-pour-des-stages-payes-0fdf8e69de2df1b53f6cc0e6ef13c090?fbclid=IwAR2Oag3JXIRtruSKJyBrJEg-2lHYgFeISIek7enC0aA2DrlO2zW2MRiaCt4"
+																	target="_blank" rel="noopener"><strong>En grève pour
+																		des stages payés</strong></a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Justine Mercier, Le
+																Droit, 20 février
+																2018&nbsp;</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="http://www.lecollectif.ca/trois-facultes-de-luniversite-de-sherbrooke-a-veille-dune-greve/?fbclid=IwAR0EevNyMuhER90OKo1lxv8KEiRrewIBMZ99XavHMTJj7Q-ePMpewn7yzKM"
+																	target="_blank" rel="noopener"><strong>Trois
+																		facultés de l’Université de Sherbrooke à la
+																		veille d’une grève</strong></a>&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;</span><span style="font-weight: 400;">Dorian
+																Paterne </span><span style="font-weight: 400;">Mouketou,
+																Le Collectif, 19 février 2018&nbsp;</span></li>
+													</ul>
+												</div> <!-- .et_pb_toggle_content -->
+											</div> <!-- .et_pb_toggle -->
+											<div
+												class="et_pb_module et_pb_toggle et_pb_toggle_10 et_pb_toggle_item  et_pb_text_align_justified et_pb_toggle_close">
+
+
+												<h5 class="et_pb_toggle_title">Janvier 2018 - Décembre 2017</h5>
+												<div class="et_pb_toggle_content clearfix">
+													<ul>
+														<li><span style="font-weight: 400;"><a
+																	href="http://www.droit-inc.com/article21864-Un-stagiaire-sur-cinq-victime-de-discrimination?fbclid=IwAR3v5lGhQxpxQdZAuViXjWkivXxK7Da_i7SSct_Ew9-5Q76Cl6mOv12qqK0"
+																	target="_blank" rel="noopener"><strong>Un stagiaire
+																		sur cinq victime de
+																		discrimination</strong></a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; Jean-François Parent, Droit inc., 29
+																janvier 2018&nbsp;</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="http://quartierlibre.ca/des-stages-remuneres-en-education-prescolaire-et-primaire/?fbclid=IwAR0CwxWzWbsgp6pEjA1A_zCFmJXHMfNPbrm8RLJiWrvKvU_2BvcHg2MNbGw"
+																	target="_blank" rel="noopener"><strong>Des stages
+																		rémunérés en éducation préscolaire et
+																		primaire</strong></a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp;
+																&nbsp;Mylène Gagnon, Quartier Libre, 29 janvier
+																2018</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://www.ledevoir.com/societe/education/518296/des-stages-payes-contre-la-penurie-de-profs-a-la-csdm?utm_campaign=Autopost&amp;utm_medium=Social&amp;utm_source=Facebook&amp;fbclid=IwAR3iGlDCIwE46fp4dsp3jzg6Gc6hC2h4pK_AhKcYVnUO5njxwNuRuoZQUKA#link_time=1516796304"
+																	target="_blank" rel="noopener"><strong>Des stages
+																		payés pour contrer la pénurie de suppléants à la
+																		CSDM</strong></a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Marco Fortier,
+																Le Devoir, 24
+																janvier 2018</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://www.ledevoir.com/opinion/idees/515294/les-stages-du-travail-sans-droits"
+																	target="_blank" rel="noopener"><strong>Les stages :
+																		du travail sans droits</strong></a>&nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+																&nbsp; &nbsp;
+																&nbsp; &nbsp; Camille Marcoux-Berthiaume, Le Devoir, 13
+																décembre 2017</span></li>
+													</ul>
+												</div> <!-- .et_pb_toggle_content -->
+											</div> <!-- .et_pb_toggle -->
+											<div
+												class="et_pb_module et_pb_toggle et_pb_toggle_11 et_pb_toggle_item  et_pb_toggle_close">
+
+
+												<h5 class="et_pb_toggle_title">Novembre 2017</h5>
+												<div class="et_pb_toggle_content clearfix">
+													<ul>
+														<li><span style="font-weight: 400;"><a
+																	href="https://www.mcgilldaily.com/2017/11/grassroots-movements-for-equitable-remuneration-must-be-respected/?fbclid=IwAR01P4B9AfnS7KOwPcsXWp7iZHSjrLbY1tkj5MeV5gvN6LnEub67IsQHmGI"
+																	target="_blank" rel="noopener"><strong>Grassroots
+																		mouvement for equitable remuneration must be
+																		respected</strong></a><br>
+																The McGill Daily, 30 novembre 2017</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://www.lhebdojournal.com/2017/11/26/lettre-ouverte-stagiaires-meritent-salaire/?fbclid=IwAR0n9tQQzhhIsgk_ZL2qFKX6X6R4NrQNMEd17SRj_FlPQoP0nOq2Plz_1aU"
+																	target="_blank" rel="noopener"><strong>LETTRE
+																		OUVERTE : Les stagiaires méritent
+																		salaire</strong></a><br>
+																L’Hebdo Journal, 26 novembre 2017&nbsp;</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://quebec.huffingtonpost.ca/mircea-adamoiu/leffet-dun-jour-de-greve-des-stagiaires_a_23279892/?fbclid=IwAR2O4lqnURuhQNqD3PZrE3siXOk0ByBXw2Hwn6AXXECIY5813zp-lN_CE6U&amp;ec_carp=9033998953484778643"
+																	target="_blank" rel="noopener"><strong>L’effet d’un
+																		jour de grève des stagiaires</strong></a><br>
+																Texte collectif, Huffington Post, 16 novembre
+																2017&nbsp;</span></li>
+														<li><a href="http://lautjournal.info/20171114/quand-etudier-cest-aussi-travailler?fbclid=IwAR0_SJBhTk8cWdyvddd8kjsGzMY7rHrBmpsGyJh_2WobW97dxW9VlhJNtt0"
+																target="_blank" rel="noopener"><strong>Quand étudier
+																	c’est aussi travailler<br>
+																</strong></a><strong><span
+																	style="font-weight: 400; color: #666666;">Richard
+																	Lahaie, L’Aut’journal, 14 novembre
+																	2017&nbsp;</span></strong></li>
+														<li><a href="https://www.ledevoir.com/societe/actualites-en-societe/512827/une-greve-etudiante-au-visage-feminin?fbclid=IwAR2OxdSO3b0M2BJZFjerz5CZ9_rb3zLIPDcMZjV73isD7fqGbEj1M1X64i0"
+																target="_blank" rel="noopener"><strong>Rémunération des
+																	stages: une grève étudiante au visage
+																	féminin</strong></a><br>
+															<strong><span
+																	style="font-weight: 400; color: #666666;">Sophie
+																	Chartier, Le Devoir, 13 novembre
+																	2017</span></strong>
+														</li>
+														<li><span style="font-weight: 400;"><a
+																	href="http://montrealcampus.ca/2017/11/11/remuneration-des-stages-des-associations-etudiantes-sorganisent/?fbclid=IwAR2Tp8ze5gCFTEgLwyF2h-8Rey56exiC43sTuISB0BvKY1UWqzJQ8X8bTaw"
+																	target="_blank" rel="noopener"><strong>Rémunération
+																		des stages: des associations étudiantes
+																		s’organisent</strong></a><br>
+																Chanel Fortin, Montréal Campus, 11 novembre 2017</span>
+														</li>
+														<li><span style="font-weight: 400;"><a
+																	href="http://quartierlibre.ca/des-stages-remuneres-ou-la-greve/?fbclid=IwAR0i_KtZYO4HYA-Qsfo5GJXaE_7dhB5hjBntLauzioZ-3S_wBfQUpGauf00"
+																	target="_blank" rel="noopener"><strong>Des stages
+																		rémunérés ou la grève</strong></a><br>
+																Marianne Castelan, Quartier Libre, 10 novembre 2017
+															</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://ici.radio-canada.ca/nouvelle/1066563/universite-moncton-enjeu-electoral-etudiants-stages?fbclid=IwAR142HSKnFBFjIk-PvCiq6ci6UnDN40wRjIboARMBuKO1_CyKANGlAbIwUA"
+																	target="_blank" rel="noopener"><strong>«Mon stage me
+																		ruine», un enjeu électoral pour les
+																		étudiants</strong></a><br>
+																Radio-Canada&nbsp;Nouveau-Brunswick, 10 novembre
+																2017&nbsp;</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://ici.radio-canada.ca/nouvelle/1066625/manifestationetudiants-montreal-discrimination-remuneration-stages?fbclid=IwAR02OjrcgYI7294-PwG9Y6hr44rntAz88Q7GWXqPU38cJWRIeYTTOY1-Nu0"
+																	target="_blank" rel="noopener"><strong>Des dizaines
+																		d’étudiants dans la rue crient à la
+																		discrimination</strong></a><br>
+																Radio-Canada Grand Montréal, 10
+																novembre&nbsp;</span><span
+																style="font-weight: 400;">2017 </span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://ici.radio-canada.ca/premiere/emissions/info-reveil/segments/entrevue/46347/stage-etudiant-uqar-agecar-travail?fbclid=IwAR2IItuP8l3XvduVqpdlI-48uRdE_4xEKqvvZd1IuWUNhfvzEiSul2aPr9w"
+																	target="_blank" rel="noopener"><strong>Des étudiants
+																		de Rimouski souhaitent que les stages soient
+																		rémunérés</strong></a><br>
+																Entrevue radio, Info-Réveil, Radio-Canada, 10 novembre
+																2017</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://ici.radio-canada.ca/premiere/emissions/l-heure-du-monde/episodes/394039/audio-fil-du-vendredi-10-novembre-2017/9?fbclid=IwAR0kpaL01aahDNY2l99yMolJQIAJMpZ_M1_BFq8nsXmAV5JYvJcNWMN9D4w"
+																	target="_blank" rel="noopener"><strong>Stages non
+																		rémunérés : Explications de Philippe-Antoine
+																		Saulnier</strong></a><br>
+																Entrevue Radio, L’heure du monde, Radio-Canada Première,
+																10 novembre 2017</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://ici.radio-canada.ca/nouvelle/1066440/stagiaires-uqo-greve-etudiants?fbclid=IwAR1xPjIytuCdvfPmroZUHG4jWTfPYzDJ8yMTrZ4ZfpJuhUuGRDKBf9RIukM"
+																	target="_blank" rel="noopener"><strong>Des
+																		stagiaires de l’UQO annoncent une
+																		grève</strong></a><br>
+																Radio-Canada Gatineau-Ottawa, 9 novembre 2017 </span>
+														</li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://www.lavantage.qc.ca/article/2017/11/09/--les-stages-non-remuneres-nuisent-a-laccessibilite-aux-etudes--"
+																	target="_blank" rel="noopener"><strong>«Les stages
+																		non rémunérés nuisent à l’accessibilité aux
+																		études»</strong></a><br>
+																Adeline Mantyk, L’Avantage, 9 novembre 2017</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="http://journalmetro.com/actualites/national/1228317/mobilisation-pour-des-stages-remuneres/?fbclid=IwAR2M9fbeAHhU1Ob09n4NwQwBYw7VQ6wZc37FjKUCq_bfUelthASl0IQPKvA"
+																	target="_blank" rel="noopener"><strong>Mobilisation
+																		pour des stages rémunérés</strong></a><br>
+																Dominique Cambron-Goulet, Journal Métro, 9 novembre
+																2017&nbsp;</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://thelinknewspaper.ca/article/concordias-struggle-in-sourcing-paid-internships?fbclid=IwAR14-KyBKV_3wEtTSMHR5xeVN1oLU0qNIcTnPRk6pD8lzcR1SpEQUx0xHrs"
+																	target="_blank" rel="noopener"><strong>Concordia
+																		Struggle in Sourcing Paid
+																		Internships</strong></a><br>
+																Miriam Lafontaine, The Link, 7 novembre
+																2017&nbsp;</span></li>
+													</ul>
+												</div> <!-- .et_pb_toggle_content -->
+											</div> <!-- .et_pb_toggle -->
+											<div
+												class="et_pb_module et_pb_toggle et_pb_toggle_12 et_pb_toggle_item  et_pb_toggle_close">
+
+
+												<h5 class="et_pb_toggle_title">Octobre 2017</h5>
+												<div class="et_pb_toggle_content clearfix">
+													<ul>
+														<li><span style="font-weight: 400;"><a
+																	href="http://quartierlibre.ca/des-stages-qui-coutent-cher/?fbclid=IwAR2BA_yx8IVkd5fiERpl6uKY5dGQUU6QEn579q_j_8n--N1mvuYvkIzaI5E"
+																	target="_blank" rel="noopener"><strong>Des stages
+																		qui coûtent cher</strong></a><br>
+																Kim Jandot, Quartier Libre, 23 octobre 2017</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://thelinknewspaper.ca/article/concordia-student-union-starts-campaign-against-unpaid-internships?fbclid=IwAR3H-C-0qTr-OVDsI-ij1UGE-sSHYyxlB7Mb84DefTLN1o6Kd4N2GSc6IU4"
+																	target="_blank" rel="noopener"><strong>Concordia
+																		Students Union Starts Campaign Against Unpaid
+																		Internships</strong></a><br>
+																Kelsey Litwin, The Link, 18 octobre 2017&nbsp;</span>
+														</li>
+														<li><span style="font-weight: 400;"><a
+																	href="http://montrealcampus.ca/2017/10/06/pas-de-paie-pour-les-stagiaires/?fbclid=IwAR1OsDlAB0S2mMpYzhfZNBfYmdF2Ps5c1EODFhWhp2_Ox5vDojsKNWGr6xk"
+																	target="_blank" rel="noopener"><strong>Pas de paie
+																		pour les stagiaires</strong></a><br>
+																Chanel Fortin, Montréal Campus, 6 octobre 2017</span>
+														</li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://thelinknewspaper.ca/article/labour-organizing-for-tomorrow?fbclid=IwAR1s0r9duHIlicOZ_VO-WYEzra_OeEXNVC8DrzuMnq-jK0B-ZDdXW90DAxc"
+																	target="_blank" rel="noopener"><strong>Labor
+																		Organizing for Tomorrow&nbsp;</strong></a><br>
+																Jon Milton, The Link, 3 octobre 2017</span></li>
+													</ul>
+												</div> <!-- .et_pb_toggle_content -->
+											</div> <!-- .et_pb_toggle -->
+											<div
+												class="et_pb_module et_pb_toggle et_pb_toggle_13 et_pb_toggle_item  et_pb_toggle_close">
+
+
+												<h5 class="et_pb_toggle_title">Septembre 2017</h5>
+												<div class="et_pb_toggle_content clearfix">
+													<ul>
+														<li><span style="font-weight: 400;"><a
+																	href="https://quebec.huffingtonpost.ca/mircea-adamoiu/le-ministre-proulx-a-tout-faux_a_23225271/?ncid=fcbklnkcahpmg00000009&amp;fbclid=IwAR0RWCAU9EmnGamKSmpbEJj99FIERoBghNc-A2USYQZzBTWQOw8pLDYSA0U&amp;ec_carp=5959941510811268776"
+																	target="_blank" rel="noopener"><strong>Le ministre
+																		Proulx a tout faux</strong></a><br>
+																Valérie Simard et Mircea Adamoiu, Huffington Post, 28
+																septembre 2017</span></li>
+														<li><a href="http://journalmetro.com/plus/carrieres/1199866/les-stagiaires-grands-oublies-des-normes-du-travail/?fbclid=IwAR0CGryd1S2t1mSgI4rQDvbLRg1gqvpTAutgtMi5l8MJlnDE2bD4x-FbAe0"
+																target="_blank" rel="noopener"><strong>Les stagiaires,
+																	grands oubliés des normes du
+																	travail</strong></a><br>
+															Sophie Tremblay, Journal Métro, 18 septembre 2017</li>
+														<li><span style="font-weight: 400;"><a
+																	href="http://reelradio.info/cris-uqo-le-%E2%80%AFcri-du-coeur%E2%80%AF-des-stagiaires-non-remunerees/?fbclid=IwAR1ufHk2RHegRUU4luBGYKdSdk8lrzqQ8GQYBAsD9EXRxVx4RJIcjQEqLsQ"
+																	target="_blank" rel="noopener"><strong>CRIS-UQO: le
+																		«cri du coeur» des stagiaires non
+																		rémunéré(e)s</strong></a><br>
+																Jérémie Carrier, ReelRadio, 14 septembre 2017</span>
+														</li>
+														<li><a href="https://www.tvanouvelles.ca/2017/08/28/ottawa-veut-interdire-les-stages-non-payes-1?fbclid=IwAR0V18MELTgQ1OOmCK6d1dwVYgsNpOSrmDfEd78NRgHOowL43r11BTSIK9w"
+																target="_blank" rel="noopener"><strong>Ottawa veut
+																	interdire les stages non payés</strong></a><br>
+															Francis Alin, Agence QMI, TVA Nouvelles, 28 août 2017</li>
+													</ul>
+												</div> <!-- .et_pb_toggle_content -->
+											</div> <!-- .et_pb_toggle -->
+											<div
+												class="et_pb_module et_pb_toggle et_pb_toggle_14 et_pb_toggle_item  et_pb_text_align_left et_pb_toggle_close">
+
+
+												<h5 class="et_pb_toggle_title">Printemps 2017</h5>
+												<div class="et_pb_toggle_content clearfix">
+													<ul>
+														<li><span style="font-weight: 400;"><a
+																	href="http://quartierlibre.ca/debuts-coalition-etudiante/?fbclid=IwAR2TZWfcw53gbKAbXmqkwH56aOHDqiU7pXzGhoPY6MeDbClDfEk20FRtrCI"
+																	target="_blank" rel="noopener"><strong>Les débuts
+																		d’une coalition étudiante</strong></a><br>
+																Félix Lacerte-Gauthier, Quartier Libre, 5 juin
+																2017</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://medium.com/@collectif.hexen/silvia-federici-donne-des-munitions-%C3%A0-la-campagne-pour-la-r%C3%A9mun%C3%A9ration-%C3%A9tudiante-e0ac5579a896?fbclid=IwAR0nW9h9594IXedDITCcBIepweKZUsigv2c1yf6O9Fgn3nF_CpRlCNN-iaA"
+																	target="_blank" rel="noopener"><strong>Silvia
+																		Federici donne des munitions à la campagne pour
+																		la rémunération étudiante</strong></a><br>
+																Collectif Hexen, 19 mai 2017</span></li>
+														<li><span style="font-weight: 400;"><a
+																	href="https://www.lesoleil.com/actualite/education/david-ferme-la-porte-aux-stages-remuneres-416aa7b1c44878f152313d16a31fabbe"
+																	target="_blank" rel="noopener"><strong>David ferme
+																		la porte aux stages rémunérés</strong></a><br>
+																Patricia Cloutier, Le Soleil, 4 mai 2017</span></li>
+														<li><a href="https://ici.radio-canada.ca/premiere/emissions/la-route-des-20/segments/panel/22245/stages-non-remuneres-exploitation-formation?fbclid=IwAR2I3hQxMq5VGXwOlBOAOViuoayREzmFT_W9g1ZOqbnN7xCWPDJfWlHyseI"
+																target="_blank" rel="noopener"><strong>Stages non
+																	rémunérés : une zone grise de la légalité et de
+																	l’éthique<br>
+																</strong></a><span style="color: #000000;"><strong><span
+																		style="font-weight: 400;">Entrevue radio,
+																		Radio-Canada Première, 29 avril
+																		2017&nbsp;</span></strong></span></li>
+														<li><a href="https://www.lapresse.ca/affaires/economie/quebec/201704/26/01-5092033-1000-etudiants-et-stagiaires-a-lemploi-du-gouvernement-du-quebec-se-syndiquent.php"
+																target="_blank" rel="noopener"><strong>1000 étudiants et
+																	stagiaires à l’emploi du gouvernement du Québec se
+																	syndiquent</strong></a><br>
+															La Presse canadienne, La Presse, 26 avril 2017</li>
+														<li><a href="https://www.cbc.ca/news/canada/new-brunswick/university-moncton-unpaid-internships-1.4074290?fbclid=IwAR3uhNnK4tnf7b9_Qi69X4ndRgy6YXrWv_tYzfGzCHchsH5atMtE86rx8ck"
+																target="_blank" rel="noopener"><strong>University of
+																	Moncton students speak out against unpaid
+																	internships</strong></a><br>
+															Gabrielle Fahmy, CBC News, April 18, 2017</li>
+													</ul>
+												</div> <!-- .et_pb_toggle_content -->
+											</div> <!-- .et_pb_toggle -->
+										</div> <!-- .et_pb_column -->
+
+
+									</div> <!-- .et_pb_row -->
+
+
+								</div> <!-- .et_pb_section -->
+							</div>
+
+						</div>
+					</div> <!-- .entry-content -->
+
+
+				</article> <!-- .et_pb_post -->
+
+
+
+			</div> <!-- #main-content -->
+
+
+			<footer id="main-footer">
+
+
+
+				<div id="footer-bottom">
+					<div class="container clearfix">
+						<div id="footer-info">Questions, commentaires, ajouts, modifs? N'hésitez pas à nous écrire au <a
+								href="mailto:cute.travail@gmail.com">cute.travail@gmail.com</a></div>
+					</div> <!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<script>
+		(function (body) {
+			'use strict';
+			body.className = body.className.replace(/\btribe-no-js\b/, 'tribe-js');
+		})(document.body);
+	</script>
+	<script type="text/javascript">
+	</script>
+	<script> /* <![CDATA[ */var tribe_l10n_datatables = { "aria": { "sort_ascending": ": activer pour trier la colonne ascendante", "sort_descending": ": activer pour trier la colonne descendante" }, "length_menu": "Afficher les saisies _MENU_", "empty_table": "Aucune donn\u00e9e disponible sur le tableau", "info": "Affichant_START_ \u00e0 _END_ du _TOTAL_ des saisies", "info_empty": "Affichant 0 \u00e0 0 de 0 saisies", "info_filtered": "(filtr\u00e9 \u00e0 partir du total des saisies _MAX_ )", "zero_records": "Aucun enregistrement correspondant trouv\u00e9", "search": "Rechercher :", "all_selected_text": "Tous les \u00e9l\u00e9ments de cette page ont \u00e9t\u00e9 s\u00e9lectionn\u00e9s. ", "select_all_link": "S\u00e9lectionner toutes les pages", "clear_selection": "Effacer la s\u00e9lection.", "pagination": { "all": "Tout", "next": "Suivant", "previous": "Pr\u00e9c\u00e9dent" }, "select": { "rows": { "0": "", "_": ": a s\u00e9lectionn\u00e9 %d rang\u00e9es", "1": ": a s\u00e9lectionn\u00e9 une rang\u00e9e" } }, "datepicker": { "dayNames": ["dimanche", "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"], "dayNamesShort": ["dim", "lun", "mar", "mer", "jeu", "ven", "sam"], "dayNamesMin": ["D", "L", "M", "M", "J", "V", "S"], "monthNames": ["janvier", "f\u00e9vrier", "mars", "avril", "mai", "juin", "juillet", "ao\u00fbt", "septembre", "octobre", "novembre", "d\u00e9cembre"], "monthNamesShort": ["janvier", "f\u00e9vrier", "mars", "avril", "mai", "juin", "juillet", "ao\u00fbt", "septembre", "octobre", "novembre", "d\u00e9cembre"], "monthNamesMin": ["Jan", "F\u00e9v", "Mar", "Avr", "Mai", "Juin", "Juil", "Ao\u00fbt", "Sep", "Oct", "Nov", "D\u00e9c"], "nextText": "Suivant", "prevText": "Pr\u00e9c\u00e9dent", "currentText": "Aujourd&#039;hui ", "closeText": "Termin\u00e9", "today": "Aujourd&#039;hui ", "clear": "Effac\u00e9" } }; var tribe_system_info = { "sysinfo_optin_nonce": "b343e0d597", "clipboard_btn_text": "Copier vers le presse-papiers", "clipboard_copied_text": "Infos syst\u00e8me copi\u00e9es", "clipboard_fail_text": "Appuyer sur \"Cmd + C\" pour copier" };/* ]]> */ </script>
+	<script type="text/javascript" src="M%C3%A9dias%20-%20Gr%C3%A8ve%20des%20stages_files/ecwd_popup.js"></script>
+	<script type="text/javascript" src="M%C3%A9dias%20-%20Gr%C3%A8ve%20des%20stages_files/core.min.js"></script>
+	<script type="text/javascript" src="M%C3%A9dias%20-%20Gr%C3%A8ve%20des%20stages_files/widget.min.js"></script>
+	<script type="text/javascript" src="M%C3%A9dias%20-%20Gr%C3%A8ve%20des%20stages_files/mouse.min.js"></script>
+	<script type="text/javascript" src="M%C3%A9dias%20-%20Gr%C3%A8ve%20des%20stages_files/draggable.min.js"></script>
+	<script type="text/javascript" src="M%C3%A9dias%20-%20Gr%C3%A8ve%20des%20stages_files/imagesloaded.min.js"></script>
+	<script type="text/javascript" src="M%C3%A9dias%20-%20Gr%C3%A8ve%20des%20stages_files/masonry.min.js"></script>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		var ecwd = { "ajaxurl": "http:\/\/www.grevedesstages.info\/wp-admin\/admin-ajax.php", "ajaxnonce": "2b6736b492", "loadingText": "Loading...", "event_popup_title_text": "Event Details", "plugin_url": "http:\/\/www.grevedesstages.info\/wp-content\/plugins\/event-calendar-wd", "gmap_key": "", "gmap_style": "" };
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="M%C3%A9dias%20-%20Gr%C3%A8ve%20des%20stages_files/scripts.js"></script>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		var DIVI = { "item_count": "%d Item", "items_count": "%d Items" };
+		var et_shortcodes_strings = { "previous": "Previous", "next": "Next" };
+		var et_pb_custom = { "ajaxurl": "http:\/\/www.grevedesstages.info\/wp-admin\/admin-ajax.php", "images_uri": "http:\/\/www.grevedesstages.info\/wp-content\/themes\/Divi\/images", "builder_images_uri": "http:\/\/www.grevedesstages.info\/wp-content\/themes\/Divi\/includes\/builder\/images", "et_frontend_nonce": "df669b703f", "subscription_failed": "Please, check the fields below to make sure you entered the correct information.", "et_ab_log_nonce": "444cd4c2fe", "fill_message": "Please, fill in the following fields:", "contact_error_message": "Please, fix the following errors:", "invalid": "Invalid email", "captcha": "Captcha", "prev": "Prev", "previous": "Previous", "next": "Next", "wrong_captcha": "You entered the wrong number in captcha.", "is_builder_plugin_used": "", "ignore_waypoints": "no", "is_divi_theme_used": "1", "widget_search_selector": ".widget_search", "is_ab_testing_active": "", "page_id": "223905", "unique_test_id": "", "ab_bounce_rate": "5", "is_cache_plugin_active": "no", "is_shortcode_tracking": "" };
+		var et_pb_box_shadow_elements = [];
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="M%C3%A9dias%20-%20Gr%C3%A8ve%20des%20stages_files/custom.min.js"></script>
+	<script type="text/javascript"
+		src="M%C3%A9dias%20-%20Gr%C3%A8ve%20des%20stages_files/jquery.fancybox.1.3.23.min.js"></script>
+	<script type="text/javascript">
+		var fb_timeout, fb_opts = { 'overlayShow': true, 'hideOnOverlayClick': false, 'showCloseButton': true, 'margin': 20, 'centerOnScroll': false, 'enableEscapeButton': true, 'autoScale': true };
+		if (typeof easy_fancybox_handler === 'undefined') {
+			var easy_fancybox_handler = function () {
+				jQuery('.nofancybox,a.wp-block-file__button,a.pin-it-button,a[href*="pinterest.com/pin/create"],a[href*="facebook.com/share"],a[href*="twitter.com/share"]').addClass('nolightbox');
+				/* IMG */
+				var fb_IMG_select = 'a[href*=".jpg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpg"]:not(.nolightbox),a[href*=".jpeg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpeg"]:not(.nolightbox),a[href*=".png"]:not(.nolightbox,li.nolightbox>a),area[href*=".png"]:not(.nolightbox),a[href*=".webp"]:not(.nolightbox,li.nolightbox>a),area[href*=".webp"]:not(.nolightbox)';
+				jQuery(fb_IMG_select).addClass('fancybox image');
+				var fb_IMG_sections = jQuery('.gallery,.wp-block-gallery,.tiled-gallery');
+				fb_IMG_sections.each(function () { jQuery(this).find(fb_IMG_select).attr('rel', 'gallery-' + fb_IMG_sections.index(this)); });
+				jQuery('a.fancybox,area.fancybox,li.fancybox a').each(function () { jQuery(this).fancybox(jQuery.extend({}, fb_opts, { 'transitionIn': 'elastic', 'easingIn': 'easeOutBack', 'transitionOut': 'elastic', 'easingOut': 'easeInBack', 'opacity': false, 'hideOnContentClick': false, 'titleShow': true, 'titlePosition': 'over', 'titleFromAlt': true, 'showNavArrows': true, 'enableKeyboardNav': true, 'cyclic': false })) });
+				/* Inline */
+				jQuery('a.fancybox-inline,area.fancybox-inline,li.fancybox-inline a').each(function () { jQuery(this).fancybox(jQuery.extend({}, fb_opts, { 'type': 'inline', 'autoDimensions': true, 'scrolling': 'auto', 'easingIn': 'easeOutBack', 'easingOut': 'easeInBack', 'opacity': false, 'hideOnContentClick': false, 'titleShow': false })) });
+			};
+			jQuery('a.fancybox-close').on('click', function (e) { e.preventDefault(); jQuery.fancybox.close() });
+		};
+		var easy_fancybox_auto = function () { setTimeout(function () { jQuery('#fancybox-auto').trigger('click') }, 1000); };
+		jQuery(easy_fancybox_handler); jQuery(document).on('post-load', easy_fancybox_handler);
+		jQuery(easy_fancybox_auto);
+	</script>
+	<script type="text/javascript"
+		src="M%C3%A9dias%20-%20Gr%C3%A8ve%20des%20stages_files/jquery.easing.1.4.1.min.js"></script>
+	<script type="text/javascript" src="M%C3%A9dias%20-%20Gr%C3%A8ve%20des%20stages_files/common.js"></script>
+	<script type="text/javascript" src="M%C3%A9dias%20-%20Gr%C3%A8ve%20des%20stages_files/wp-embed.min.js"></script>
+	<style id="et-core-unified-cached-inline-styles-2">
+		.et_pb_section_0 {
+			max-width: 100%
+		}
+
+		.et_pb_toggle_9.et_pb_toggle h5,
+		.et_pb_toggle_9.et_pb_toggle h1.et_pb_toggle_title,
+		.et_pb_toggle_9.et_pb_toggle h2.et_pb_toggle_title,
+		.et_pb_toggle_9.et_pb_toggle h3.et_pb_toggle_title,
+		.et_pb_toggle_9.et_pb_toggle h4.et_pb_toggle_title,
+		.et_pb_toggle_9.et_pb_toggle h6.et_pb_toggle_title {
+			text-align: center
+		}
+
+		.et_pb_module.et_pb_toggle_10.et_pb_toggle {
+			border-width: 3px
+		}
+
+		.et_pb_toggle_10.et_pb_toggle h5,
+		.et_pb_toggle_10.et_pb_toggle h1.et_pb_toggle_title,
+		.et_pb_toggle_10.et_pb_toggle h2.et_pb_toggle_title,
+		.et_pb_toggle_10.et_pb_toggle h3.et_pb_toggle_title,
+		.et_pb_toggle_10.et_pb_toggle h4.et_pb_toggle_title,
+		.et_pb_toggle_10.et_pb_toggle h6.et_pb_toggle_title {
+			text-align: center
+		}
+
+		.et_pb_toggle_9.et_pb_toggle.et_pb_toggle_open h5.et_pb_toggle_title,
+		.et_pb_toggle_9.et_pb_toggle.et_pb_toggle_open h1.et_pb_toggle_title,
+		.et_pb_toggle_9.et_pb_toggle.et_pb_toggle_open h2.et_pb_toggle_title,
+		.et_pb_toggle_9.et_pb_toggle.et_pb_toggle_open h3.et_pb_toggle_title,
+		.et_pb_toggle_9.et_pb_toggle.et_pb_toggle_open h4.et_pb_toggle_title,
+		.et_pb_toggle_9.et_pb_toggle.et_pb_toggle_open h6.et_pb_toggle_title {
+			color: #000000 !important
+		}
+
+		.et_pb_toggle_9.et_pb_toggle.et_pb_toggle_close h5.et_pb_toggle_title,
+		.et_pb_toggle_9.et_pb_toggle.et_pb_toggle_close h1.et_pb_toggle_title,
+		.et_pb_toggle_9.et_pb_toggle.et_pb_toggle_close h2.et_pb_toggle_title,
+		.et_pb_toggle_9.et_pb_toggle.et_pb_toggle_close h3.et_pb_toggle_title,
+		.et_pb_toggle_9.et_pb_toggle.et_pb_toggle_close h4.et_pb_toggle_title,
+		.et_pb_toggle_9.et_pb_toggle.et_pb_toggle_close h6.et_pb_toggle_title {
+			color: #ffffff !important
+		}
+
+		.et_pb_toggle_9.et_pb_toggle.et_pb_toggle_close {
+			background-color: #df0054
+		}
+
+		.et_pb_toggle_9.et_pb_toggle.et_pb_toggle_open {
+			background-color: #ffffff
+		}
+
+		.et_pb_toggle_9 {
+			max-width: 100%
+		}
+
+		.et_pb_module.et_pb_toggle_9.et_pb_toggle {
+			border-width: 3px
+		}
+
+		.et_pb_toggle_8.et_pb_toggle.et_pb_toggle_close h5.et_pb_toggle_title,
+		.et_pb_toggle_8.et_pb_toggle.et_pb_toggle_close h1.et_pb_toggle_title,
+		.et_pb_toggle_8.et_pb_toggle.et_pb_toggle_close h2.et_pb_toggle_title,
+		.et_pb_toggle_8.et_pb_toggle.et_pb_toggle_close h3.et_pb_toggle_title,
+		.et_pb_toggle_8.et_pb_toggle.et_pb_toggle_close h4.et_pb_toggle_title,
+		.et_pb_toggle_8.et_pb_toggle.et_pb_toggle_close h6.et_pb_toggle_title {
+			color: #df0054 !important
+		}
+
+		.et_pb_toggle_10.et_pb_toggle.et_pb_toggle_open {
+			background-color: #ffffff
+		}
+
+		.et_pb_toggle_8.et_pb_toggle.et_pb_toggle_close {
+			background-color: #ffffff
+		}
+
+		.et_pb_toggle_8 {
+			max-width: 100%
+		}
+
+		.et_pb_module.et_pb_toggle_8.et_pb_toggle {
+			border-width: 3px
+		}
+
+		.et_pb_toggle_8.et_pb_toggle h5,
+		.et_pb_toggle_8.et_pb_toggle h1.et_pb_toggle_title,
+		.et_pb_toggle_8.et_pb_toggle h2.et_pb_toggle_title,
+		.et_pb_toggle_8.et_pb_toggle h3.et_pb_toggle_title,
+		.et_pb_toggle_8.et_pb_toggle h4.et_pb_toggle_title,
+		.et_pb_toggle_8.et_pb_toggle h6.et_pb_toggle_title {
+			text-align: center
+		}
+
+		.et_pb_toggle_7.et_pb_toggle.et_pb_toggle_open h5.et_pb_toggle_title,
+		.et_pb_toggle_7.et_pb_toggle.et_pb_toggle_open h1.et_pb_toggle_title,
+		.et_pb_toggle_7.et_pb_toggle.et_pb_toggle_open h2.et_pb_toggle_title,
+		.et_pb_toggle_7.et_pb_toggle.et_pb_toggle_open h3.et_pb_toggle_title,
+		.et_pb_toggle_7.et_pb_toggle.et_pb_toggle_open h4.et_pb_toggle_title,
+		.et_pb_toggle_7.et_pb_toggle.et_pb_toggle_open h6.et_pb_toggle_title {
+			color: #000000 !important
+		}
+
+		.et_pb_toggle_7.et_pb_toggle.et_pb_toggle_close {
+			background-color: #df0054
+		}
+
+		.et_pb_toggle_7.et_pb_toggle.et_pb_toggle_open {
+			background-color: #ffffff
+		}
+
+		.et_pb_toggle_7 {
+			max-width: 100%
+		}
+
+		.et_pb_module.et_pb_toggle_7.et_pb_toggle {
+			border-width: 3px
+		}
+
+		.et_pb_toggle_10 {
+			max-width: 100%
+		}
+
+		.et_pb_toggle_10.et_pb_toggle.et_pb_toggle_close {
+			background-color: #ffffff
+		}
+
+		.et_pb_toggle_6.et_pb_toggle.et_pb_toggle_open h5.et_pb_toggle_title,
+		.et_pb_toggle_6.et_pb_toggle.et_pb_toggle_open h1.et_pb_toggle_title,
+		.et_pb_toggle_6.et_pb_toggle.et_pb_toggle_open h2.et_pb_toggle_title,
+		.et_pb_toggle_6.et_pb_toggle.et_pb_toggle_open h3.et_pb_toggle_title,
+		.et_pb_toggle_6.et_pb_toggle.et_pb_toggle_open h4.et_pb_toggle_title,
+		.et_pb_toggle_6.et_pb_toggle.et_pb_toggle_open h6.et_pb_toggle_title {
+			color: #000000 !important
+		}
+
+		.et_pb_toggle_13.et_pb_toggle h5,
+		.et_pb_toggle_13.et_pb_toggle h1.et_pb_toggle_title,
+		.et_pb_toggle_13.et_pb_toggle h2.et_pb_toggle_title,
+		.et_pb_toggle_13.et_pb_toggle h3.et_pb_toggle_title,
+		.et_pb_toggle_13.et_pb_toggle h4.et_pb_toggle_title,
+		.et_pb_toggle_13.et_pb_toggle h6.et_pb_toggle_title {
+			text-align: center
+		}
+
+		.et_pb_toggle_14.et_pb_toggle.et_pb_toggle_close {
+			background-color: #ffffff
+		}
+
+		.et_pb_toggle_14.et_pb_toggle.et_pb_toggle_open {
+			background-color: #ffffff
+		}
+
+		.et_pb_toggle_14 {
+			max-width: 100%
+		}
+
+		.et_pb_module.et_pb_toggle_14.et_pb_toggle {
+			border-width: 3px
+		}
+
+		.et_pb_toggle_14.et_pb_toggle h5,
+		.et_pb_toggle_14.et_pb_toggle h1.et_pb_toggle_title,
+		.et_pb_toggle_14.et_pb_toggle h2.et_pb_toggle_title,
+		.et_pb_toggle_14.et_pb_toggle h3.et_pb_toggle_title,
+		.et_pb_toggle_14.et_pb_toggle h4.et_pb_toggle_title,
+		.et_pb_toggle_14.et_pb_toggle h6.et_pb_toggle_title {
+			text-align: center
+		}
+
+		.et_pb_toggle_13.et_pb_toggle.et_pb_toggle_close h5.et_pb_toggle_title,
+		.et_pb_toggle_13.et_pb_toggle.et_pb_toggle_close h1.et_pb_toggle_title,
+		.et_pb_toggle_13.et_pb_toggle.et_pb_toggle_close h2.et_pb_toggle_title,
+		.et_pb_toggle_13.et_pb_toggle.et_pb_toggle_close h3.et_pb_toggle_title,
+		.et_pb_toggle_13.et_pb_toggle.et_pb_toggle_close h4.et_pb_toggle_title,
+		.et_pb_toggle_13.et_pb_toggle.et_pb_toggle_close h6.et_pb_toggle_title {
+			color: #ffffff !important
+		}
+
+		.et_pb_toggle_13.et_pb_toggle.et_pb_toggle_close {
+			background-color: #df0054
+		}
+
+		.et_pb_toggle_13 {
+			max-width: 100%
+		}
+
+		.et_pb_module.et_pb_toggle_13.et_pb_toggle {
+			border-width: 3px
+		}
+
+		.et_pb_toggle_12.et_pb_toggle.et_pb_toggle_close h5.et_pb_toggle_title,
+		.et_pb_toggle_12.et_pb_toggle.et_pb_toggle_close h1.et_pb_toggle_title,
+		.et_pb_toggle_12.et_pb_toggle.et_pb_toggle_close h2.et_pb_toggle_title,
+		.et_pb_toggle_12.et_pb_toggle.et_pb_toggle_close h3.et_pb_toggle_title,
+		.et_pb_toggle_12.et_pb_toggle.et_pb_toggle_close h4.et_pb_toggle_title,
+		.et_pb_toggle_12.et_pb_toggle.et_pb_toggle_close h6.et_pb_toggle_title {
+			color: #df0054 !important
+		}
+
+		.et_pb_toggle_10.et_pb_toggle.et_pb_toggle_close h5.et_pb_toggle_title,
+		.et_pb_toggle_10.et_pb_toggle.et_pb_toggle_close h1.et_pb_toggle_title,
+		.et_pb_toggle_10.et_pb_toggle.et_pb_toggle_close h2.et_pb_toggle_title,
+		.et_pb_toggle_10.et_pb_toggle.et_pb_toggle_close h3.et_pb_toggle_title,
+		.et_pb_toggle_10.et_pb_toggle.et_pb_toggle_close h4.et_pb_toggle_title,
+		.et_pb_toggle_10.et_pb_toggle.et_pb_toggle_close h6.et_pb_toggle_title {
+			color: #df0054 !important
+		}
+
+		.et_pb_toggle_12.et_pb_toggle.et_pb_toggle_close {
+			background-color: #ffffff
+		}
+
+		.et_pb_toggle_12 {
+			max-width: 100%
+		}
+
+		.et_pb_module.et_pb_toggle_12.et_pb_toggle {
+			border-width: 3px
+		}
+
+		.et_pb_toggle_12.et_pb_toggle h5,
+		.et_pb_toggle_12.et_pb_toggle h1.et_pb_toggle_title,
+		.et_pb_toggle_12.et_pb_toggle h2.et_pb_toggle_title,
+		.et_pb_toggle_12.et_pb_toggle h3.et_pb_toggle_title,
+		.et_pb_toggle_12.et_pb_toggle h4.et_pb_toggle_title,
+		.et_pb_toggle_12.et_pb_toggle h6.et_pb_toggle_title {
+			text-align: center
+		}
+
+		.et_pb_toggle_11.et_pb_toggle.et_pb_toggle_close h5.et_pb_toggle_title,
+		.et_pb_toggle_11.et_pb_toggle.et_pb_toggle_close h1.et_pb_toggle_title,
+		.et_pb_toggle_11.et_pb_toggle.et_pb_toggle_close h2.et_pb_toggle_title,
+		.et_pb_toggle_11.et_pb_toggle.et_pb_toggle_close h3.et_pb_toggle_title,
+		.et_pb_toggle_11.et_pb_toggle.et_pb_toggle_close h4.et_pb_toggle_title,
+		.et_pb_toggle_11.et_pb_toggle.et_pb_toggle_close h6.et_pb_toggle_title {
+			color: #ffffff !important
+		}
+
+		.et_pb_toggle_11.et_pb_toggle.et_pb_toggle_close {
+			background-color: #df0054
+		}
+
+		.et_pb_toggle_11 {
+			max-width: 100%
+		}
+
+		.et_pb_module.et_pb_toggle_11.et_pb_toggle {
+			border-width: 3px
+		}
+
+		.et_pb_toggle_11.et_pb_toggle h5,
+		.et_pb_toggle_11.et_pb_toggle h1.et_pb_toggle_title,
+		.et_pb_toggle_11.et_pb_toggle h2.et_pb_toggle_title,
+		.et_pb_toggle_11.et_pb_toggle h3.et_pb_toggle_title,
+		.et_pb_toggle_11.et_pb_toggle h4.et_pb_toggle_title,
+		.et_pb_toggle_11.et_pb_toggle h6.et_pb_toggle_title {
+			text-align: center
+		}
+
+		.et_pb_toggle_7.et_pb_toggle h5,
+		.et_pb_toggle_7.et_pb_toggle h1.et_pb_toggle_title,
+		.et_pb_toggle_7.et_pb_toggle h2.et_pb_toggle_title,
+		.et_pb_toggle_7.et_pb_toggle h3.et_pb_toggle_title,
+		.et_pb_toggle_7.et_pb_toggle h4.et_pb_toggle_title,
+		.et_pb_toggle_7.et_pb_toggle h6.et_pb_toggle_title {
+			color: #ffffff !important;
+			text-align: center
+		}
+
+		.et_pb_toggle_6.et_pb_toggle.et_pb_toggle_close h5.et_pb_toggle_title,
+		.et_pb_toggle_6.et_pb_toggle.et_pb_toggle_close h1.et_pb_toggle_title,
+		.et_pb_toggle_6.et_pb_toggle.et_pb_toggle_close h2.et_pb_toggle_title,
+		.et_pb_toggle_6.et_pb_toggle.et_pb_toggle_close h3.et_pb_toggle_title,
+		.et_pb_toggle_6.et_pb_toggle.et_pb_toggle_close h4.et_pb_toggle_title,
+		.et_pb_toggle_6.et_pb_toggle.et_pb_toggle_close h6.et_pb_toggle_title {
+			color: #df0054 !important
+		}
+
+		.et_pb_text_0 {
+			max-width: 100%
+		}
+
+		.et_pb_toggle_1.et_pb_toggle h5,
+		.et_pb_toggle_1.et_pb_toggle h1.et_pb_toggle_title,
+		.et_pb_toggle_1.et_pb_toggle h2.et_pb_toggle_title,
+		.et_pb_toggle_1.et_pb_toggle h3.et_pb_toggle_title,
+		.et_pb_toggle_1.et_pb_toggle h4.et_pb_toggle_title,
+		.et_pb_toggle_1.et_pb_toggle h6.et_pb_toggle_title {
+			text-align: center
+		}
+
+		.et_pb_toggle_2 {
+			max-width: 100%
+		}
+
+		.et_pb_module.et_pb_toggle_2.et_pb_toggle {
+			border-width: 3px;
+			border-color: #c9c9c9
+		}
+
+		.et_pb_toggle_2.et_pb_toggle {
+			text-align: justify
+		}
+
+		.et_pb_toggle_2.et_pb_toggle h5,
+		.et_pb_toggle_2.et_pb_toggle h1.et_pb_toggle_title,
+		.et_pb_toggle_2.et_pb_toggle h2.et_pb_toggle_title,
+		.et_pb_toggle_2.et_pb_toggle h3.et_pb_toggle_title,
+		.et_pb_toggle_2.et_pb_toggle h4.et_pb_toggle_title,
+		.et_pb_toggle_2.et_pb_toggle h6.et_pb_toggle_title {
+			text-align: center
+		}
+
+		.et_pb_toggle_1.et_pb_toggle.et_pb_toggle_close h5.et_pb_toggle_title,
+		.et_pb_toggle_1.et_pb_toggle.et_pb_toggle_close h1.et_pb_toggle_title,
+		.et_pb_toggle_1.et_pb_toggle.et_pb_toggle_close h2.et_pb_toggle_title,
+		.et_pb_toggle_1.et_pb_toggle.et_pb_toggle_close h3.et_pb_toggle_title,
+		.et_pb_toggle_1.et_pb_toggle.et_pb_toggle_close h4.et_pb_toggle_title,
+		.et_pb_toggle_1.et_pb_toggle.et_pb_toggle_close h6.et_pb_toggle_title {
+			color: #ffffff !important
+		}
+
+		.et_pb_toggle_1.et_pb_toggle.et_pb_toggle_close {
+			background-color: #df0054
+		}
+
+		.et_pb_toggle_1 {
+			max-width: 100%
+		}
+
+		.et_pb_module.et_pb_toggle_1.et_pb_toggle {
+			border-width: 3px
+		}
+
+		.et_pb_toggle_1.et_pb_toggle {
+			text-align: justify
+		}
+
+		.et_pb_toggle_0.et_pb_toggle.et_pb_toggle_close h5.et_pb_toggle_title,
+		.et_pb_toggle_0.et_pb_toggle.et_pb_toggle_close h1.et_pb_toggle_title,
+		.et_pb_toggle_0.et_pb_toggle.et_pb_toggle_close h2.et_pb_toggle_title,
+		.et_pb_toggle_0.et_pb_toggle.et_pb_toggle_close h3.et_pb_toggle_title,
+		.et_pb_toggle_0.et_pb_toggle.et_pb_toggle_close h4.et_pb_toggle_title,
+		.et_pb_toggle_0.et_pb_toggle.et_pb_toggle_close h6.et_pb_toggle_title {
+			color: #df0053 !important
+		}
+
+		.et_pb_toggle_2.et_pb_toggle.et_pb_toggle_close h5.et_pb_toggle_title,
+		.et_pb_toggle_2.et_pb_toggle.et_pb_toggle_close h1.et_pb_toggle_title,
+		.et_pb_toggle_2.et_pb_toggle.et_pb_toggle_close h2.et_pb_toggle_title,
+		.et_pb_toggle_2.et_pb_toggle.et_pb_toggle_close h3.et_pb_toggle_title,
+		.et_pb_toggle_2.et_pb_toggle.et_pb_toggle_close h4.et_pb_toggle_title,
+		.et_pb_toggle_2.et_pb_toggle.et_pb_toggle_close h6.et_pb_toggle_title {
+			color: #df0054 !important
+		}
+
+		.et_pb_toggle_0.et_pb_toggle.et_pb_toggle_close {
+			background-color: #ffffff
+		}
+
+		.et_pb_toggle_0.et_pb_toggle.et_pb_toggle_open {
+			background-color: #ffffff
+		}
+
+		.et_pb_toggle_0 {
+			max-width: 100%
+		}
+
+		.et_pb_module.et_pb_toggle_0.et_pb_toggle {
+			border-width: 3px
+		}
+
+		.et_pb_toggle_0.et_pb_toggle {
+			text-align: justify
+		}
+
+		.et_pb_toggle_0.et_pb_toggle h5,
+		.et_pb_toggle_0.et_pb_toggle h1.et_pb_toggle_title,
+		.et_pb_toggle_0.et_pb_toggle h2.et_pb_toggle_title,
+		.et_pb_toggle_0.et_pb_toggle h3.et_pb_toggle_title,
+		.et_pb_toggle_0.et_pb_toggle h4.et_pb_toggle_title,
+		.et_pb_toggle_0.et_pb_toggle h6.et_pb_toggle_title {
+			text-align: center
+		}
+
+		.et_pb_text_2 {
+			max-width: 100%
+		}
+
+		.et_pb_image_0 {
+			max-width: 100%;
+			margin-left: 0
+		}
+
+		.et_pb_text_1 {
+			max-width: 100%
+		}
+
+		.et_pb_toggle_2.et_pb_toggle.et_pb_toggle_close {
+			background-color: #ffffff
+		}
+
+		.et_pb_toggle_3.et_pb_toggle h5,
+		.et_pb_toggle_3.et_pb_toggle h1.et_pb_toggle_title,
+		.et_pb_toggle_3.et_pb_toggle h2.et_pb_toggle_title,
+		.et_pb_toggle_3.et_pb_toggle h3.et_pb_toggle_title,
+		.et_pb_toggle_3.et_pb_toggle h4.et_pb_toggle_title,
+		.et_pb_toggle_3.et_pb_toggle h6.et_pb_toggle_title {
+			text-align: center
+		}
+
+		.et_pb_toggle_6.et_pb_toggle.et_pb_toggle_close {
+			background-color: #ffffff
+		}
+
+		.et_pb_toggle_4.et_pb_toggle.et_pb_toggle_close h5.et_pb_toggle_title,
+		.et_pb_toggle_4.et_pb_toggle.et_pb_toggle_close h1.et_pb_toggle_title,
+		.et_pb_toggle_4.et_pb_toggle.et_pb_toggle_close h2.et_pb_toggle_title,
+		.et_pb_toggle_4.et_pb_toggle.et_pb_toggle_close h3.et_pb_toggle_title,
+		.et_pb_toggle_4.et_pb_toggle.et_pb_toggle_close h4.et_pb_toggle_title,
+		.et_pb_toggle_4.et_pb_toggle.et_pb_toggle_close h6.et_pb_toggle_title {
+			color: #df0054 !important
+		}
+
+		.et_pb_toggle_6.et_pb_toggle.et_pb_toggle_open {
+			background-color: #ffffff
+		}
+
+		.et_pb_toggle_6 {
+			max-width: 100%
+		}
+
+		.et_pb_module.et_pb_toggle_6.et_pb_toggle {
+			border-width: 3px
+		}
+
+		.et_pb_toggle_6.et_pb_toggle h5,
+		.et_pb_toggle_6.et_pb_toggle h1.et_pb_toggle_title,
+		.et_pb_toggle_6.et_pb_toggle h2.et_pb_toggle_title,
+		.et_pb_toggle_6.et_pb_toggle h3.et_pb_toggle_title,
+		.et_pb_toggle_6.et_pb_toggle h4.et_pb_toggle_title,
+		.et_pb_toggle_6.et_pb_toggle h6.et_pb_toggle_title {
+			text-align: center
+		}
+
+		.et_pb_toggle_5.et_pb_toggle.et_pb_toggle_close h5.et_pb_toggle_title,
+		.et_pb_toggle_5.et_pb_toggle.et_pb_toggle_close h1.et_pb_toggle_title,
+		.et_pb_toggle_5.et_pb_toggle.et_pb_toggle_close h2.et_pb_toggle_title,
+		.et_pb_toggle_5.et_pb_toggle.et_pb_toggle_close h3.et_pb_toggle_title,
+		.et_pb_toggle_5.et_pb_toggle.et_pb_toggle_close h4.et_pb_toggle_title,
+		.et_pb_toggle_5.et_pb_toggle.et_pb_toggle_close h6.et_pb_toggle_title {
+			color: #ffffff !important
+		}
+
+		.et_pb_toggle_5.et_pb_toggle.et_pb_toggle_close {
+			background-color: #df0054
+		}
+
+		.et_pb_toggle_5 {
+			max-width: 100%
+		}
+
+		.et_pb_module.et_pb_toggle_5.et_pb_toggle {
+			border-width: 3px;
+			border-color: #c9c9c9
+		}
+
+		.et_pb_toggle_5.et_pb_toggle h5,
+		.et_pb_toggle_5.et_pb_toggle h1.et_pb_toggle_title,
+		.et_pb_toggle_5.et_pb_toggle h2.et_pb_toggle_title,
+		.et_pb_toggle_5.et_pb_toggle h3.et_pb_toggle_title,
+		.et_pb_toggle_5.et_pb_toggle h4.et_pb_toggle_title,
+		.et_pb_toggle_5.et_pb_toggle h6.et_pb_toggle_title {
+			text-align: center
+		}
+
+		.et_pb_toggle_4.et_pb_toggle.et_pb_toggle_close {
+			background-color: #ffffff
+		}
+
+		.et_pb_toggle_3.et_pb_toggle {
+			text-align: left
+		}
+
+		.et_pb_toggle_4 {
+			max-width: 100%
+		}
+
+		.et_pb_module.et_pb_toggle_4.et_pb_toggle {
+			border-width: 3px;
+			border-color: #c9c9c9
+		}
+
+		.et_pb_toggle_4.et_pb_toggle {
+			text-align: justify
+		}
+
+		.et_pb_toggle_4.et_pb_toggle h5,
+		.et_pb_toggle_4.et_pb_toggle h1.et_pb_toggle_title,
+		.et_pb_toggle_4.et_pb_toggle h2.et_pb_toggle_title,
+		.et_pb_toggle_4.et_pb_toggle h3.et_pb_toggle_title,
+		.et_pb_toggle_4.et_pb_toggle h4.et_pb_toggle_title,
+		.et_pb_toggle_4.et_pb_toggle h6.et_pb_toggle_title {
+			text-align: center
+		}
+
+		.et_pb_toggle_3.et_pb_toggle.et_pb_toggle_open h5.et_pb_toggle_title,
+		.et_pb_toggle_3.et_pb_toggle.et_pb_toggle_open h1.et_pb_toggle_title,
+		.et_pb_toggle_3.et_pb_toggle.et_pb_toggle_open h2.et_pb_toggle_title,
+		.et_pb_toggle_3.et_pb_toggle.et_pb_toggle_open h3.et_pb_toggle_title,
+		.et_pb_toggle_3.et_pb_toggle.et_pb_toggle_open h4.et_pb_toggle_title,
+		.et_pb_toggle_3.et_pb_toggle.et_pb_toggle_open h6.et_pb_toggle_title {
+			color: #000000 !important
+		}
+
+		.et_pb_toggle_3.et_pb_toggle.et_pb_toggle_close h5.et_pb_toggle_title,
+		.et_pb_toggle_3.et_pb_toggle.et_pb_toggle_close h1.et_pb_toggle_title,
+		.et_pb_toggle_3.et_pb_toggle.et_pb_toggle_close h2.et_pb_toggle_title,
+		.et_pb_toggle_3.et_pb_toggle.et_pb_toggle_close h3.et_pb_toggle_title,
+		.et_pb_toggle_3.et_pb_toggle.et_pb_toggle_close h4.et_pb_toggle_title,
+		.et_pb_toggle_3.et_pb_toggle.et_pb_toggle_close h6.et_pb_toggle_title {
+			color: #ffffff !important
+		}
+
+		.et_pb_toggle_3.et_pb_toggle.et_pb_toggle_close {
+			background-color: #df0054
+		}
+
+		.et_pb_toggle_3 {
+			max-width: 100%
+		}
+
+		.et_pb_module.et_pb_toggle_3.et_pb_toggle {
+			border-radius: 3px 3px 3px 3px;
+			overflow: hidden;
+			border-width: 3px
+		}
+
+		.et_pb_toggle_14.et_pb_toggle.et_pb_toggle_close h5.et_pb_toggle_title,
+		.et_pb_toggle_14.et_pb_toggle.et_pb_toggle_close h1.et_pb_toggle_title,
+		.et_pb_toggle_14.et_pb_toggle.et_pb_toggle_close h2.et_pb_toggle_title,
+		.et_pb_toggle_14.et_pb_toggle.et_pb_toggle_close h3.et_pb_toggle_title,
+		.et_pb_toggle_14.et_pb_toggle.et_pb_toggle_close h4.et_pb_toggle_title,
+		.et_pb_toggle_14.et_pb_toggle.et_pb_toggle_close h6.et_pb_toggle_title {
+			color: #df0054 !important
+		}
+	</style>
+
+	<div id="fancybox-tmp"></div>
+	<div id="fancybox-loading">
+		<div></div>
+	</div>
+	<div id="fancybox-overlay"></div>
+	<div id="fancybox-wrap">
+		<div id="fancybox-outer">
+			<div class="fancybox-bg" id="fancybox-bg-n"></div>
+			<div class="fancybox-bg" id="fancybox-bg-ne"></div>
+			<div class="fancybox-bg" id="fancybox-bg-e"></div>
+			<div class="fancybox-bg" id="fancybox-bg-se"></div>
+			<div class="fancybox-bg" id="fancybox-bg-s"></div>
+			<div class="fancybox-bg" id="fancybox-bg-sw"></div>
+			<div class="fancybox-bg" id="fancybox-bg-w"></div>
+			<div class="fancybox-bg" id="fancybox-bg-nw"></div>
+			<div id="fancybox-content"></div><a id="fancybox-close"></a>
+			<div id="fancybox-title"></div><a id="fancybox-left"><span class="fancy-ico"
+					id="fancybox-left-ico"></span></a><a id="fancybox-right"><span class="fancy-ico"
+					id="fancybox-right-ico"></span></a>
+		</div>
+	</div>
+</body>
+
+</html>
